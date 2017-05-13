@@ -12,11 +12,11 @@ Community Elections Resources and Polling Tool
 
 We welcome new contributors.  Be sure to check out guide on [contributing][contributing], which includes instructions on how to fork, clone, branch, commit, pull request and sync your fork.
 
-Not sure where to start? Look for [open issues][githubissue] on GitHub, or message the team on [our Slack site](https://codeforfoco.slack.com/) (can sign up via [email here]()).
+Not sure where to start? Look for [open issues][githubissue] on GitHub, or message the team on [our Slack site][slack]. If you aren't on our Slack, [click here for an invite][slackinvite].
 
 TL;DR Contribution Workflow:
 
-1. [Fork][fork] this repository and Clone your fork locally (be sure to do a `git submodule update --init --recursive` afterward as there is an external `Sass` dependency, and read [this](https://github.com/blog/2104-working-with-submodules) if you want more info). Afterward be sure to run `git submodule update --init --recursive` to ensure any third-party submodules are installed.
+1. [Fork][fork] this repository and Clone your fork locally.
 1. Checkout a new branch on which to make your changes.
 1. Make edits. Try to match existing coding style.
 1. Test your changes.
@@ -32,9 +32,12 @@ We encourage you to [open up an issue][newissue] if you have any feedback, sugge
 
 MIT, see [LICENSE](/LICENSE) for full license.
 
+[slack]: https://codeforfoco.slack.com/
+[slackinvite]: https://codeforfocoslack.herokuapp.com
 [fork]: https://help.github.com/articles/fork-a-repo/
-[forkthisrepo]: https://github.com/CodeForFoco/codeforfoco.github.io#fork-destination-box
+[forkthisrepo]: https://github.com/CodeForFoco/TODOUPDATEURL#fork-destination-box
 [contributing]: https://github.com/CodeForFoco/org/blob/master/CONTRIBUTING.md
-[githubissue]: https://github.com/CodeForFoco/CERP/issues
-[newissue]: https://github.com/CodeForFoco/CERP/issues/new
-[pullrequest]: https://github.com/CodeForFoco/codeforfoco.github.io/pulls
+[githubissue]: https://github.com/CodeForFoco/TODOUPDATEURL/issues
+[newissue]: https://github.com/CodeForFoco/TODOUPDATEURL/issues/new
+[pullrequest]: https://github.com/CodeForFoco/TODOUPDATEURL/pulls
+
