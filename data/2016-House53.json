@@ -1,0 +1,435 @@
+{
+	"topic": "House 53",
+	"year": "2016",
+	"precincts": [{
+			"precinctNumber": "2145335301",
+			"registeredVoters": 1355,
+			"totalVotes": 691,
+			"percentTurnout": 51.0,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 691,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335302",
+			"registeredVoters": 1926,
+			"totalVotes": 1090,
+			"percentTurnout": 56.59,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 1090,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335303",
+			"registeredVoters": 1522,
+			"totalVotes": 878,
+			"percentTurnout": 57.69,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 878,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335304",
+			"registeredVoters": 2163,
+			"totalVotes": 1024,
+			"percentTurnout": 47.34,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 1024,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335305",
+			"registeredVoters": 1893,
+			"totalVotes": 891,
+			"percentTurnout": 47.07,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 891,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335306",
+			"registeredVoters": 2275,
+			"totalVotes": 969,
+			"percentTurnout": 42.59,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 969,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335307",
+			"registeredVoters": 2427,
+			"totalVotes": 1098,
+			"percentTurnout": 45.24,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 1098,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335308",
+			"registeredVoters": 1453,
+			"totalVotes": 515,
+			"percentTurnout": 35.44,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 515,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335309",
+			"registeredVoters": 1989,
+			"totalVotes": 768,
+			"percentTurnout": 38.61,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 768,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335310",
+			"registeredVoters": 2120,
+			"totalVotes": 1040,
+			"percentTurnout": 49.06,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 1040,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335311",
+			"registeredVoters": 2285,
+			"totalVotes": 1023,
+			"percentTurnout": 44.77,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 1023,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335312",
+			"registeredVoters": 1959,
+			"totalVotes": 815,
+			"percentTurnout": 41.6,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 815,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335313",
+			"registeredVoters": 1560,
+			"totalVotes": 763,
+			"percentTurnout": 48.91,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 763,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335314",
+			"registeredVoters": 2529,
+			"totalVotes": 1202,
+			"percentTurnout": 47.53,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 1202,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335315",
+			"registeredVoters": 1740,
+			"totalVotes": 832,
+			"percentTurnout": 47.82,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 832,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335316",
+			"registeredVoters": 1109,
+			"totalVotes": 567,
+			"percentTurnout": 51.13,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 567,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335317",
+			"registeredVoters": 1515,
+			"totalVotes": 851,
+			"percentTurnout": 56.17,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 851,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335318",
+			"registeredVoters": 1625,
+			"totalVotes": 757,
+			"percentTurnout": 46.58,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 757,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335319",
+			"registeredVoters": 1373,
+			"totalVotes": 624,
+			"percentTurnout": 45.45,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 624,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335320",
+			"registeredVoters": 1262,
+			"totalVotes": 602,
+			"percentTurnout": 47.7,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 602,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335321",
+			"registeredVoters": 1648,
+			"totalVotes": 733,
+			"percentTurnout": 44.48,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 733,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335322",
+			"registeredVoters": 1508,
+			"totalVotes": 711,
+			"percentTurnout": 47.15,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 711,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335323",
+			"registeredVoters": 1529,
+			"totalVotes": 729,
+			"percentTurnout": 47.68,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 729,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335324",
+			"registeredVoters": 1701,
+			"totalVotes": 854,
+			"percentTurnout": 50.21,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 854,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335325",
+			"registeredVoters": 1813,
+			"totalVotes": 812,
+			"percentTurnout": 44.79,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 812,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335326",
+			"registeredVoters": 2083,
+			"totalVotes": 1030,
+			"percentTurnout": 49.45,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 1030,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335327",
+			"registeredVoters": 1576,
+			"totalVotes": 725,
+			"percentTurnout": 46.0,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 725,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335328",
+			"registeredVoters": 1604,
+			"totalVotes": 824,
+			"percentTurnout": 51.37,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 824,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335329",
+			"registeredVoters": 1235,
+			"totalVotes": 544,
+			"percentTurnout": 44.05,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 544,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335330",
+			"registeredVoters": 1501,
+			"totalVotes": 656,
+			"percentTurnout": 43.7,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 656,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335331",
+			"registeredVoters": 956,
+			"totalVotes": 443,
+			"percentTurnout": 46.34,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 443,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335332",
+			"registeredVoters": 1342,
+			"totalVotes": 561,
+			"percentTurnout": 41.8,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 561,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335333",
+			"registeredVoters": 1106,
+			"totalVotes": 474,
+			"percentTurnout": 42.86,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 474,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335334",
+			"registeredVoters": 1943,
+			"totalVotes": 775,
+			"percentTurnout": 39.89,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 775,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335335",
+			"registeredVoters": 2659,
+			"totalVotes": 1152,
+			"percentTurnout": 43.32,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 1152,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335336",
+			"registeredVoters": 1417,
+			"totalVotes": 576,
+			"percentTurnout": 40.65,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 576,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155335701",
+			"registeredVoters": 1496,
+			"totalVotes": 838,
+			"percentTurnout": 56.02,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 838,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155335702",
+			"registeredVoters": 1196,
+			"totalVotes": 656,
+			"percentTurnout": 54.85,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 656,
+					"percent": 100.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155335703",
+			"registeredVoters": 1300,
+			"totalVotes": 501,
+			"percentTurnout": 38.54,
+			"votes": [{
+					"candidate": "Jeni Arndt",
+					"votes": 501,
+					"percent": 100.0
+				}
+			]
+		}
+	]
+}

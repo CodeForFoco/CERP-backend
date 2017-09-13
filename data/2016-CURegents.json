@@ -1,0 +1,2571 @@
+{
+	"topic": "CU Regents",
+	"year": "2016",
+	"precincts": [{
+			"precinctNumber": "2235235101",
+			"registeredVoters": 1052,
+			"totalVotes": 688,
+			"percentTurnout": 65.4,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 385,
+					"percent": 55.96
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 303,
+					"percent": 44.04
+				}
+			]
+		}, {
+			"precinctNumber": "2235235102",
+			"registeredVoters": 242,
+			"totalVotes": 203,
+			"percentTurnout": 83.88,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 84,
+					"percent": 41.38
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 119,
+					"percent": 58.62
+				}
+			]
+		}, {
+			"precinctNumber": "2145235201",
+			"registeredVoters": 1925,
+			"totalVotes": 1139,
+			"percentTurnout": 59.17,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 689,
+					"percent": 60.49
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 450,
+					"percent": 39.51
+				}
+			]
+		}, {
+			"precinctNumber": "2145235202",
+			"registeredVoters": 1557,
+			"totalVotes": 987,
+			"percentTurnout": 63.39,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 583,
+					"percent": 59.07
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 404,
+					"percent": 40.93
+				}
+			]
+		}, {
+			"precinctNumber": "2145235203",
+			"registeredVoters": 1380,
+			"totalVotes": 988,
+			"percentTurnout": 71.59,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 493,
+					"percent": 49.9
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 495,
+					"percent": 50.1
+				}
+			]
+		}, {
+			"precinctNumber": "2145235204",
+			"registeredVoters": 1727,
+			"totalVotes": 1122,
+			"percentTurnout": 64.97,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 596,
+					"percent": 53.12
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 526,
+					"percent": 46.88
+				}
+			]
+		}, {
+			"precinctNumber": "2145235205",
+			"registeredVoters": 1470,
+			"totalVotes": 876,
+			"percentTurnout": 59.59,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 678,
+					"percent": 77.4
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 198,
+					"percent": 22.6
+				}
+			]
+		}, {
+			"precinctNumber": "2145235206",
+			"registeredVoters": 1812,
+			"totalVotes": 1177,
+			"percentTurnout": 64.96,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 905,
+					"percent": 76.89
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 272,
+					"percent": 23.11
+				}
+			]
+		}, {
+			"precinctNumber": "2145235207",
+			"registeredVoters": 1500,
+			"totalVotes": 887,
+			"percentTurnout": 59.13,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 709,
+					"percent": 79.93
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 178,
+					"percent": 20.07
+				}
+			]
+		}, {
+			"precinctNumber": "2145235208",
+			"registeredVoters": 1784,
+			"totalVotes": 1113,
+			"percentTurnout": 62.39,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 810,
+					"percent": 72.78
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 303,
+					"percent": 27.22
+				}
+			]
+		}, {
+			"precinctNumber": "2145235209",
+			"registeredVoters": 1643,
+			"totalVotes": 1078,
+			"percentTurnout": 65.61,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 767,
+					"percent": 71.15
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 311,
+					"percent": 28.85
+				}
+			]
+		}, {
+			"precinctNumber": "2145235210",
+			"registeredVoters": 1624,
+			"totalVotes": 955,
+			"percentTurnout": 58.81,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 593,
+					"percent": 62.09
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 362,
+					"percent": 37.91
+				}
+			]
+		}, {
+			"precinctNumber": "2145235211",
+			"registeredVoters": 1367,
+			"totalVotes": 890,
+			"percentTurnout": 65.11,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 532,
+					"percent": 59.78
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 358,
+					"percent": 40.22
+				}
+			]
+		}, {
+			"precinctNumber": "2145235212",
+			"registeredVoters": 1192,
+			"totalVotes": 879,
+			"percentTurnout": 73.74,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 547,
+					"percent": 62.23
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 332,
+					"percent": 37.77
+				}
+			]
+		}, {
+			"precinctNumber": "2145235213",
+			"registeredVoters": 2152,
+			"totalVotes": 1407,
+			"percentTurnout": 65.38,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 875,
+					"percent": 62.19
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 532,
+					"percent": 37.81
+				}
+			]
+		}, {
+			"precinctNumber": "2145235214",
+			"registeredVoters": 1585,
+			"totalVotes": 1056,
+			"percentTurnout": 66.62,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 712,
+					"percent": 67.42
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 344,
+					"percent": 32.58
+				}
+			]
+		}, {
+			"precinctNumber": "2145235215",
+			"registeredVoters": 1201,
+			"totalVotes": 799,
+			"percentTurnout": 66.53,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 448,
+					"percent": 56.07
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 351,
+					"percent": 43.93
+				}
+			]
+		}, {
+			"precinctNumber": "2145235216",
+			"registeredVoters": 1096,
+			"totalVotes": 671,
+			"percentTurnout": 61.22,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 460,
+					"percent": 68.55
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 211,
+					"percent": 31.45
+				}
+			]
+		}, {
+			"precinctNumber": "2145235217",
+			"registeredVoters": 1599,
+			"totalVotes": 1145,
+			"percentTurnout": 71.61,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 664,
+					"percent": 57.99
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 481,
+					"percent": 42.01
+				}
+			]
+		}, {
+			"precinctNumber": "2145235218",
+			"registeredVoters": 2535,
+			"totalVotes": 1774,
+			"percentTurnout": 69.98,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 946,
+					"percent": 53.33
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 828,
+					"percent": 46.67
+				}
+			]
+		}, {
+			"precinctNumber": "2145235219",
+			"registeredVoters": 1695,
+			"totalVotes": 1202,
+			"percentTurnout": 70.91,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 526,
+					"percent": 43.76
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 676,
+					"percent": 56.24
+				}
+			]
+		}, {
+			"precinctNumber": "2145235220",
+			"registeredVoters": 1336,
+			"totalVotes": 1013,
+			"percentTurnout": 75.82,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 548,
+					"percent": 54.1
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 465,
+					"percent": 45.9
+				}
+			]
+		}, {
+			"precinctNumber": "2145235221",
+			"registeredVoters": 1624,
+			"totalVotes": 1018,
+			"percentTurnout": 62.68,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 547,
+					"percent": 53.73
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 471,
+					"percent": 46.27
+				}
+			]
+		}, {
+			"precinctNumber": "2145235222",
+			"registeredVoters": 2116,
+			"totalVotes": 1395,
+			"percentTurnout": 65.93,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 822,
+					"percent": 58.92
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 573,
+					"percent": 41.08
+				}
+			]
+		}, {
+			"precinctNumber": "2145235223",
+			"registeredVoters": 1620,
+			"totalVotes": 1129,
+			"percentTurnout": 69.69,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 558,
+					"percent": 49.42
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 571,
+					"percent": 50.58
+				}
+			]
+		}, {
+			"precinctNumber": "2145235224",
+			"registeredVoters": 1175,
+			"totalVotes": 831,
+			"percentTurnout": 70.72,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 444,
+					"percent": 53.43
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 387,
+					"percent": 46.57
+				}
+			]
+		}, {
+			"precinctNumber": "2145235225",
+			"registeredVoters": 1639,
+			"totalVotes": 1263,
+			"percentTurnout": 77.06,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 477,
+					"percent": 37.77
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 786,
+					"percent": 62.23
+				}
+			]
+		}, {
+			"precinctNumber": "2145235226",
+			"registeredVoters": 2357,
+			"totalVotes": 1449,
+			"percentTurnout": 61.48,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 763,
+					"percent": 52.66
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 686,
+					"percent": 47.34
+				}
+			]
+		}, {
+			"precinctNumber": "2145235227",
+			"registeredVoters": 1995,
+			"totalVotes": 1389,
+			"percentTurnout": 69.62,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 679,
+					"percent": 48.88
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 710,
+					"percent": 51.12
+				}
+			]
+		}, {
+			"precinctNumber": "2145235228",
+			"registeredVoters": 1411,
+			"totalVotes": 1003,
+			"percentTurnout": 71.08,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 458,
+					"percent": 45.66
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 545,
+					"percent": 54.34
+				}
+			]
+		}, {
+			"precinctNumber": "2145235229",
+			"registeredVoters": 1798,
+			"totalVotes": 1261,
+			"percentTurnout": 70.13,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 553,
+					"percent": 43.85
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 708,
+					"percent": 56.15
+				}
+			]
+		}, {
+			"precinctNumber": "2145235230",
+			"registeredVoters": 1342,
+			"totalVotes": 958,
+			"percentTurnout": 71.39,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 435,
+					"percent": 45.41
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 523,
+					"percent": 54.59
+				}
+			]
+		}, {
+			"precinctNumber": "2145235231",
+			"registeredVoters": 1352,
+			"totalVotes": 928,
+			"percentTurnout": 68.64,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 488,
+					"percent": 52.59
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 440,
+					"percent": 47.41
+				}
+			]
+		}, {
+			"precinctNumber": "2145235232",
+			"registeredVoters": 1265,
+			"totalVotes": 957,
+			"percentTurnout": 75.65,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 432,
+					"percent": 45.14
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 525,
+					"percent": 54.86
+				}
+			]
+		}, {
+			"precinctNumber": "2145235233",
+			"registeredVoters": 1417,
+			"totalVotes": 1002,
+			"percentTurnout": 70.71,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 451,
+					"percent": 45.01
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 551,
+					"percent": 54.99
+				}
+			]
+		}, {
+			"precinctNumber": "2145235234",
+			"registeredVoters": 1284,
+			"totalVotes": 963,
+			"percentTurnout": 75.0,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 444,
+					"percent": 46.11
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 519,
+					"percent": 53.89
+				}
+			]
+		}, {
+			"precinctNumber": "2145235235",
+			"registeredVoters": 1617,
+			"totalVotes": 1174,
+			"percentTurnout": 72.6,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 501,
+					"percent": 42.67
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 673,
+					"percent": 57.33
+				}
+			]
+		}, {
+			"precinctNumber": "2145235236",
+			"registeredVoters": 1953,
+			"totalVotes": 1483,
+			"percentTurnout": 75.93,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 565,
+					"percent": 38.1
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 918,
+					"percent": 61.9
+				}
+			]
+		}, {
+			"precinctNumber": "2145235237",
+			"registeredVoters": 1434,
+			"totalVotes": 1097,
+			"percentTurnout": 76.5,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 477,
+					"percent": 43.48
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 620,
+					"percent": 56.52
+				}
+			]
+		}, {
+			"precinctNumber": "2145235238",
+			"registeredVoters": 1157,
+			"totalVotes": 843,
+			"percentTurnout": 72.86,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 389,
+					"percent": 46.14
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 454,
+					"percent": 53.86
+				}
+			]
+		}, {
+			"precinctNumber": "2145235239",
+			"registeredVoters": 1288,
+			"totalVotes": 739,
+			"percentTurnout": 57.38,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 419,
+					"percent": 56.7
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 320,
+					"percent": 43.3
+				}
+			]
+		}, {
+			"precinctNumber": "2145235240",
+			"registeredVoters": 1335,
+			"totalVotes": 939,
+			"percentTurnout": 70.34,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 499,
+					"percent": 53.14
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 440,
+					"percent": 46.86
+				}
+			]
+		}, {
+			"precinctNumber": "2145335301",
+			"registeredVoters": 1355,
+			"totalVotes": 858,
+			"percentTurnout": 63.32,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 644,
+					"percent": 75.06
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 214,
+					"percent": 24.94
+				}
+			]
+		}, {
+			"precinctNumber": "2145335302",
+			"registeredVoters": 1926,
+			"totalVotes": 1266,
+			"percentTurnout": 65.73,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 1016,
+					"percent": 80.25
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 250,
+					"percent": 19.75
+				}
+			]
+		}, {
+			"precinctNumber": "2145335303",
+			"registeredVoters": 1522,
+			"totalVotes": 1001,
+			"percentTurnout": 65.77,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 780,
+					"percent": 77.92
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 221,
+					"percent": 22.08
+				}
+			]
+		}, {
+			"precinctNumber": "2145335304",
+			"registeredVoters": 2163,
+			"totalVotes": 1363,
+			"percentTurnout": 63.01,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 877,
+					"percent": 64.34
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 486,
+					"percent": 35.66
+				}
+			]
+		}, {
+			"precinctNumber": "2145335305",
+			"registeredVoters": 1893,
+			"totalVotes": 1180,
+			"percentTurnout": 62.33,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 727,
+					"percent": 61.61
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 453,
+					"percent": 38.39
+				}
+			]
+		}, {
+			"precinctNumber": "2145335306",
+			"registeredVoters": 2275,
+			"totalVotes": 1253,
+			"percentTurnout": 55.08,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 785,
+					"percent": 62.65
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 468,
+					"percent": 37.35
+				}
+			]
+		}, {
+			"precinctNumber": "2145335307",
+			"registeredVoters": 2427,
+			"totalVotes": 1374,
+			"percentTurnout": 56.61,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 934,
+					"percent": 67.98
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 440,
+					"percent": 32.02
+				}
+			]
+		}, {
+			"precinctNumber": "2145335308",
+			"registeredVoters": 1453,
+			"totalVotes": 710,
+			"percentTurnout": 48.86,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 433,
+					"percent": 60.99
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 277,
+					"percent": 39.01
+				}
+			]
+		}, {
+			"precinctNumber": "2145335309",
+			"registeredVoters": 1989,
+			"totalVotes": 1004,
+			"percentTurnout": 50.48,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 672,
+					"percent": 66.93
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 332,
+					"percent": 33.07
+				}
+			]
+		}, {
+			"precinctNumber": "2145335310",
+			"registeredVoters": 2120,
+			"totalVotes": 1327,
+			"percentTurnout": 62.59,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 880,
+					"percent": 66.31
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 447,
+					"percent": 33.69
+				}
+			]
+		}, {
+			"precinctNumber": "2145335311",
+			"registeredVoters": 2285,
+			"totalVotes": 1316,
+			"percentTurnout": 57.59,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 845,
+					"percent": 64.21
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 471,
+					"percent": 35.79
+				}
+			]
+		}, {
+			"precinctNumber": "2145335312",
+			"registeredVoters": 1959,
+			"totalVotes": 1106,
+			"percentTurnout": 56.46,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 716,
+					"percent": 64.74
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 390,
+					"percent": 35.26
+				}
+			]
+		}, {
+			"precinctNumber": "2145335313",
+			"registeredVoters": 1560,
+			"totalVotes": 1045,
+			"percentTurnout": 66.99,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 639,
+					"percent": 61.15
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 406,
+					"percent": 38.85
+				}
+			]
+		}, {
+			"precinctNumber": "2145335314",
+			"registeredVoters": 2529,
+			"totalVotes": 1566,
+			"percentTurnout": 61.92,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 1002,
+					"percent": 63.98
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 564,
+					"percent": 36.02
+				}
+			]
+		}, {
+			"precinctNumber": "2145335315",
+			"registeredVoters": 1740,
+			"totalVotes": 1149,
+			"percentTurnout": 66.03,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 663,
+					"percent": 57.7
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 486,
+					"percent": 42.3
+				}
+			]
+		}, {
+			"precinctNumber": "2145335316",
+			"registeredVoters": 1109,
+			"totalVotes": 788,
+			"percentTurnout": 71.06,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 461,
+					"percent": 58.5
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 327,
+					"percent": 41.5
+				}
+			]
+		}, {
+			"precinctNumber": "2145335317",
+			"registeredVoters": 1515,
+			"totalVotes": 1146,
+			"percentTurnout": 75.64,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 657,
+					"percent": 57.33
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 489,
+					"percent": 42.67
+				}
+			]
+		}, {
+			"precinctNumber": "2145335318",
+			"registeredVoters": 1625,
+			"totalVotes": 1017,
+			"percentTurnout": 62.58,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 628,
+					"percent": 61.75
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 389,
+					"percent": 38.25
+				}
+			]
+		}, {
+			"precinctNumber": "2145335319",
+			"registeredVoters": 1373,
+			"totalVotes": 901,
+			"percentTurnout": 65.62,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 489,
+					"percent": 54.27
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 412,
+					"percent": 45.73
+				}
+			]
+		}, {
+			"precinctNumber": "2145335320",
+			"registeredVoters": 1262,
+			"totalVotes": 828,
+			"percentTurnout": 65.61,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 499,
+					"percent": 60.27
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 329,
+					"percent": 39.73
+				}
+			]
+		}, {
+			"precinctNumber": "2145335321",
+			"registeredVoters": 1648,
+			"totalVotes": 951,
+			"percentTurnout": 57.71,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 594,
+					"percent": 62.46
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 357,
+					"percent": 37.54
+				}
+			]
+		}, {
+			"precinctNumber": "2145335322",
+			"registeredVoters": 1508,
+			"totalVotes": 1005,
+			"percentTurnout": 66.64,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 584,
+					"percent": 58.11
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 421,
+					"percent": 41.89
+				}
+			]
+		}, {
+			"precinctNumber": "2145335323",
+			"registeredVoters": 1529,
+			"totalVotes": 1060,
+			"percentTurnout": 69.33,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 552,
+					"percent": 52.08
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 508,
+					"percent": 47.92
+				}
+			]
+		}, {
+			"precinctNumber": "2145335324",
+			"registeredVoters": 1701,
+			"totalVotes": 1277,
+			"percentTurnout": 75.07,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 642,
+					"percent": 50.27
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 635,
+					"percent": 49.73
+				}
+			]
+		}, {
+			"precinctNumber": "2145335325",
+			"registeredVoters": 1813,
+			"totalVotes": 1183,
+			"percentTurnout": 65.25,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 672,
+					"percent": 56.8
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 511,
+					"percent": 43.2
+				}
+			]
+		}, {
+			"precinctNumber": "2145335326",
+			"registeredVoters": 2083,
+			"totalVotes": 1385,
+			"percentTurnout": 66.49,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 824,
+					"percent": 59.49
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 561,
+					"percent": 40.51
+				}
+			]
+		}, {
+			"precinctNumber": "2145335327",
+			"registeredVoters": 1576,
+			"totalVotes": 1181,
+			"percentTurnout": 74.94,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 571,
+					"percent": 48.35
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 610,
+					"percent": 51.65
+				}
+			]
+		}, {
+			"precinctNumber": "2145335328",
+			"registeredVoters": 1604,
+			"totalVotes": 1219,
+			"percentTurnout": 76.0,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 609,
+					"percent": 49.96
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 610,
+					"percent": 50.04
+				}
+			]
+		}, {
+			"precinctNumber": "2145335329",
+			"registeredVoters": 1235,
+			"totalVotes": 921,
+			"percentTurnout": 74.57,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 386,
+					"percent": 41.91
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 535,
+					"percent": 58.09
+				}
+			]
+		}, {
+			"precinctNumber": "2145335330",
+			"registeredVoters": 1501,
+			"totalVotes": 1092,
+			"percentTurnout": 72.75,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 456,
+					"percent": 41.76
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 636,
+					"percent": 58.24
+				}
+			]
+		}, {
+			"precinctNumber": "2145335331",
+			"registeredVoters": 956,
+			"totalVotes": 679,
+			"percentTurnout": 71.03,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 301,
+					"percent": 44.33
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 378,
+					"percent": 55.67
+				}
+			]
+		}, {
+			"precinctNumber": "2145335332",
+			"registeredVoters": 1342,
+			"totalVotes": 872,
+			"percentTurnout": 64.98,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 405,
+					"percent": 46.44
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 467,
+					"percent": 53.56
+				}
+			]
+		}, {
+			"precinctNumber": "2145335333",
+			"registeredVoters": 1106,
+			"totalVotes": 774,
+			"percentTurnout": 69.98,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 351,
+					"percent": 45.35
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 423,
+					"percent": 54.65
+				}
+			]
+		}, {
+			"precinctNumber": "2145335334",
+			"registeredVoters": 1943,
+			"totalVotes": 1007,
+			"percentTurnout": 51.83,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 690,
+					"percent": 68.52
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 317,
+					"percent": 31.48
+				}
+			]
+		}, {
+			"precinctNumber": "2145335335",
+			"registeredVoters": 2659,
+			"totalVotes": 1432,
+			"percentTurnout": 53.85,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 979,
+					"percent": 68.37
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 453,
+					"percent": 31.63
+				}
+			]
+		}, {
+			"precinctNumber": "2145335336",
+			"registeredVoters": 1417,
+			"totalVotes": 748,
+			"percentTurnout": 52.79,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 502,
+					"percent": 67.11
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 246,
+					"percent": 32.89
+				}
+			]
+		}, {
+			"precinctNumber": "2154935401",
+			"registeredVoters": 767,
+			"totalVotes": 523,
+			"percentTurnout": 68.19,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 183,
+					"percent": 34.99
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 340,
+					"percent": 65.01
+				}
+			]
+		}, {
+			"precinctNumber": "2154935402",
+			"registeredVoters": 1954,
+			"totalVotes": 1439,
+			"percentTurnout": 73.64,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 485,
+					"percent": 33.7
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 954,
+					"percent": 66.3
+				}
+			]
+		}, {
+			"precinctNumber": "2154935403",
+			"registeredVoters": 1371,
+			"totalVotes": 1005,
+			"percentTurnout": 73.3,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 260,
+					"percent": 25.87
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 745,
+					"percent": 74.13
+				}
+			]
+		}, {
+			"precinctNumber": "2154935404",
+			"registeredVoters": 127,
+			"totalVotes": 96,
+			"percentTurnout": 75.59,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 32,
+					"percent": 33.33
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 64,
+					"percent": 66.67
+				}
+			]
+		}, {
+			"precinctNumber": "2154935405",
+			"registeredVoters": 808,
+			"totalVotes": 586,
+			"percentTurnout": 72.52,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 288,
+					"percent": 49.15
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 298,
+					"percent": 50.85
+				}
+			]
+		}, {
+			"precinctNumber": "2154935406",
+			"registeredVoters": 1006,
+			"totalVotes": 768,
+			"percentTurnout": 76.34,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 371,
+					"percent": 48.31
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 397,
+					"percent": 51.69
+				}
+			]
+		}, {
+			"precinctNumber": "2154935407",
+			"registeredVoters": 1855,
+			"totalVotes": 1371,
+			"percentTurnout": 73.91,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 706,
+					"percent": 51.5
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 665,
+					"percent": 48.5
+				}
+			]
+		}, {
+			"precinctNumber": "2154935408",
+			"registeredVoters": 2034,
+			"totalVotes": 1524,
+			"percentTurnout": 74.93,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 562,
+					"percent": 36.88
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 962,
+					"percent": 63.12
+				}
+			]
+		}, {
+			"precinctNumber": "2154935409",
+			"registeredVoters": 1322,
+			"totalVotes": 972,
+			"percentTurnout": 73.52,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 275,
+					"percent": 28.29
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 697,
+					"percent": 71.71
+				}
+			]
+		}, {
+			"precinctNumber": "2154935410",
+			"registeredVoters": 1122,
+			"totalVotes": 757,
+			"percentTurnout": 67.47,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 323,
+					"percent": 42.67
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 434,
+					"percent": 57.33
+				}
+			]
+		}, {
+			"precinctNumber": "2154935411",
+			"registeredVoters": 1560,
+			"totalVotes": 1179,
+			"percentTurnout": 75.58,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 534,
+					"percent": 45.29
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 645,
+					"percent": 54.71
+				}
+			]
+		}, {
+			"precinctNumber": "2154935412",
+			"registeredVoters": 1096,
+			"totalVotes": 747,
+			"percentTurnout": 68.16,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 391,
+					"percent": 52.34
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 356,
+					"percent": 47.66
+				}
+			]
+		}, {
+			"precinctNumber": "2154935413",
+			"registeredVoters": 1404,
+			"totalVotes": 1016,
+			"percentTurnout": 72.36,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 474,
+					"percent": 46.65
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 542,
+					"percent": 53.35
+				}
+			]
+		}, {
+			"precinctNumber": "2154935414",
+			"registeredVoters": 1379,
+			"totalVotes": 972,
+			"percentTurnout": 70.49,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 425,
+					"percent": 43.72
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 547,
+					"percent": 56.28
+				}
+			]
+		}, {
+			"precinctNumber": "2154935415",
+			"registeredVoters": 1579,
+			"totalVotes": 1081,
+			"percentTurnout": 68.46,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 512,
+					"percent": 47.36
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 569,
+					"percent": 52.64
+				}
+			]
+		}, {
+			"precinctNumber": "2154935416",
+			"registeredVoters": 1511,
+			"totalVotes": 1142,
+			"percentTurnout": 75.58,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 567,
+					"percent": 49.65
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 575,
+					"percent": 50.35
+				}
+			]
+		}, {
+			"precinctNumber": "2154935417",
+			"registeredVoters": 1253,
+			"totalVotes": 980,
+			"percentTurnout": 78.21,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 478,
+					"percent": 48.78
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 502,
+					"percent": 51.22
+				}
+			]
+		}, {
+			"precinctNumber": "2154935418",
+			"registeredVoters": 1670,
+			"totalVotes": 1255,
+			"percentTurnout": 75.15,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 442,
+					"percent": 35.22
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 813,
+					"percent": 64.78
+				}
+			]
+		}, {
+			"precinctNumber": "2154935419",
+			"registeredVoters": 1615,
+			"totalVotes": 1178,
+			"percentTurnout": 72.94,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 373,
+					"percent": 31.66
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 805,
+					"percent": 68.34
+				}
+			]
+		}, {
+			"precinctNumber": "2154935420",
+			"registeredVoters": 2120,
+			"totalVotes": 1535,
+			"percentTurnout": 72.41,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 598,
+					"percent": 38.96
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 937,
+					"percent": 61.04
+				}
+			]
+		}, {
+			"precinctNumber": "2154935421",
+			"registeredVoters": 1889,
+			"totalVotes": 1373,
+			"percentTurnout": 72.68,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 556,
+					"percent": 40.5
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 817,
+					"percent": 59.5
+				}
+			]
+		}, {
+			"precinctNumber": "2154935422",
+			"registeredVoters": 1360,
+			"totalVotes": 1042,
+			"percentTurnout": 76.62,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 316,
+					"percent": 30.33
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 726,
+					"percent": 69.67
+				}
+			]
+		}, {
+			"precinctNumber": "2154935423",
+			"registeredVoters": 1538,
+			"totalVotes": 1220,
+			"percentTurnout": 79.32,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 356,
+					"percent": 29.18
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 864,
+					"percent": 70.82
+				}
+			]
+		}, {
+			"precinctNumber": "2154935424",
+			"registeredVoters": 44,
+			"totalVotes": 31,
+			"percentTurnout": 70.45,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 10,
+					"percent": 32.26
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 21,
+					"percent": 67.74
+				}
+			]
+		}, {
+			"precinctNumber": "2154935425",
+			"registeredVoters": 189,
+			"totalVotes": 140,
+			"percentTurnout": 74.07,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 39,
+					"percent": 27.86
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 101,
+					"percent": 72.14
+				}
+			]
+		}, {
+			"precinctNumber": "2154935426",
+			"registeredVoters": 1154,
+			"totalVotes": 883,
+			"percentTurnout": 76.52,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 308,
+					"percent": 34.88
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 575,
+					"percent": 65.12
+				}
+			]
+		}, {
+			"precinctNumber": "2154935427",
+			"registeredVoters": 1486,
+			"totalVotes": 1128,
+			"percentTurnout": 75.91,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 548,
+					"percent": 48.58
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 580,
+					"percent": 51.42
+				}
+			]
+		}, {
+			"precinctNumber": "2154935428",
+			"registeredVoters": 1359,
+			"totalVotes": 995,
+			"percentTurnout": 73.22,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 568,
+					"percent": 57.09
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 427,
+					"percent": 42.91
+				}
+			]
+		}, {
+			"precinctNumber": "2154935429",
+			"registeredVoters": 1937,
+			"totalVotes": 1382,
+			"percentTurnout": 71.35,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 663,
+					"percent": 47.97
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 719,
+					"percent": 52.03
+				}
+			]
+		}, {
+			"precinctNumber": "2154935430",
+			"registeredVoters": 1086,
+			"totalVotes": 814,
+			"percentTurnout": 74.95,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 289,
+					"percent": 35.5
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 525,
+					"percent": 64.5
+				}
+			]
+		}, {
+			"precinctNumber": "2154935431",
+			"registeredVoters": 1321,
+			"totalVotes": 891,
+			"percentTurnout": 67.45,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 316,
+					"percent": 35.47
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 575,
+					"percent": 64.53
+				}
+			]
+		}, {
+			"precinctNumber": "2154935432",
+			"registeredVoters": 1834,
+			"totalVotes": 1251,
+			"percentTurnout": 68.21,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 455,
+					"percent": 36.37
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 796,
+					"percent": 63.63
+				}
+			]
+		}, {
+			"precinctNumber": "2154935433",
+			"registeredVoters": 2304,
+			"totalVotes": 1625,
+			"percentTurnout": 70.53,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 569,
+					"percent": 35.02
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 1056,
+					"percent": 64.98
+				}
+			]
+		}, {
+			"precinctNumber": "2154935434",
+			"registeredVoters": 1119,
+			"totalVotes": 816,
+			"percentTurnout": 72.92,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 263,
+					"percent": 32.23
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 553,
+					"percent": 67.77
+				}
+			]
+		}, {
+			"precinctNumber": "2155135501",
+			"registeredVoters": 1722,
+			"totalVotes": 1244,
+			"percentTurnout": 72.24,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 471,
+					"percent": 37.86
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 773,
+					"percent": 62.14
+				}
+			]
+		}, {
+			"precinctNumber": "2155135502",
+			"registeredVoters": 1356,
+			"totalVotes": 1025,
+			"percentTurnout": 75.59,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 315,
+					"percent": 30.73
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 710,
+					"percent": 69.27
+				}
+			]
+		}, {
+			"precinctNumber": "2155135503",
+			"registeredVoters": 1517,
+			"totalVotes": 1054,
+			"percentTurnout": 69.48,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 344,
+					"percent": 32.64
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 710,
+					"percent": 67.36
+				}
+			]
+		}, {
+			"precinctNumber": "2155135504",
+			"registeredVoters": 1623,
+			"totalVotes": 1102,
+			"percentTurnout": 67.9,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 443,
+					"percent": 40.2
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 659,
+					"percent": 59.8
+				}
+			]
+		}, {
+			"precinctNumber": "2155135505",
+			"registeredVoters": 1499,
+			"totalVotes": 946,
+			"percentTurnout": 63.11,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 369,
+					"percent": 39.01
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 577,
+					"percent": 60.99
+				}
+			]
+		}, {
+			"precinctNumber": "2155135506",
+			"registeredVoters": 1341,
+			"totalVotes": 914,
+			"percentTurnout": 68.16,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 347,
+					"percent": 37.96
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 567,
+					"percent": 62.04
+				}
+			]
+		}, {
+			"precinctNumber": "2155135507",
+			"registeredVoters": 1768,
+			"totalVotes": 1335,
+			"percentTurnout": 75.51,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 440,
+					"percent": 32.96
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 895,
+					"percent": 67.04
+				}
+			]
+		}, {
+			"precinctNumber": "2155135508",
+			"registeredVoters": 1094,
+			"totalVotes": 856,
+			"percentTurnout": 78.24,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 296,
+					"percent": 34.58
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 560,
+					"percent": 65.42
+				}
+			]
+		}, {
+			"precinctNumber": "2155135509",
+			"registeredVoters": 980,
+			"totalVotes": 690,
+			"percentTurnout": 70.41,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 268,
+					"percent": 38.84
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 422,
+					"percent": 61.16
+				}
+			]
+		}, {
+			"precinctNumber": "2155135510",
+			"registeredVoters": 1364,
+			"totalVotes": 944,
+			"percentTurnout": 69.21,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 397,
+					"percent": 42.06
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 547,
+					"percent": 57.94
+				}
+			]
+		}, {
+			"precinctNumber": "2155135511",
+			"registeredVoters": 988,
+			"totalVotes": 772,
+			"percentTurnout": 78.14,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 281,
+					"percent": 36.4
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 491,
+					"percent": 63.6
+				}
+			]
+		}, {
+			"precinctNumber": "2155135512",
+			"registeredVoters": 1644,
+			"totalVotes": 1198,
+			"percentTurnout": 72.87,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 485,
+					"percent": 40.48
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 713,
+					"percent": 59.52
+				}
+			]
+		}, {
+			"precinctNumber": "2155135513",
+			"registeredVoters": 1310,
+			"totalVotes": 929,
+			"percentTurnout": 70.92,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 361,
+					"percent": 38.86
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 568,
+					"percent": 61.14
+				}
+			]
+		}, {
+			"precinctNumber": "2155135514",
+			"registeredVoters": 1648,
+			"totalVotes": 1096,
+			"percentTurnout": 66.5,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 465,
+					"percent": 42.43
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 631,
+					"percent": 57.57
+				}
+			]
+		}, {
+			"precinctNumber": "2155135515",
+			"registeredVoters": 1245,
+			"totalVotes": 873,
+			"percentTurnout": 70.12,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 292,
+					"percent": 33.45
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 581,
+					"percent": 66.55
+				}
+			]
+		}, {
+			"precinctNumber": "2155135516",
+			"registeredVoters": 1650,
+			"totalVotes": 1289,
+			"percentTurnout": 78.12,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 457,
+					"percent": 35.45
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 832,
+					"percent": 64.55
+				}
+			]
+		}, {
+			"precinctNumber": "2155135517",
+			"registeredVoters": 1124,
+			"totalVotes": 853,
+			"percentTurnout": 75.89,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 312,
+					"percent": 36.58
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 541,
+					"percent": 63.42
+				}
+			]
+		}, {
+			"precinctNumber": "2155135518",
+			"registeredVoters": 1853,
+			"totalVotes": 1199,
+			"percentTurnout": 64.71,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 467,
+					"percent": 38.95
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 732,
+					"percent": 61.05
+				}
+			]
+		}, {
+			"precinctNumber": "2155135519",
+			"registeredVoters": 1484,
+			"totalVotes": 1020,
+			"percentTurnout": 68.73,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 375,
+					"percent": 36.76
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 645,
+					"percent": 63.24
+				}
+			]
+		}, {
+			"precinctNumber": "2155135520",
+			"registeredVoters": 1680,
+			"totalVotes": 1112,
+			"percentTurnout": 66.19,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 457,
+					"percent": 41.1
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 655,
+					"percent": 58.9
+				}
+			]
+		}, {
+			"precinctNumber": "2155135521",
+			"registeredVoters": 1384,
+			"totalVotes": 993,
+			"percentTurnout": 71.75,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 428,
+					"percent": 43.1
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 565,
+					"percent": 56.9
+				}
+			]
+		}, {
+			"precinctNumber": "2155135522",
+			"registeredVoters": 1752,
+			"totalVotes": 1320,
+			"percentTurnout": 75.34,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 463,
+					"percent": 35.08
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 857,
+					"percent": 64.92
+				}
+			]
+		}, {
+			"precinctNumber": "2155135523",
+			"registeredVoters": 1218,
+			"totalVotes": 942,
+			"percentTurnout": 77.34,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 348,
+					"percent": 36.94
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 594,
+					"percent": 63.06
+				}
+			]
+		}, {
+			"precinctNumber": "2155135524",
+			"registeredVoters": 1453,
+			"totalVotes": 994,
+			"percentTurnout": 68.41,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 395,
+					"percent": 39.74
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 599,
+					"percent": 60.26
+				}
+			]
+		}, {
+			"precinctNumber": "2155135525",
+			"registeredVoters": 680,
+			"totalVotes": 544,
+			"percentTurnout": 80.0,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 184,
+					"percent": 33.82
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 360,
+					"percent": 66.18
+				}
+			]
+		}, {
+			"precinctNumber": "2155135526",
+			"registeredVoters": 1584,
+			"totalVotes": 1179,
+			"percentTurnout": 74.43,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 439,
+					"percent": 37.23
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 740,
+					"percent": 62.77
+				}
+			]
+		}, {
+			"precinctNumber": "2155135527",
+			"registeredVoters": 1532,
+			"totalVotes": 1064,
+			"percentTurnout": 69.45,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 394,
+					"percent": 37.03
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 670,
+					"percent": 62.97
+				}
+			]
+		}, {
+			"precinctNumber": "2155135528",
+			"registeredVoters": 1811,
+			"totalVotes": 1193,
+			"percentTurnout": 65.88,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 580,
+					"percent": 48.62
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 613,
+					"percent": 51.38
+				}
+			]
+		}, {
+			"precinctNumber": "2155135529",
+			"registeredVoters": 1994,
+			"totalVotes": 1257,
+			"percentTurnout": 63.04,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 649,
+					"percent": 51.63
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 608,
+					"percent": 48.37
+				}
+			]
+		}, {
+			"precinctNumber": "2155135530",
+			"registeredVoters": 1765,
+			"totalVotes": 1180,
+			"percentTurnout": 66.86,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 531,
+					"percent": 45.0
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 649,
+					"percent": 55.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135531",
+			"registeredVoters": 1478,
+			"totalVotes": 1053,
+			"percentTurnout": 71.24,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 390,
+					"percent": 37.04
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 663,
+					"percent": 62.96
+				}
+			]
+		}, {
+			"precinctNumber": "2155135532",
+			"registeredVoters": 1602,
+			"totalVotes": 1001,
+			"percentTurnout": 62.48,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 422,
+					"percent": 42.16
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 579,
+					"percent": 57.84
+				}
+			]
+		}, {
+			"precinctNumber": "2155135533",
+			"registeredVoters": 2209,
+			"totalVotes": 1367,
+			"percentTurnout": 61.88,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 655,
+					"percent": 47.92
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 712,
+					"percent": 52.08
+				}
+			]
+		}, {
+			"precinctNumber": "2155135534",
+			"registeredVoters": 2038,
+			"totalVotes": 1353,
+			"percentTurnout": 66.39,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 547,
+					"percent": 40.43
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 806,
+					"percent": 59.57
+				}
+			]
+		}, {
+			"precinctNumber": "2155135535",
+			"registeredVoters": 1835,
+			"totalVotes": 1206,
+			"percentTurnout": 65.72,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 444,
+					"percent": 36.82
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 762,
+					"percent": 63.18
+				}
+			]
+		}, {
+			"precinctNumber": "2155135536",
+			"registeredVoters": 1665,
+			"totalVotes": 1249,
+			"percentTurnout": 75.02,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 441,
+					"percent": 35.31
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 808,
+					"percent": 64.69
+				}
+			]
+		}, {
+			"precinctNumber": "2155135537",
+			"registeredVoters": 1704,
+			"totalVotes": 1288,
+			"percentTurnout": 75.59,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 431,
+					"percent": 33.46
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 857,
+					"percent": 66.54
+				}
+			]
+		}, {
+			"precinctNumber": "2155135538",
+			"registeredVoters": 1547,
+			"totalVotes": 1198,
+			"percentTurnout": 77.44,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 401,
+					"percent": 33.47
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 797,
+					"percent": 66.53
+				}
+			]
+		}, {
+			"precinctNumber": "2155135539",
+			"registeredVoters": 1528,
+			"totalVotes": 1126,
+			"percentTurnout": 73.69,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 427,
+					"percent": 37.92
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 699,
+					"percent": 62.08
+				}
+			]
+		}, {
+			"precinctNumber": "2155135540",
+			"registeredVoters": 1866,
+			"totalVotes": 1215,
+			"percentTurnout": 65.11,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 494,
+					"percent": 40.66
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 721,
+					"percent": 59.34
+				}
+			]
+		}, {
+			"precinctNumber": "2155135541",
+			"registeredVoters": 1719,
+			"totalVotes": 1258,
+			"percentTurnout": 73.18,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 407,
+					"percent": 32.35
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 851,
+					"percent": 67.65
+				}
+			]
+		}, {
+			"precinctNumber": "2155135542",
+			"registeredVoters": 1511,
+			"totalVotes": 880,
+			"percentTurnout": 58.24,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 367,
+					"percent": 41.7
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 513,
+					"percent": 58.3
+				}
+			]
+		}, {
+			"precinctNumber": "2155135543",
+			"registeredVoters": 871,
+			"totalVotes": 603,
+			"percentTurnout": 69.23,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 195,
+					"percent": 32.34
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 408,
+					"percent": 67.66
+				}
+			]
+		}, {
+			"precinctNumber": "2155235601",
+			"registeredVoters": 536,
+			"totalVotes": 301,
+			"percentTurnout": 56.16,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 190,
+					"percent": 63.12
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 111,
+					"percent": 36.88
+				}
+			]
+		}, {
+			"precinctNumber": "2155235602",
+			"registeredVoters": 995,
+			"totalVotes": 759,
+			"percentTurnout": 76.28,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 396,
+					"percent": 52.17
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 363,
+					"percent": 47.83
+				}
+			]
+		}, {
+			"precinctNumber": "2155235603",
+			"registeredVoters": 1541,
+			"totalVotes": 1202,
+			"percentTurnout": 78.0,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 560,
+					"percent": 46.59
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 642,
+					"percent": 53.41
+				}
+			]
+		}, {
+			"precinctNumber": "2155335701",
+			"registeredVoters": 1496,
+			"totalVotes": 1063,
+			"percentTurnout": 71.06,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 701,
+					"percent": 65.95
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 362,
+					"percent": 34.05
+				}
+			]
+		}, {
+			"precinctNumber": "2155335702",
+			"registeredVoters": 1196,
+			"totalVotes": 872,
+			"percentTurnout": 72.91,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 496,
+					"percent": 56.88
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 376,
+					"percent": 43.12
+				}
+			]
+		}, {
+			"precinctNumber": "2155335703",
+			"registeredVoters": 1300,
+			"totalVotes": 743,
+			"percentTurnout": 57.15,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 367,
+					"percent": 49.39
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 376,
+					"percent": 50.61
+				}
+			]
+		}, {
+			"precinctNumber": "2234935801",
+			"registeredVoters": 1161,
+			"totalVotes": 800,
+			"percentTurnout": 68.91,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 307,
+					"percent": 38.38
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 493,
+					"percent": 61.63
+				}
+			]
+		}, {
+			"precinctNumber": "2234935802",
+			"registeredVoters": 834,
+			"totalVotes": 647,
+			"percentTurnout": 77.58,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 257,
+					"percent": 39.72
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 390,
+					"percent": 60.28
+				}
+			]
+		}, {
+			"precinctNumber": "2234935803",
+			"registeredVoters": 1374,
+			"totalVotes": 1098,
+			"percentTurnout": 79.91,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 304,
+					"percent": 27.69
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 794,
+					"percent": 72.31
+				}
+			]
+		}, {
+			"precinctNumber": "2234935804",
+			"registeredVoters": 1326,
+			"totalVotes": 1053,
+			"percentTurnout": 79.41,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 371,
+					"percent": 35.23
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 682,
+					"percent": 64.77
+				}
+			]
+		}, {
+			"precinctNumber": "2234935805",
+			"registeredVoters": 1822,
+			"totalVotes": 1425,
+			"percentTurnout": 78.21,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 420,
+					"percent": 29.47
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 1005,
+					"percent": 70.53
+				}
+			]
+		}, {
+			"precinctNumber": "2234935806",
+			"registeredVoters": 989,
+			"totalVotes": 765,
+			"percentTurnout": 77.35,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 239,
+					"percent": 31.24
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 526,
+					"percent": 68.76
+				}
+			]
+		}, {
+			"precinctNumber": "2234935807",
+			"registeredVoters": 1705,
+			"totalVotes": 1353,
+			"percentTurnout": 79.35,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 389,
+					"percent": 28.75
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 964,
+					"percent": 71.25
+				}
+			]
+		}, {
+			"precinctNumber": "2234935808",
+			"registeredVoters": 1145,
+			"totalVotes": 928,
+			"percentTurnout": 81.05,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 246,
+					"percent": 26.51
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 682,
+					"percent": 73.49
+				}
+			]
+		}, {
+			"precinctNumber": "2234935809",
+			"registeredVoters": 1166,
+			"totalVotes": 939,
+			"percentTurnout": 80.53,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 197,
+					"percent": 20.98
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 742,
+					"percent": 79.02
+				}
+			]
+		}, {
+			"precinctNumber": "2234935810",
+			"registeredVoters": 2148,
+			"totalVotes": 1545,
+			"percentTurnout": 71.93,
+			"votes": [{
+					"candidate": "Alice Madden",
+					"votes": 491,
+					"percent": 31.78
+				}, {
+					"candidate": "Heidi Ganahl",
+					"votes": 1054,
+					"percent": 68.22
+				}
+			]
+		}
+	]
+}

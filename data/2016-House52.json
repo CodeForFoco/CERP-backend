@@ -1,0 +1,681 @@
+{
+	"topic": "House 52",
+	"year": "2016",
+	"precincts": [{
+			"precinctNumber": "2235235101",
+			"registeredVoters": 1052,
+			"totalVotes": 684,
+			"percentTurnout": 65.02,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 319,
+					"percent": 46.64
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 365,
+					"percent": 53.36
+				}
+			]
+		}, {
+			"precinctNumber": "2235235102",
+			"registeredVoters": 242,
+			"totalVotes": 208,
+			"percentTurnout": 85.95,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 121,
+					"percent": 58.17
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 87,
+					"percent": 41.83
+				}
+			]
+		}, {
+			"precinctNumber": "2145235201",
+			"registeredVoters": 1925,
+			"totalVotes": 1128,
+			"percentTurnout": 58.6,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 458,
+					"percent": 40.6
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 670,
+					"percent": 59.4
+				}
+			]
+		}, {
+			"precinctNumber": "2145235202",
+			"registeredVoters": 1557,
+			"totalVotes": 1011,
+			"percentTurnout": 64.93,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 411,
+					"percent": 40.65
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 600,
+					"percent": 59.35
+				}
+			]
+		}, {
+			"precinctNumber": "2145235203",
+			"registeredVoters": 1380,
+			"totalVotes": 1011,
+			"percentTurnout": 73.26,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 527,
+					"percent": 52.13
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 484,
+					"percent": 47.87
+				}
+			]
+		}, {
+			"precinctNumber": "2145235204",
+			"registeredVoters": 1727,
+			"totalVotes": 1128,
+			"percentTurnout": 65.32,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 571,
+					"percent": 50.62
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 557,
+					"percent": 49.38
+				}
+			]
+		}, {
+			"precinctNumber": "2145235205",
+			"registeredVoters": 1470,
+			"totalVotes": 890,
+			"percentTurnout": 60.54,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 223,
+					"percent": 25.06
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 667,
+					"percent": 74.94
+				}
+			]
+		}, {
+			"precinctNumber": "2145235206",
+			"registeredVoters": 1812,
+			"totalVotes": 1223,
+			"percentTurnout": 67.49,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 303,
+					"percent": 24.78
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 920,
+					"percent": 75.22
+				}
+			]
+		}, {
+			"precinctNumber": "2145235207",
+			"registeredVoters": 1500,
+			"totalVotes": 914,
+			"percentTurnout": 60.93,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 197,
+					"percent": 21.55
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 717,
+					"percent": 78.45
+				}
+			]
+		}, {
+			"precinctNumber": "2145235208",
+			"registeredVoters": 1784,
+			"totalVotes": 1142,
+			"percentTurnout": 64.01,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 318,
+					"percent": 27.85
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 824,
+					"percent": 72.15
+				}
+			]
+		}, {
+			"precinctNumber": "2145235209",
+			"registeredVoters": 1643,
+			"totalVotes": 1103,
+			"percentTurnout": 67.13,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 340,
+					"percent": 30.83
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 763,
+					"percent": 69.17
+				}
+			]
+		}, {
+			"precinctNumber": "2145235210",
+			"registeredVoters": 1624,
+			"totalVotes": 972,
+			"percentTurnout": 59.85,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 365,
+					"percent": 37.55
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 607,
+					"percent": 62.45
+				}
+			]
+		}, {
+			"precinctNumber": "2145235211",
+			"registeredVoters": 1367,
+			"totalVotes": 925,
+			"percentTurnout": 67.67,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 385,
+					"percent": 41.62
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 540,
+					"percent": 58.38
+				}
+			]
+		}, {
+			"precinctNumber": "2145235212",
+			"registeredVoters": 1192,
+			"totalVotes": 912,
+			"percentTurnout": 76.51,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 322,
+					"percent": 35.31
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 590,
+					"percent": 64.69
+				}
+			]
+		}, {
+			"precinctNumber": "2145235213",
+			"registeredVoters": 2152,
+			"totalVotes": 1455,
+			"percentTurnout": 67.61,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 535,
+					"percent": 36.77
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 920,
+					"percent": 63.23
+				}
+			]
+		}, {
+			"precinctNumber": "2145235214",
+			"registeredVoters": 1585,
+			"totalVotes": 1084,
+			"percentTurnout": 68.39,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 352,
+					"percent": 32.47
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 732,
+					"percent": 67.53
+				}
+			]
+		}, {
+			"precinctNumber": "2145235215",
+			"registeredVoters": 1201,
+			"totalVotes": 820,
+			"percentTurnout": 68.28,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 341,
+					"percent": 41.59
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 479,
+					"percent": 58.41
+				}
+			]
+		}, {
+			"precinctNumber": "2145235216",
+			"registeredVoters": 1096,
+			"totalVotes": 685,
+			"percentTurnout": 62.5,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 240,
+					"percent": 35.04
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 445,
+					"percent": 64.96
+				}
+			]
+		}, {
+			"precinctNumber": "2145235217",
+			"registeredVoters": 1599,
+			"totalVotes": 1197,
+			"percentTurnout": 74.86,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 494,
+					"percent": 41.27
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 703,
+					"percent": 58.73
+				}
+			]
+		}, {
+			"precinctNumber": "2145235218",
+			"registeredVoters": 2535,
+			"totalVotes": 1817,
+			"percentTurnout": 71.68,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 841,
+					"percent": 46.29
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 976,
+					"percent": 53.71
+				}
+			]
+		}, {
+			"precinctNumber": "2145235219",
+			"registeredVoters": 1695,
+			"totalVotes": 1249,
+			"percentTurnout": 73.69,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 684,
+					"percent": 54.76
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 565,
+					"percent": 45.24
+				}
+			]
+		}, {
+			"precinctNumber": "2145235220",
+			"registeredVoters": 1336,
+			"totalVotes": 1046,
+			"percentTurnout": 78.29,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 457,
+					"percent": 43.69
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 589,
+					"percent": 56.31
+				}
+			]
+		}, {
+			"precinctNumber": "2145235221",
+			"registeredVoters": 1624,
+			"totalVotes": 1031,
+			"percentTurnout": 63.49,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 495,
+					"percent": 48.01
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 536,
+					"percent": 51.99
+				}
+			]
+		}, {
+			"precinctNumber": "2145235222",
+			"registeredVoters": 2116,
+			"totalVotes": 1421,
+			"percentTurnout": 67.16,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 565,
+					"percent": 39.76
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 856,
+					"percent": 60.24
+				}
+			]
+		}, {
+			"precinctNumber": "2145235223",
+			"registeredVoters": 1620,
+			"totalVotes": 1176,
+			"percentTurnout": 72.59,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 570,
+					"percent": 48.47
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 606,
+					"percent": 51.53
+				}
+			]
+		}, {
+			"precinctNumber": "2145235224",
+			"registeredVoters": 1175,
+			"totalVotes": 843,
+			"percentTurnout": 71.74,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 389,
+					"percent": 46.14
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 454,
+					"percent": 53.86
+				}
+			]
+		}, {
+			"precinctNumber": "2145235225",
+			"registeredVoters": 1639,
+			"totalVotes": 1310,
+			"percentTurnout": 79.93,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 791,
+					"percent": 60.38
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 519,
+					"percent": 39.62
+				}
+			]
+		}, {
+			"precinctNumber": "2145235226",
+			"registeredVoters": 2357,
+			"totalVotes": 1451,
+			"percentTurnout": 61.56,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 715,
+					"percent": 49.28
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 736,
+					"percent": 50.72
+				}
+			]
+		}, {
+			"precinctNumber": "2145235227",
+			"registeredVoters": 1995,
+			"totalVotes": 1419,
+			"percentTurnout": 71.13,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 719,
+					"percent": 50.67
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 700,
+					"percent": 49.33
+				}
+			]
+		}, {
+			"precinctNumber": "2145235228",
+			"registeredVoters": 1411,
+			"totalVotes": 1041,
+			"percentTurnout": 73.78,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 540,
+					"percent": 51.87
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 501,
+					"percent": 48.13
+				}
+			]
+		}, {
+			"precinctNumber": "2145235229",
+			"registeredVoters": 1798,
+			"totalVotes": 1279,
+			"percentTurnout": 71.13,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 712,
+					"percent": 55.67
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 567,
+					"percent": 44.33
+				}
+			]
+		}, {
+			"precinctNumber": "2145235230",
+			"registeredVoters": 1342,
+			"totalVotes": 1003,
+			"percentTurnout": 74.74,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 514,
+					"percent": 51.25
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 489,
+					"percent": 48.75
+				}
+			]
+		}, {
+			"precinctNumber": "2145235231",
+			"registeredVoters": 1352,
+			"totalVotes": 944,
+			"percentTurnout": 69.82,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 446,
+					"percent": 47.25
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 498,
+					"percent": 52.75
+				}
+			]
+		}, {
+			"precinctNumber": "2145235232",
+			"registeredVoters": 1265,
+			"totalVotes": 989,
+			"percentTurnout": 78.18,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 521,
+					"percent": 52.68
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 468,
+					"percent": 47.32
+				}
+			]
+		}, {
+			"precinctNumber": "2145235233",
+			"registeredVoters": 1417,
+			"totalVotes": 1033,
+			"percentTurnout": 72.9,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 567,
+					"percent": 54.89
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 466,
+					"percent": 45.11
+				}
+			]
+		}, {
+			"precinctNumber": "2145235234",
+			"registeredVoters": 1284,
+			"totalVotes": 995,
+			"percentTurnout": 77.49,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 516,
+					"percent": 51.86
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 479,
+					"percent": 48.14
+				}
+			]
+		}, {
+			"precinctNumber": "2145235235",
+			"registeredVoters": 1617,
+			"totalVotes": 1196,
+			"percentTurnout": 73.96,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 679,
+					"percent": 56.77
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 517,
+					"percent": 43.23
+				}
+			]
+		}, {
+			"precinctNumber": "2145235236",
+			"registeredVoters": 1953,
+			"totalVotes": 1501,
+			"percentTurnout": 76.86,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 888,
+					"percent": 59.16
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 613,
+					"percent": 40.84
+				}
+			]
+		}, {
+			"precinctNumber": "2145235237",
+			"registeredVoters": 1434,
+			"totalVotes": 1114,
+			"percentTurnout": 77.68,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 615,
+					"percent": 55.21
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 499,
+					"percent": 44.79
+				}
+			]
+		}, {
+			"precinctNumber": "2145235238",
+			"registeredVoters": 1157,
+			"totalVotes": 862,
+			"percentTurnout": 74.5,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 471,
+					"percent": 54.64
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 391,
+					"percent": 45.36
+				}
+			]
+		}, {
+			"precinctNumber": "2145235239",
+			"registeredVoters": 1288,
+			"totalVotes": 733,
+			"percentTurnout": 56.91,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 343,
+					"percent": 46.79
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 390,
+					"percent": 53.21
+				}
+			]
+		}, {
+			"precinctNumber": "2145235240",
+			"registeredVoters": 1335,
+			"totalVotes": 949,
+			"percentTurnout": 71.09,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 428,
+					"percent": 45.1
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 521,
+					"percent": 54.9
+				}
+			]
+		}, {
+			"precinctNumber": "2155235601",
+			"registeredVoters": 536,
+			"totalVotes": 309,
+			"percentTurnout": 57.65,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 124,
+					"percent": 40.13
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 185,
+					"percent": 59.87
+				}
+			]
+		}, {
+			"precinctNumber": "2155235602",
+			"registeredVoters": 995,
+			"totalVotes": 813,
+			"percentTurnout": 81.71,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 373,
+					"percent": 45.88
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 440,
+					"percent": 54.12
+				}
+			]
+		}, {
+			"precinctNumber": "2155235603",
+			"registeredVoters": 1541,
+			"totalVotes": 1288,
+			"percentTurnout": 83.58,
+			"votes": [{
+					"candidate": "Donna Walter",
+					"votes": 643,
+					"percent": 49.92
+				}, {
+					"candidate": "Joann Ginal",
+					"votes": 645,
+					"percent": 50.08
+				}
+			]
+		}
+	]
+}

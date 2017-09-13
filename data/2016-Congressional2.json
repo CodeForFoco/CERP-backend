@@ -1,0 +1,3255 @@
+{
+	"topic": "Congressional 2",
+	"year": "2016",
+	"precincts": [{
+			"precinctNumber": "2235235101",
+			"registeredVoters": 1052,
+			"totalVotes": 718,
+			"percentTurnout": 68.25,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 365,
+					"percent": 50.84
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 259,
+					"percent": 36.07
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 94,
+					"percent": 13.09
+				}
+			]
+		}, {
+			"precinctNumber": "2235235102",
+			"registeredVoters": 242,
+			"totalVotes": 222,
+			"percentTurnout": 91.74,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 100,
+					"percent": 45.05
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 115,
+					"percent": 51.8
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 7,
+					"percent": 3.15
+				}
+			]
+		}, {
+			"precinctNumber": "2145235201",
+			"registeredVoters": 1925,
+			"totalVotes": 1198,
+			"percentTurnout": 62.23,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 720,
+					"percent": 60.1
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 391,
+					"percent": 32.64
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 87,
+					"percent": 7.26
+				}
+			]
+		}, {
+			"precinctNumber": "2145235202",
+			"registeredVoters": 1557,
+			"totalVotes": 1076,
+			"percentTurnout": 69.11,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 653,
+					"percent": 60.69
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 345,
+					"percent": 32.06
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 78,
+					"percent": 7.25
+				}
+			]
+		}, {
+			"precinctNumber": "2145235203",
+			"registeredVoters": 1380,
+			"totalVotes": 1053,
+			"percentTurnout": 76.3,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 542,
+					"percent": 51.47
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 444,
+					"percent": 42.17
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 67,
+					"percent": 6.36
+				}
+			]
+		}, {
+			"precinctNumber": "2145235204",
+			"registeredVoters": 1727,
+			"totalVotes": 1193,
+			"percentTurnout": 69.08,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 623,
+					"percent": 52.22
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 459,
+					"percent": 38.47
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 111,
+					"percent": 9.3
+				}
+			]
+		}, {
+			"precinctNumber": "2145235205",
+			"registeredVoters": 1470,
+			"totalVotes": 935,
+			"percentTurnout": 63.61,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 695,
+					"percent": 74.33
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 166,
+					"percent": 17.75
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 74,
+					"percent": 7.91
+				}
+			]
+		}, {
+			"precinctNumber": "2145235206",
+			"registeredVoters": 1812,
+			"totalVotes": 1292,
+			"percentTurnout": 71.3,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 974,
+					"percent": 75.39
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 214,
+					"percent": 16.56
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 104,
+					"percent": 8.05
+				}
+			]
+		}, {
+			"precinctNumber": "2145235207",
+			"registeredVoters": 1500,
+			"totalVotes": 962,
+			"percentTurnout": 64.13,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 744,
+					"percent": 77.34
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 133,
+					"percent": 13.83
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 85,
+					"percent": 8.84
+				}
+			]
+		}, {
+			"precinctNumber": "2145235208",
+			"registeredVoters": 1784,
+			"totalVotes": 1215,
+			"percentTurnout": 68.11,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 871,
+					"percent": 71.69
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 228,
+					"percent": 18.77
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 116,
+					"percent": 9.55
+				}
+			]
+		}, {
+			"precinctNumber": "2145235209",
+			"registeredVoters": 1643,
+			"totalVotes": 1183,
+			"percentTurnout": 72.0,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 840,
+					"percent": 71.01
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 262,
+					"percent": 22.15
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 81,
+					"percent": 6.85
+				}
+			]
+		}, {
+			"precinctNumber": "2145235210",
+			"registeredVoters": 1624,
+			"totalVotes": 1035,
+			"percentTurnout": 63.73,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 634,
+					"percent": 61.26
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 288,
+					"percent": 27.83
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 113,
+					"percent": 10.92
+				}
+			]
+		}, {
+			"precinctNumber": "2145235211",
+			"registeredVoters": 1367,
+			"totalVotes": 964,
+			"percentTurnout": 70.52,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 590,
+					"percent": 61.2
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 300,
+					"percent": 31.12
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 74,
+					"percent": 7.68
+				}
+			]
+		}, {
+			"precinctNumber": "2145235212",
+			"registeredVoters": 1192,
+			"totalVotes": 961,
+			"percentTurnout": 80.62,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 624,
+					"percent": 64.93
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 294,
+					"percent": 30.59
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 43,
+					"percent": 4.47
+				}
+			]
+		}, {
+			"precinctNumber": "2145235213",
+			"registeredVoters": 2152,
+			"totalVotes": 1530,
+			"percentTurnout": 71.1,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 996,
+					"percent": 65.1
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 440,
+					"percent": 28.76
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 94,
+					"percent": 6.14
+				}
+			]
+		}, {
+			"precinctNumber": "2145235214",
+			"registeredVoters": 1585,
+			"totalVotes": 1152,
+			"percentTurnout": 72.68,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 788,
+					"percent": 68.4
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 292,
+					"percent": 25.35
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 72,
+					"percent": 6.25
+				}
+			]
+		}, {
+			"precinctNumber": "2145235215",
+			"registeredVoters": 1201,
+			"totalVotes": 849,
+			"percentTurnout": 70.69,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 481,
+					"percent": 56.65
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 302,
+					"percent": 35.57
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 66,
+					"percent": 7.77
+				}
+			]
+		}, {
+			"precinctNumber": "2145235216",
+			"registeredVoters": 1096,
+			"totalVotes": 720,
+			"percentTurnout": 65.69,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 487,
+					"percent": 67.64
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 177,
+					"percent": 24.58
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 56,
+					"percent": 7.78
+				}
+			]
+		}, {
+			"precinctNumber": "2145235217",
+			"registeredVoters": 1599,
+			"totalVotes": 1248,
+			"percentTurnout": 78.05,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 767,
+					"percent": 61.46
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 427,
+					"percent": 34.21
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 54,
+					"percent": 4.33
+				}
+			]
+		}, {
+			"precinctNumber": "2145235218",
+			"registeredVoters": 2535,
+			"totalVotes": 1897,
+			"percentTurnout": 74.83,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 1059,
+					"percent": 55.82
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 737,
+					"percent": 38.85
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 101,
+					"percent": 5.32
+				}
+			]
+		}, {
+			"precinctNumber": "2145235219",
+			"registeredVoters": 1695,
+			"totalVotes": 1327,
+			"percentTurnout": 78.29,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 655,
+					"percent": 49.36
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 620,
+					"percent": 46.72
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 52,
+					"percent": 3.92
+				}
+			]
+		}, {
+			"precinctNumber": "2145235220",
+			"registeredVoters": 1336,
+			"totalVotes": 1098,
+			"percentTurnout": 82.19,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 625,
+					"percent": 56.92
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 424,
+					"percent": 38.62
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 49,
+					"percent": 4.46
+				}
+			]
+		}, {
+			"precinctNumber": "2145235221",
+			"registeredVoters": 1624,
+			"totalVotes": 1094,
+			"percentTurnout": 67.36,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 606,
+					"percent": 55.39
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 413,
+					"percent": 37.75
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 75,
+					"percent": 6.86
+				}
+			]
+		}, {
+			"precinctNumber": "2145235222",
+			"registeredVoters": 2116,
+			"totalVotes": 1497,
+			"percentTurnout": 70.75,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 901,
+					"percent": 60.19
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 507,
+					"percent": 33.87
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 89,
+					"percent": 5.95
+				}
+			]
+		}, {
+			"precinctNumber": "2145235223",
+			"registeredVoters": 1620,
+			"totalVotes": 1224,
+			"percentTurnout": 75.56,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 652,
+					"percent": 53.27
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 496,
+					"percent": 40.52
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 76,
+					"percent": 6.21
+				}
+			]
+		}, {
+			"precinctNumber": "2145235224",
+			"registeredVoters": 1175,
+			"totalVotes": 887,
+			"percentTurnout": 75.49,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 478,
+					"percent": 53.89
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 336,
+					"percent": 37.88
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 73,
+					"percent": 8.23
+				}
+			]
+		}, {
+			"precinctNumber": "2145235225",
+			"registeredVoters": 1639,
+			"totalVotes": 1362,
+			"percentTurnout": 83.1,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 576,
+					"percent": 42.29
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 728,
+					"percent": 53.45
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 58,
+					"percent": 4.26
+				}
+			]
+		}, {
+			"precinctNumber": "2145235226",
+			"registeredVoters": 2357,
+			"totalVotes": 1544,
+			"percentTurnout": 65.51,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 809,
+					"percent": 52.4
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 614,
+					"percent": 39.77
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 121,
+					"percent": 7.84
+				}
+			]
+		}, {
+			"precinctNumber": "2145235227",
+			"registeredVoters": 1995,
+			"totalVotes": 1500,
+			"percentTurnout": 75.19,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 780,
+					"percent": 52.0
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 642,
+					"percent": 42.8
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 78,
+					"percent": 5.2
+				}
+			]
+		}, {
+			"precinctNumber": "2145235228",
+			"registeredVoters": 1411,
+			"totalVotes": 1103,
+			"percentTurnout": 78.17,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 549,
+					"percent": 49.77
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 504,
+					"percent": 45.69
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 50,
+					"percent": 4.53
+				}
+			]
+		}, {
+			"precinctNumber": "2145235229",
+			"registeredVoters": 1798,
+			"totalVotes": 1354,
+			"percentTurnout": 75.31,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 640,
+					"percent": 47.27
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 649,
+					"percent": 47.93
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 65,
+					"percent": 4.8
+				}
+			]
+		}, {
+			"precinctNumber": "2145235230",
+			"registeredVoters": 1342,
+			"totalVotes": 1061,
+			"percentTurnout": 79.06,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 538,
+					"percent": 50.71
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 470,
+					"percent": 44.3
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 53,
+					"percent": 5.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235231",
+			"registeredVoters": 1352,
+			"totalVotes": 982,
+			"percentTurnout": 72.63,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 531,
+					"percent": 54.07
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 394,
+					"percent": 40.12
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 57,
+					"percent": 5.8
+				}
+			]
+		}, {
+			"precinctNumber": "2145235232",
+			"registeredVoters": 1265,
+			"totalVotes": 1032,
+			"percentTurnout": 81.58,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 526,
+					"percent": 50.97
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 458,
+					"percent": 44.38
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 48,
+					"percent": 4.65
+				}
+			]
+		}, {
+			"precinctNumber": "2145235233",
+			"registeredVoters": 1417,
+			"totalVotes": 1091,
+			"percentTurnout": 76.99,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 540,
+					"percent": 49.5
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 493,
+					"percent": 45.19
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 58,
+					"percent": 5.32
+				}
+			]
+		}, {
+			"precinctNumber": "2145235234",
+			"registeredVoters": 1284,
+			"totalVotes": 1052,
+			"percentTurnout": 81.93,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 529,
+					"percent": 50.29
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 480,
+					"percent": 45.63
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 43,
+					"percent": 4.09
+				}
+			]
+		}, {
+			"precinctNumber": "2145235235",
+			"registeredVoters": 1617,
+			"totalVotes": 1251,
+			"percentTurnout": 77.37,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 565,
+					"percent": 45.16
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 622,
+					"percent": 49.72
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 64,
+					"percent": 5.12
+				}
+			]
+		}, {
+			"precinctNumber": "2145235236",
+			"registeredVoters": 1953,
+			"totalVotes": 1587,
+			"percentTurnout": 81.26,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 687,
+					"percent": 43.29
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 841,
+					"percent": 52.99
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 59,
+					"percent": 3.72
+				}
+			]
+		}, {
+			"precinctNumber": "2145235237",
+			"registeredVoters": 1434,
+			"totalVotes": 1170,
+			"percentTurnout": 81.59,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 552,
+					"percent": 47.18
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 568,
+					"percent": 48.55
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 50,
+					"percent": 4.27
+				}
+			]
+		}, {
+			"precinctNumber": "2145235238",
+			"registeredVoters": 1157,
+			"totalVotes": 904,
+			"percentTurnout": 78.13,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 440,
+					"percent": 48.67
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 424,
+					"percent": 46.9
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 40,
+					"percent": 4.42
+				}
+			]
+		}, {
+			"precinctNumber": "2145235239",
+			"registeredVoters": 1288,
+			"totalVotes": 790,
+			"percentTurnout": 61.34,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 441,
+					"percent": 55.82
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 256,
+					"percent": 32.41
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 93,
+					"percent": 11.77
+				}
+			]
+		}, {
+			"precinctNumber": "2145235240",
+			"registeredVoters": 1335,
+			"totalVotes": 1004,
+			"percentTurnout": 75.21,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 551,
+					"percent": 54.88
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 386,
+					"percent": 38.45
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 67,
+					"percent": 6.67
+				}
+			]
+		}, {
+			"precinctNumber": "2145335301",
+			"registeredVoters": 1355,
+			"totalVotes": 931,
+			"percentTurnout": 68.71,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 674,
+					"percent": 72.4
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 196,
+					"percent": 21.05
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 61,
+					"percent": 6.55
+				}
+			]
+		}, {
+			"precinctNumber": "2145335302",
+			"registeredVoters": 1926,
+			"totalVotes": 1403,
+			"percentTurnout": 72.85,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 1103,
+					"percent": 78.62
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 210,
+					"percent": 14.97
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 90,
+					"percent": 6.41
+				}
+			]
+		}, {
+			"precinctNumber": "2145335303",
+			"registeredVoters": 1522,
+			"totalVotes": 1110,
+			"percentTurnout": 72.93,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 858,
+					"percent": 77.3
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 185,
+					"percent": 16.67
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 67,
+					"percent": 6.04
+				}
+			]
+		}, {
+			"precinctNumber": "2145335304",
+			"registeredVoters": 2163,
+			"totalVotes": 1462,
+			"percentTurnout": 67.59,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 912,
+					"percent": 62.38
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 426,
+					"percent": 29.14
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 124,
+					"percent": 8.48
+				}
+			]
+		}, {
+			"precinctNumber": "2145335305",
+			"registeredVoters": 1893,
+			"totalVotes": 1271,
+			"percentTurnout": 67.14,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 790,
+					"percent": 62.16
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 386,
+					"percent": 30.37
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 95,
+					"percent": 7.47
+				}
+			]
+		}, {
+			"precinctNumber": "2145335306",
+			"registeredVoters": 2275,
+			"totalVotes": 1364,
+			"percentTurnout": 59.96,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 838,
+					"percent": 61.44
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 383,
+					"percent": 28.08
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 143,
+					"percent": 10.48
+				}
+			]
+		}, {
+			"precinctNumber": "2145335307",
+			"registeredVoters": 2427,
+			"totalVotes": 1466,
+			"percentTurnout": 60.4,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 980,
+					"percent": 66.85
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 372,
+					"percent": 25.38
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 114,
+					"percent": 7.78
+				}
+			]
+		}, {
+			"precinctNumber": "2145335308",
+			"registeredVoters": 1453,
+			"totalVotes": 757,
+			"percentTurnout": 52.1,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 454,
+					"percent": 59.97
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 241,
+					"percent": 31.84
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 62,
+					"percent": 8.19
+				}
+			]
+		}, {
+			"precinctNumber": "2145335309",
+			"registeredVoters": 1989,
+			"totalVotes": 1047,
+			"percentTurnout": 52.64,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 642,
+					"percent": 61.32
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 298,
+					"percent": 28.46
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 107,
+					"percent": 10.22
+				}
+			]
+		}, {
+			"precinctNumber": "2145335310",
+			"registeredVoters": 2120,
+			"totalVotes": 1449,
+			"percentTurnout": 68.35,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 956,
+					"percent": 65.98
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 404,
+					"percent": 27.88
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 89,
+					"percent": 6.14
+				}
+			]
+		}, {
+			"precinctNumber": "2145335311",
+			"registeredVoters": 2285,
+			"totalVotes": 1416,
+			"percentTurnout": 61.97,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 891,
+					"percent": 62.92
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 403,
+					"percent": 28.46
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 122,
+					"percent": 8.62
+				}
+			]
+		}, {
+			"precinctNumber": "2145335312",
+			"registeredVoters": 1959,
+			"totalVotes": 1206,
+			"percentTurnout": 61.56,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 766,
+					"percent": 63.52
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 340,
+					"percent": 28.19
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 100,
+					"percent": 8.29
+				}
+			]
+		}, {
+			"precinctNumber": "2145335313",
+			"registeredVoters": 1560,
+			"totalVotes": 1154,
+			"percentTurnout": 73.97,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 712,
+					"percent": 61.7
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 351,
+					"percent": 30.42
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 91,
+					"percent": 7.89
+				}
+			]
+		}, {
+			"precinctNumber": "2145335314",
+			"registeredVoters": 2529,
+			"totalVotes": 1704,
+			"percentTurnout": 67.38,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 1058,
+					"percent": 62.09
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 472,
+					"percent": 27.7
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 174,
+					"percent": 10.21
+				}
+			]
+		}, {
+			"precinctNumber": "2145335315",
+			"registeredVoters": 1740,
+			"totalVotes": 1237,
+			"percentTurnout": 71.09,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 729,
+					"percent": 58.93
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 422,
+					"percent": 34.11
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 86,
+					"percent": 6.95
+				}
+			]
+		}, {
+			"precinctNumber": "2145335316",
+			"registeredVoters": 1109,
+			"totalVotes": 856,
+			"percentTurnout": 77.19,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 532,
+					"percent": 62.15
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 293,
+					"percent": 34.23
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 31,
+					"percent": 3.62
+				}
+			]
+		}, {
+			"precinctNumber": "2145335317",
+			"registeredVoters": 1515,
+			"totalVotes": 1270,
+			"percentTurnout": 83.83,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 803,
+					"percent": 63.23
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 432,
+					"percent": 34.02
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 35,
+					"percent": 2.76
+				}
+			]
+		}, {
+			"precinctNumber": "2145335318",
+			"registeredVoters": 1625,
+			"totalVotes": 1088,
+			"percentTurnout": 66.95,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 667,
+					"percent": 61.31
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 340,
+					"percent": 31.25
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 81,
+					"percent": 7.44
+				}
+			]
+		}, {
+			"precinctNumber": "2145335319",
+			"registeredVoters": 1373,
+			"totalVotes": 984,
+			"percentTurnout": 71.67,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 553,
+					"percent": 56.2
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 368,
+					"percent": 37.4
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 63,
+					"percent": 6.4
+				}
+			]
+		}, {
+			"precinctNumber": "2145335320",
+			"registeredVoters": 1262,
+			"totalVotes": 893,
+			"percentTurnout": 70.76,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 553,
+					"percent": 61.93
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 272,
+					"percent": 30.46
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 68,
+					"percent": 7.61
+				}
+			]
+		}, {
+			"precinctNumber": "2145335321",
+			"registeredVoters": 1648,
+			"totalVotes": 1018,
+			"percentTurnout": 61.77,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 632,
+					"percent": 62.08
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 297,
+					"percent": 29.17
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 89,
+					"percent": 8.74
+				}
+			]
+		}, {
+			"precinctNumber": "2145335322",
+			"registeredVoters": 1508,
+			"totalVotes": 1082,
+			"percentTurnout": 71.75,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 632,
+					"percent": 58.41
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 387,
+					"percent": 35.77
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 63,
+					"percent": 5.82
+				}
+			]
+		}, {
+			"precinctNumber": "2145335323",
+			"registeredVoters": 1529,
+			"totalVotes": 1147,
+			"percentTurnout": 75.02,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 605,
+					"percent": 52.75
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 463,
+					"percent": 40.37
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 79,
+					"percent": 6.89
+				}
+			]
+		}, {
+			"precinctNumber": "2145335324",
+			"registeredVoters": 1701,
+			"totalVotes": 1389,
+			"percentTurnout": 81.66,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 734,
+					"percent": 52.84
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 583,
+					"percent": 41.97
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 72,
+					"percent": 5.18
+				}
+			]
+		}, {
+			"precinctNumber": "2145335325",
+			"registeredVoters": 1813,
+			"totalVotes": 1281,
+			"percentTurnout": 70.66,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 741,
+					"percent": 57.85
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 461,
+					"percent": 35.99
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 79,
+					"percent": 6.17
+				}
+			]
+		}, {
+			"precinctNumber": "2145335326",
+			"registeredVoters": 2083,
+			"totalVotes": 1500,
+			"percentTurnout": 72.01,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 891,
+					"percent": 59.4
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 488,
+					"percent": 32.53
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 121,
+					"percent": 8.07
+				}
+			]
+		}, {
+			"precinctNumber": "2145335327",
+			"registeredVoters": 1576,
+			"totalVotes": 1271,
+			"percentTurnout": 80.65,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 652,
+					"percent": 51.3
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 574,
+					"percent": 45.16
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 45,
+					"percent": 3.54
+				}
+			]
+		}, {
+			"precinctNumber": "2145335328",
+			"registeredVoters": 1604,
+			"totalVotes": 1311,
+			"percentTurnout": 81.73,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 698,
+					"percent": 53.24
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 549,
+					"percent": 41.88
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 64,
+					"percent": 4.88
+				}
+			]
+		}, {
+			"precinctNumber": "2145335329",
+			"registeredVoters": 1235,
+			"totalVotes": 988,
+			"percentTurnout": 80.0,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 451,
+					"percent": 45.65
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 490,
+					"percent": 49.6
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 47,
+					"percent": 4.76
+				}
+			]
+		}, {
+			"precinctNumber": "2145335330",
+			"registeredVoters": 1501,
+			"totalVotes": 1181,
+			"percentTurnout": 78.68,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 545,
+					"percent": 46.15
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 586,
+					"percent": 49.62
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 50,
+					"percent": 4.23
+				}
+			]
+		}, {
+			"precinctNumber": "2145335331",
+			"registeredVoters": 956,
+			"totalVotes": 715,
+			"percentTurnout": 74.79,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 318,
+					"percent": 44.48
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 354,
+					"percent": 49.51
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 43,
+					"percent": 6.01
+				}
+			]
+		}, {
+			"precinctNumber": "2145335332",
+			"registeredVoters": 1342,
+			"totalVotes": 940,
+			"percentTurnout": 70.04,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 443,
+					"percent": 47.13
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 433,
+					"percent": 46.06
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 64,
+					"percent": 6.81
+				}
+			]
+		}, {
+			"precinctNumber": "2145335333",
+			"registeredVoters": 1106,
+			"totalVotes": 833,
+			"percentTurnout": 75.32,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 394,
+					"percent": 47.3
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 402,
+					"percent": 48.26
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 37,
+					"percent": 4.44
+				}
+			]
+		}, {
+			"precinctNumber": "2145335334",
+			"registeredVoters": 1943,
+			"totalVotes": 1080,
+			"percentTurnout": 55.58,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 697,
+					"percent": 64.54
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 284,
+					"percent": 26.3
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 99,
+					"percent": 9.17
+				}
+			]
+		}, {
+			"precinctNumber": "2145335335",
+			"registeredVoters": 2659,
+			"totalVotes": 1516,
+			"percentTurnout": 57.01,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 1000,
+					"percent": 65.96
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 393,
+					"percent": 25.92
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 123,
+					"percent": 8.11
+				}
+			]
+		}, {
+			"precinctNumber": "2145335336",
+			"registeredVoters": 1417,
+			"totalVotes": 779,
+			"percentTurnout": 54.98,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 490,
+					"percent": 62.9
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 219,
+					"percent": 28.11
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 70,
+					"percent": 8.99
+				}
+			]
+		}, {
+			"precinctNumber": "2154935401",
+			"registeredVoters": 767,
+			"totalVotes": 559,
+			"percentTurnout": 72.88,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 207,
+					"percent": 37.03
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 317,
+					"percent": 56.71
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 35,
+					"percent": 6.26
+				}
+			]
+		}, {
+			"precinctNumber": "2154935402",
+			"registeredVoters": 1954,
+			"totalVotes": 1545,
+			"percentTurnout": 79.07,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 539,
+					"percent": 34.89
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 894,
+					"percent": 57.86
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 112,
+					"percent": 7.25
+				}
+			]
+		}, {
+			"precinctNumber": "2154935403",
+			"registeredVoters": 1371,
+			"totalVotes": 1059,
+			"percentTurnout": 77.24,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 276,
+					"percent": 26.06
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 712,
+					"percent": 67.23
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 71,
+					"percent": 6.7
+				}
+			]
+		}, {
+			"precinctNumber": "2154935404",
+			"registeredVoters": 127,
+			"totalVotes": 100,
+			"percentTurnout": 78.74,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 33,
+					"percent": 33.0
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 64,
+					"percent": 64.0
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 3,
+					"percent": 3.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935405",
+			"registeredVoters": 808,
+			"totalVotes": 629,
+			"percentTurnout": 77.85,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 321,
+					"percent": 51.03
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 268,
+					"percent": 42.61
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 40,
+					"percent": 6.36
+				}
+			]
+		}, {
+			"precinctNumber": "2154935406",
+			"registeredVoters": 1006,
+			"totalVotes": 821,
+			"percentTurnout": 81.61,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 425,
+					"percent": 51.77
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 359,
+					"percent": 43.73
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 37,
+					"percent": 4.51
+				}
+			]
+		}, {
+			"precinctNumber": "2154935407",
+			"registeredVoters": 1855,
+			"totalVotes": 1462,
+			"percentTurnout": 78.81,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 788,
+					"percent": 53.9
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 595,
+					"percent": 40.7
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 79,
+					"percent": 5.4
+				}
+			]
+		}, {
+			"precinctNumber": "2154935408",
+			"registeredVoters": 2034,
+			"totalVotes": 1609,
+			"percentTurnout": 79.11,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 633,
+					"percent": 39.34
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 913,
+					"percent": 56.74
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 63,
+					"percent": 3.92
+				}
+			]
+		}, {
+			"precinctNumber": "2154935409",
+			"registeredVoters": 1322,
+			"totalVotes": 1034,
+			"percentTurnout": 78.21,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 329,
+					"percent": 31.82
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 634,
+					"percent": 61.32
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 71,
+					"percent": 6.87
+				}
+			]
+		}, {
+			"precinctNumber": "2154935410",
+			"registeredVoters": 1122,
+			"totalVotes": 809,
+			"percentTurnout": 72.1,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 337,
+					"percent": 41.66
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 408,
+					"percent": 50.43
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 64,
+					"percent": 7.91
+				}
+			]
+		}, {
+			"precinctNumber": "2154935411",
+			"registeredVoters": 1560,
+			"totalVotes": 1268,
+			"percentTurnout": 81.28,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 593,
+					"percent": 46.77
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 622,
+					"percent": 49.05
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 53,
+					"percent": 4.18
+				}
+			]
+		}, {
+			"precinctNumber": "2154935412",
+			"registeredVoters": 1096,
+			"totalVotes": 800,
+			"percentTurnout": 72.99,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 417,
+					"percent": 52.13
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 327,
+					"percent": 40.88
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 56,
+					"percent": 7.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935413",
+			"registeredVoters": 1404,
+			"totalVotes": 1087,
+			"percentTurnout": 77.42,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 516,
+					"percent": 47.47
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 516,
+					"percent": 47.47
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 55,
+					"percent": 5.06
+				}
+			]
+		}, {
+			"precinctNumber": "2154935414",
+			"registeredVoters": 1379,
+			"totalVotes": 1043,
+			"percentTurnout": 75.63,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 488,
+					"percent": 46.79
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 492,
+					"percent": 47.17
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 63,
+					"percent": 6.04
+				}
+			]
+		}, {
+			"precinctNumber": "2154935415",
+			"registeredVoters": 1579,
+			"totalVotes": 1154,
+			"percentTurnout": 73.08,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 539,
+					"percent": 46.71
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 533,
+					"percent": 46.19
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 82,
+					"percent": 7.11
+				}
+			]
+		}, {
+			"precinctNumber": "2154935416",
+			"registeredVoters": 1511,
+			"totalVotes": 1208,
+			"percentTurnout": 79.95,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 627,
+					"percent": 51.9
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 543,
+					"percent": 44.95
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 38,
+					"percent": 3.15
+				}
+			]
+		}, {
+			"precinctNumber": "2154935417",
+			"registeredVoters": 1253,
+			"totalVotes": 1025,
+			"percentTurnout": 81.8,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 511,
+					"percent": 49.85
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 446,
+					"percent": 43.51
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 68,
+					"percent": 6.63
+				}
+			]
+		}, {
+			"precinctNumber": "2154935418",
+			"registeredVoters": 1670,
+			"totalVotes": 1337,
+			"percentTurnout": 80.06,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 500,
+					"percent": 37.4
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 764,
+					"percent": 57.14
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 73,
+					"percent": 5.46
+				}
+			]
+		}, {
+			"precinctNumber": "2154935419",
+			"registeredVoters": 1615,
+			"totalVotes": 1245,
+			"percentTurnout": 77.09,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 412,
+					"percent": 33.09
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 752,
+					"percent": 60.4
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 81,
+					"percent": 6.51
+				}
+			]
+		}, {
+			"precinctNumber": "2154935420",
+			"registeredVoters": 2120,
+			"totalVotes": 1619,
+			"percentTurnout": 76.37,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 666,
+					"percent": 41.14
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 844,
+					"percent": 52.13
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 109,
+					"percent": 6.73
+				}
+			]
+		}, {
+			"precinctNumber": "2154935421",
+			"registeredVoters": 1889,
+			"totalVotes": 1448,
+			"percentTurnout": 76.65,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 601,
+					"percent": 41.51
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 740,
+					"percent": 51.1
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 107,
+					"percent": 7.39
+				}
+			]
+		}, {
+			"precinctNumber": "2154935422",
+			"registeredVoters": 1360,
+			"totalVotes": 1108,
+			"percentTurnout": 81.47,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 365,
+					"percent": 32.94
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 677,
+					"percent": 61.1
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 66,
+					"percent": 5.96
+				}
+			]
+		}, {
+			"precinctNumber": "2154935423",
+			"registeredVoters": 1538,
+			"totalVotes": 1282,
+			"percentTurnout": 83.36,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 421,
+					"percent": 32.84
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 796,
+					"percent": 62.09
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 65,
+					"percent": 5.07
+				}
+			]
+		}, {
+			"precinctNumber": "2154935424",
+			"registeredVoters": 44,
+			"totalVotes": 37,
+			"percentTurnout": 84.09,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 9,
+					"percent": 24.32
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 22,
+					"percent": 59.46
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 6,
+					"percent": 16.22
+				}
+			]
+		}, {
+			"precinctNumber": "2154935425",
+			"registeredVoters": 189,
+			"totalVotes": 149,
+			"percentTurnout": 78.84,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 49,
+					"percent": 32.89
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 91,
+					"percent": 61.07
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 9,
+					"percent": 6.04
+				}
+			]
+		}, {
+			"precinctNumber": "2154935426",
+			"registeredVoters": 1154,
+			"totalVotes": 938,
+			"percentTurnout": 81.28,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 360,
+					"percent": 38.38
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 529,
+					"percent": 56.4
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 49,
+					"percent": 5.22
+				}
+			]
+		}, {
+			"precinctNumber": "2154935427",
+			"registeredVoters": 1486,
+			"totalVotes": 1205,
+			"percentTurnout": 81.09,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 626,
+					"percent": 51.95
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 537,
+					"percent": 44.56
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 42,
+					"percent": 3.49
+				}
+			]
+		}, {
+			"precinctNumber": "2154935428",
+			"registeredVoters": 1359,
+			"totalVotes": 1091,
+			"percentTurnout": 80.28,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 619,
+					"percent": 56.74
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 391,
+					"percent": 35.84
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 81,
+					"percent": 7.42
+				}
+			]
+		}, {
+			"precinctNumber": "2154935429",
+			"registeredVoters": 1937,
+			"totalVotes": 1462,
+			"percentTurnout": 75.48,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 691,
+					"percent": 47.26
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 646,
+					"percent": 44.19
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 125,
+					"percent": 8.55
+				}
+			]
+		}, {
+			"precinctNumber": "2154935430",
+			"registeredVoters": 1086,
+			"totalVotes": 860,
+			"percentTurnout": 79.19,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 315,
+					"percent": 36.63
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 482,
+					"percent": 56.05
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 63,
+					"percent": 7.33
+				}
+			]
+		}, {
+			"precinctNumber": "2154935431",
+			"registeredVoters": 1321,
+			"totalVotes": 935,
+			"percentTurnout": 70.78,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 310,
+					"percent": 33.16
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 536,
+					"percent": 57.33
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 89,
+					"percent": 9.52
+				}
+			]
+		}, {
+			"precinctNumber": "2154935432",
+			"registeredVoters": 1834,
+			"totalVotes": 1335,
+			"percentTurnout": 72.79,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 467,
+					"percent": 34.98
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 752,
+					"percent": 56.33
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 116,
+					"percent": 8.69
+				}
+			]
+		}, {
+			"precinctNumber": "2154935433",
+			"registeredVoters": 2304,
+			"totalVotes": 1712,
+			"percentTurnout": 74.31,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 608,
+					"percent": 35.51
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 960,
+					"percent": 56.07
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 144,
+					"percent": 8.41
+				}
+			]
+		}, {
+			"precinctNumber": "2154935434",
+			"registeredVoters": 1119,
+			"totalVotes": 849,
+			"percentTurnout": 75.87,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 273,
+					"percent": 32.16
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 511,
+					"percent": 60.19
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 65,
+					"percent": 7.66
+				}
+			]
+		}, {
+			"precinctNumber": "2155135501",
+			"registeredVoters": 1722,
+			"totalVotes": 1296,
+			"percentTurnout": 75.26,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 500,
+					"percent": 38.58
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 704,
+					"percent": 54.32
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 92,
+					"percent": 7.1
+				}
+			]
+		}, {
+			"precinctNumber": "2155135502",
+			"registeredVoters": 1356,
+			"totalVotes": 1084,
+			"percentTurnout": 79.94,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 357,
+					"percent": 32.93
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 680,
+					"percent": 62.73
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 47,
+					"percent": 4.34
+				}
+			]
+		}, {
+			"precinctNumber": "2155135503",
+			"registeredVoters": 1517,
+			"totalVotes": 1112,
+			"percentTurnout": 73.3,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 372,
+					"percent": 33.45
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 658,
+					"percent": 59.17
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 82,
+					"percent": 7.37
+				}
+			]
+		}, {
+			"precinctNumber": "2155135504",
+			"registeredVoters": 1623,
+			"totalVotes": 1173,
+			"percentTurnout": 72.27,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 458,
+					"percent": 39.05
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 630,
+					"percent": 53.71
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 85,
+					"percent": 7.25
+				}
+			]
+		}, {
+			"precinctNumber": "2155135505",
+			"registeredVoters": 1499,
+			"totalVotes": 1004,
+			"percentTurnout": 66.98,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 397,
+					"percent": 39.54
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 489,
+					"percent": 48.71
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 118,
+					"percent": 11.75
+				}
+			]
+		}, {
+			"precinctNumber": "2155135506",
+			"registeredVoters": 1341,
+			"totalVotes": 967,
+			"percentTurnout": 72.11,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 363,
+					"percent": 37.54
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 514,
+					"percent": 53.15
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 90,
+					"percent": 9.31
+				}
+			]
+		}, {
+			"precinctNumber": "2155135507",
+			"registeredVoters": 1768,
+			"totalVotes": 1440,
+			"percentTurnout": 81.45,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 532,
+					"percent": 36.94
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 839,
+					"percent": 58.26
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 69,
+					"percent": 4.79
+				}
+			]
+		}, {
+			"precinctNumber": "2155135508",
+			"registeredVoters": 1094,
+			"totalVotes": 899,
+			"percentTurnout": 82.18,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 357,
+					"percent": 39.71
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 513,
+					"percent": 57.06
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 29,
+					"percent": 3.23
+				}
+			]
+		}, {
+			"precinctNumber": "2155135509",
+			"registeredVoters": 980,
+			"totalVotes": 722,
+			"percentTurnout": 73.67,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 297,
+					"percent": 41.14
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 377,
+					"percent": 52.22
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 48,
+					"percent": 6.65
+				}
+			]
+		}, {
+			"precinctNumber": "2155135510",
+			"registeredVoters": 1364,
+			"totalVotes": 1019,
+			"percentTurnout": 74.71,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 448,
+					"percent": 43.96
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 502,
+					"percent": 49.26
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 69,
+					"percent": 6.77
+				}
+			]
+		}, {
+			"precinctNumber": "2155135511",
+			"registeredVoters": 988,
+			"totalVotes": 820,
+			"percentTurnout": 83.0,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 329,
+					"percent": 40.12
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 455,
+					"percent": 55.49
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 36,
+					"percent": 4.39
+				}
+			]
+		}, {
+			"precinctNumber": "2155135512",
+			"registeredVoters": 1644,
+			"totalVotes": 1270,
+			"percentTurnout": 77.25,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 535,
+					"percent": 42.13
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 639,
+					"percent": 50.31
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 96,
+					"percent": 7.56
+				}
+			]
+		}, {
+			"precinctNumber": "2155135513",
+			"registeredVoters": 1310,
+			"totalVotes": 986,
+			"percentTurnout": 75.27,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 397,
+					"percent": 40.26
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 516,
+					"percent": 52.33
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 73,
+					"percent": 7.4
+				}
+			]
+		}, {
+			"precinctNumber": "2155135514",
+			"registeredVoters": 1648,
+			"totalVotes": 1162,
+			"percentTurnout": 70.51,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 508,
+					"percent": 43.72
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 578,
+					"percent": 49.74
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 76,
+					"percent": 6.54
+				}
+			]
+		}, {
+			"precinctNumber": "2155135515",
+			"registeredVoters": 1245,
+			"totalVotes": 929,
+			"percentTurnout": 74.62,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 351,
+					"percent": 37.78
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 527,
+					"percent": 56.73
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 51,
+					"percent": 5.49
+				}
+			]
+		}, {
+			"precinctNumber": "2155135516",
+			"registeredVoters": 1650,
+			"totalVotes": 1378,
+			"percentTurnout": 83.52,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 553,
+					"percent": 40.13
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 775,
+					"percent": 56.24
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 50,
+					"percent": 3.63
+				}
+			]
+		}, {
+			"precinctNumber": "2155135517",
+			"registeredVoters": 1124,
+			"totalVotes": 900,
+			"percentTurnout": 80.07,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 350,
+					"percent": 38.89
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 502,
+					"percent": 55.78
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 48,
+					"percent": 5.33
+				}
+			]
+		}, {
+			"precinctNumber": "2155135518",
+			"registeredVoters": 1853,
+			"totalVotes": 1284,
+			"percentTurnout": 69.29,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 523,
+					"percent": 40.73
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 668,
+					"percent": 52.02
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 93,
+					"percent": 7.24
+				}
+			]
+		}, {
+			"precinctNumber": "2155135519",
+			"registeredVoters": 1484,
+			"totalVotes": 1081,
+			"percentTurnout": 72.84,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 433,
+					"percent": 40.06
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 570,
+					"percent": 52.73
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 78,
+					"percent": 7.22
+				}
+			]
+		}, {
+			"precinctNumber": "2155135520",
+			"registeredVoters": 1680,
+			"totalVotes": 1177,
+			"percentTurnout": 70.06,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 498,
+					"percent": 42.31
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 595,
+					"percent": 50.55
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 84,
+					"percent": 7.14
+				}
+			]
+		}, {
+			"precinctNumber": "2155135521",
+			"registeredVoters": 1384,
+			"totalVotes": 1046,
+			"percentTurnout": 75.58,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 474,
+					"percent": 45.32
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 510,
+					"percent": 48.76
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 62,
+					"percent": 5.93
+				}
+			]
+		}, {
+			"precinctNumber": "2155135522",
+			"registeredVoters": 1752,
+			"totalVotes": 1398,
+			"percentTurnout": 79.79,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 544,
+					"percent": 38.91
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 783,
+					"percent": 56.01
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 71,
+					"percent": 5.08
+				}
+			]
+		}, {
+			"precinctNumber": "2155135523",
+			"registeredVoters": 1218,
+			"totalVotes": 988,
+			"percentTurnout": 81.12,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 401,
+					"percent": 40.59
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 555,
+					"percent": 56.17
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 32,
+					"percent": 3.24
+				}
+			]
+		}, {
+			"precinctNumber": "2155135524",
+			"registeredVoters": 1453,
+			"totalVotes": 1056,
+			"percentTurnout": 72.68,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 441,
+					"percent": 41.76
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 538,
+					"percent": 50.95
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 77,
+					"percent": 7.29
+				}
+			]
+		}, {
+			"precinctNumber": "2155135525",
+			"registeredVoters": 680,
+			"totalVotes": 575,
+			"percentTurnout": 84.56,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 223,
+					"percent": 38.78
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 331,
+					"percent": 57.57
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 21,
+					"percent": 3.65
+				}
+			]
+		}, {
+			"precinctNumber": "2155135526",
+			"registeredVoters": 1584,
+			"totalVotes": 1249,
+			"percentTurnout": 78.85,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 520,
+					"percent": 41.63
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 677,
+					"percent": 54.2
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 52,
+					"percent": 4.16
+				}
+			]
+		}, {
+			"precinctNumber": "2155135527",
+			"registeredVoters": 1532,
+			"totalVotes": 1120,
+			"percentTurnout": 73.11,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 426,
+					"percent": 38.04
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 614,
+					"percent": 54.82
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 80,
+					"percent": 7.14
+				}
+			]
+		}, {
+			"precinctNumber": "2155135528",
+			"registeredVoters": 1811,
+			"totalVotes": 1296,
+			"percentTurnout": 71.56,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 633,
+					"percent": 48.84
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 574,
+					"percent": 44.29
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 89,
+					"percent": 6.87
+				}
+			]
+		}, {
+			"precinctNumber": "2155135529",
+			"registeredVoters": 1994,
+			"totalVotes": 1332,
+			"percentTurnout": 66.8,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 683,
+					"percent": 51.28
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 515,
+					"percent": 38.66
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 134,
+					"percent": 10.06
+				}
+			]
+		}, {
+			"precinctNumber": "2155135530",
+			"registeredVoters": 1765,
+			"totalVotes": 1254,
+			"percentTurnout": 71.05,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 557,
+					"percent": 44.42
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 584,
+					"percent": 46.57
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 113,
+					"percent": 9.01
+				}
+			]
+		}, {
+			"precinctNumber": "2155135531",
+			"registeredVoters": 1478,
+			"totalVotes": 1107,
+			"percentTurnout": 74.9,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 443,
+					"percent": 40.02
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 593,
+					"percent": 53.57
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 71,
+					"percent": 6.41
+				}
+			]
+		}, {
+			"precinctNumber": "2155135532",
+			"registeredVoters": 1602,
+			"totalVotes": 1049,
+			"percentTurnout": 65.48,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 430,
+					"percent": 40.99
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 533,
+					"percent": 50.81
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 86,
+					"percent": 8.2
+				}
+			]
+		}, {
+			"precinctNumber": "2155135533",
+			"registeredVoters": 2209,
+			"totalVotes": 1457,
+			"percentTurnout": 65.96,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 704,
+					"percent": 48.32
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 618,
+					"percent": 42.42
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 135,
+					"percent": 9.27
+				}
+			]
+		}, {
+			"precinctNumber": "2155135534",
+			"registeredVoters": 2038,
+			"totalVotes": 1395,
+			"percentTurnout": 68.45,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 550,
+					"percent": 39.43
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 714,
+					"percent": 51.18
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 131,
+					"percent": 9.39
+				}
+			]
+		}, {
+			"precinctNumber": "2155135535",
+			"registeredVoters": 1835,
+			"totalVotes": 1293,
+			"percentTurnout": 70.46,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 497,
+					"percent": 38.44
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 693,
+					"percent": 53.6
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 103,
+					"percent": 7.97
+				}
+			]
+		}, {
+			"precinctNumber": "2155135536",
+			"registeredVoters": 1665,
+			"totalVotes": 1328,
+			"percentTurnout": 79.76,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 484,
+					"percent": 36.45
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 765,
+					"percent": 57.61
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 79,
+					"percent": 5.95
+				}
+			]
+		}, {
+			"precinctNumber": "2155135537",
+			"registeredVoters": 1704,
+			"totalVotes": 1391,
+			"percentTurnout": 81.63,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 522,
+					"percent": 37.53
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 800,
+					"percent": 57.51
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 69,
+					"percent": 4.96
+				}
+			]
+		}, {
+			"precinctNumber": "2155135538",
+			"registeredVoters": 1547,
+			"totalVotes": 1268,
+			"percentTurnout": 81.97,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 451,
+					"percent": 35.57
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 752,
+					"percent": 59.31
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 65,
+					"percent": 5.13
+				}
+			]
+		}, {
+			"precinctNumber": "2155135539",
+			"registeredVoters": 1528,
+			"totalVotes": 1229,
+			"percentTurnout": 80.43,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 496,
+					"percent": 40.36
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 659,
+					"percent": 53.62
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 74,
+					"percent": 6.02
+				}
+			]
+		}, {
+			"precinctNumber": "2155135540",
+			"registeredVoters": 1866,
+			"totalVotes": 1292,
+			"percentTurnout": 69.24,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 516,
+					"percent": 39.94
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 627,
+					"percent": 48.53
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 149,
+					"percent": 11.53
+				}
+			]
+		}, {
+			"precinctNumber": "2155135541",
+			"registeredVoters": 1719,
+			"totalVotes": 1328,
+			"percentTurnout": 77.25,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 455,
+					"percent": 34.26
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 799,
+					"percent": 60.17
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 74,
+					"percent": 5.57
+				}
+			]
+		}, {
+			"precinctNumber": "2155135542",
+			"registeredVoters": 1511,
+			"totalVotes": 916,
+			"percentTurnout": 60.62,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 377,
+					"percent": 41.16
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 466,
+					"percent": 50.87
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 73,
+					"percent": 7.97
+				}
+			]
+		}, {
+			"precinctNumber": "2155135543",
+			"registeredVoters": 871,
+			"totalVotes": 638,
+			"percentTurnout": 73.25,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 234,
+					"percent": 36.68
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 359,
+					"percent": 56.27
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 45,
+					"percent": 7.05
+				}
+			]
+		}, {
+			"precinctNumber": "2155235601",
+			"registeredVoters": 536,
+			"totalVotes": 320,
+			"percentTurnout": 59.7,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 199,
+					"percent": 62.19
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 92,
+					"percent": 28.75
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 29,
+					"percent": 9.06
+				}
+			]
+		}, {
+			"precinctNumber": "2155235602",
+			"registeredVoters": 995,
+			"totalVotes": 840,
+			"percentTurnout": 84.42,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 479,
+					"percent": 57.02
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 323,
+					"percent": 38.45
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 38,
+					"percent": 4.52
+				}
+			]
+		}, {
+			"precinctNumber": "2155235603",
+			"registeredVoters": 1541,
+			"totalVotes": 1315,
+			"percentTurnout": 85.33,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 672,
+					"percent": 51.1
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 600,
+					"percent": 45.63
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 43,
+					"percent": 3.27
+				}
+			]
+		}, {
+			"precinctNumber": "2155335701",
+			"registeredVoters": 1496,
+			"totalVotes": 1149,
+			"percentTurnout": 76.8,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 763,
+					"percent": 66.41
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 299,
+					"percent": 26.02
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 87,
+					"percent": 7.57
+				}
+			]
+		}, {
+			"precinctNumber": "2155335702",
+			"registeredVoters": 1196,
+			"totalVotes": 963,
+			"percentTurnout": 80.52,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 581,
+					"percent": 60.33
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 320,
+					"percent": 33.23
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 62,
+					"percent": 6.44
+				}
+			]
+		}, {
+			"precinctNumber": "2155335703",
+			"registeredVoters": 1300,
+			"totalVotes": 786,
+			"percentTurnout": 60.46,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 374,
+					"percent": 47.58
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 319,
+					"percent": 40.59
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 93,
+					"percent": 11.83
+				}
+			]
+		}, {
+			"precinctNumber": "2234935801",
+			"registeredVoters": 1161,
+			"totalVotes": 861,
+			"percentTurnout": 74.16,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 338,
+					"percent": 39.26
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 458,
+					"percent": 53.19
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 65,
+					"percent": 7.55
+				}
+			]
+		}, {
+			"precinctNumber": "2234935802",
+			"registeredVoters": 834,
+			"totalVotes": 694,
+			"percentTurnout": 83.21,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 309,
+					"percent": 44.52
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 359,
+					"percent": 51.73
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 26,
+					"percent": 3.75
+				}
+			]
+		}, {
+			"precinctNumber": "2234935803",
+			"registeredVoters": 1374,
+			"totalVotes": 1140,
+			"percentTurnout": 82.97,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 336,
+					"percent": 29.47
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 737,
+					"percent": 64.65
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 67,
+					"percent": 5.88
+				}
+			]
+		}, {
+			"precinctNumber": "2234935804",
+			"registeredVoters": 1326,
+			"totalVotes": 1113,
+			"percentTurnout": 83.94,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 423,
+					"percent": 38.01
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 646,
+					"percent": 58.04
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 44,
+					"percent": 3.95
+				}
+			]
+		}, {
+			"precinctNumber": "2234935805",
+			"registeredVoters": 1822,
+			"totalVotes": 1509,
+			"percentTurnout": 82.82,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 499,
+					"percent": 33.07
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 961,
+					"percent": 63.68
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 49,
+					"percent": 3.25
+				}
+			]
+		}, {
+			"precinctNumber": "2234935806",
+			"registeredVoters": 989,
+			"totalVotes": 811,
+			"percentTurnout": 82.0,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 287,
+					"percent": 35.39
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 499,
+					"percent": 61.53
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 25,
+					"percent": 3.08
+				}
+			]
+		}, {
+			"precinctNumber": "2234935807",
+			"registeredVoters": 1705,
+			"totalVotes": 1425,
+			"percentTurnout": 83.58,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 460,
+					"percent": 32.28
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 920,
+					"percent": 64.56
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 45,
+					"percent": 3.16
+				}
+			]
+		}, {
+			"precinctNumber": "2234935808",
+			"registeredVoters": 1145,
+			"totalVotes": 970,
+			"percentTurnout": 84.72,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 320,
+					"percent": 32.99
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 631,
+					"percent": 65.05
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 19,
+					"percent": 1.96
+				}
+			]
+		}, {
+			"precinctNumber": "2234935809",
+			"registeredVoters": 1166,
+			"totalVotes": 975,
+			"percentTurnout": 83.62,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 236,
+					"percent": 24.21
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 702,
+					"percent": 72.0
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 37,
+					"percent": 3.79
+				}
+			]
+		}, {
+			"precinctNumber": "2234935810",
+			"registeredVoters": 2148,
+			"totalVotes": 1624,
+			"percentTurnout": 75.61,
+			"votes": [{
+					"candidate": "Jared Polis",
+					"votes": 532,
+					"percent": 32.76
+				}, {
+					"candidate": "Nicholas Morse",
+					"votes": 988,
+					"percent": 60.84
+				}, {
+					"candidate": "Richard Longstreth",
+					"votes": 104,
+					"percent": 6.4
+				}
+			]
+		}
+	]
+}

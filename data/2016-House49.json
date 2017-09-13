@@ -1,0 +1,666 @@
+{
+	"topic": "House 49",
+	"year": "2016",
+	"precincts": [{
+			"precinctNumber": "2154935401",
+			"registeredVoters": 767,
+			"totalVotes": 545,
+			"percentTurnout": 71.06,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 201,
+					"percent": 36.88
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 344,
+					"percent": 63.12
+				}
+			]
+		}, {
+			"precinctNumber": "2154935402",
+			"registeredVoters": 1954,
+			"totalVotes": 1508,
+			"percentTurnout": 77.18,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 562,
+					"percent": 37.27
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 946,
+					"percent": 62.73
+				}
+			]
+		}, {
+			"precinctNumber": "2154935403",
+			"registeredVoters": 1371,
+			"totalVotes": 1027,
+			"percentTurnout": 74.91,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 276,
+					"percent": 26.87
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 751,
+					"percent": 73.13
+				}
+			]
+		}, {
+			"precinctNumber": "2154935404",
+			"registeredVoters": 127,
+			"totalVotes": 99,
+			"percentTurnout": 77.95,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 28,
+					"percent": 28.28
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 71,
+					"percent": 71.72
+				}
+			]
+		}, {
+			"precinctNumber": "2154935405",
+			"registeredVoters": 808,
+			"totalVotes": 606,
+			"percentTurnout": 75.0,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 321,
+					"percent": 52.97
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 285,
+					"percent": 47.03
+				}
+			]
+		}, {
+			"precinctNumber": "2154935406",
+			"registeredVoters": 1006,
+			"totalVotes": 787,
+			"percentTurnout": 78.23,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 388,
+					"percent": 49.3
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 399,
+					"percent": 50.7
+				}
+			]
+		}, {
+			"precinctNumber": "2154935407",
+			"registeredVoters": 1855,
+			"totalVotes": 1405,
+			"percentTurnout": 75.74,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 752,
+					"percent": 53.52
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 653,
+					"percent": 46.48
+				}
+			]
+		}, {
+			"precinctNumber": "2154935408",
+			"registeredVoters": 2034,
+			"totalVotes": 1561,
+			"percentTurnout": 76.75,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 596,
+					"percent": 38.18
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 965,
+					"percent": 61.82
+				}
+			]
+		}, {
+			"precinctNumber": "2154935409",
+			"registeredVoters": 1322,
+			"totalVotes": 998,
+			"percentTurnout": 75.49,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 307,
+					"percent": 30.76
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 691,
+					"percent": 69.24
+				}
+			]
+		}, {
+			"precinctNumber": "2154935410",
+			"registeredVoters": 1122,
+			"totalVotes": 788,
+			"percentTurnout": 70.23,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 338,
+					"percent": 42.89
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 450,
+					"percent": 57.11
+				}
+			]
+		}, {
+			"precinctNumber": "2154935411",
+			"registeredVoters": 1560,
+			"totalVotes": 1220,
+			"percentTurnout": 78.21,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 550,
+					"percent": 45.08
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 670,
+					"percent": 54.92
+				}
+			]
+		}, {
+			"precinctNumber": "2154935412",
+			"registeredVoters": 1096,
+			"totalVotes": 760,
+			"percentTurnout": 69.34,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 394,
+					"percent": 51.84
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 366,
+					"percent": 48.16
+				}
+			]
+		}, {
+			"precinctNumber": "2154935413",
+			"registeredVoters": 1404,
+			"totalVotes": 1045,
+			"percentTurnout": 74.43,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 499,
+					"percent": 47.75
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 546,
+					"percent": 52.25
+				}
+			]
+		}, {
+			"precinctNumber": "2154935414",
+			"registeredVoters": 1379,
+			"totalVotes": 994,
+			"percentTurnout": 72.08,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 447,
+					"percent": 44.97
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 547,
+					"percent": 55.03
+				}
+			]
+		}, {
+			"precinctNumber": "2154935415",
+			"registeredVoters": 1579,
+			"totalVotes": 1101,
+			"percentTurnout": 69.73,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 532,
+					"percent": 48.32
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 569,
+					"percent": 51.68
+				}
+			]
+		}, {
+			"precinctNumber": "2154935416",
+			"registeredVoters": 1511,
+			"totalVotes": 1171,
+			"percentTurnout": 77.5,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 585,
+					"percent": 49.96
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 586,
+					"percent": 50.04
+				}
+			]
+		}, {
+			"precinctNumber": "2154935417",
+			"registeredVoters": 1253,
+			"totalVotes": 984,
+			"percentTurnout": 78.53,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 492,
+					"percent": 50.0
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 492,
+					"percent": 50.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935418",
+			"registeredVoters": 1670,
+			"totalVotes": 1276,
+			"percentTurnout": 76.41,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 459,
+					"percent": 35.97
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 817,
+					"percent": 64.03
+				}
+			]
+		}, {
+			"precinctNumber": "2154935419",
+			"registeredVoters": 1615,
+			"totalVotes": 1209,
+			"percentTurnout": 74.86,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 394,
+					"percent": 32.59
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 815,
+					"percent": 67.41
+				}
+			]
+		}, {
+			"precinctNumber": "2154935420",
+			"registeredVoters": 2120,
+			"totalVotes": 1554,
+			"percentTurnout": 73.3,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 617,
+					"percent": 39.7
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 937,
+					"percent": 60.3
+				}
+			]
+		}, {
+			"precinctNumber": "2154935421",
+			"registeredVoters": 1889,
+			"totalVotes": 1393,
+			"percentTurnout": 73.74,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 567,
+					"percent": 40.7
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 826,
+					"percent": 59.3
+				}
+			]
+		}, {
+			"precinctNumber": "2154935422",
+			"registeredVoters": 1360,
+			"totalVotes": 1058,
+			"percentTurnout": 77.79,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 333,
+					"percent": 31.47
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 725,
+					"percent": 68.53
+				}
+			]
+		}, {
+			"precinctNumber": "2154935423",
+			"registeredVoters": 1538,
+			"totalVotes": 1232,
+			"percentTurnout": 80.1,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 375,
+					"percent": 30.44
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 857,
+					"percent": 69.56
+				}
+			]
+		}, {
+			"precinctNumber": "2154935424",
+			"registeredVoters": 44,
+			"totalVotes": 35,
+			"percentTurnout": 79.55,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 9,
+					"percent": 25.71
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 26,
+					"percent": 74.29
+				}
+			]
+		}, {
+			"precinctNumber": "2154935425",
+			"registeredVoters": 189,
+			"totalVotes": 145,
+			"percentTurnout": 76.72,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 39,
+					"percent": 26.9
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 106,
+					"percent": 73.1
+				}
+			]
+		}, {
+			"precinctNumber": "2154935426",
+			"registeredVoters": 1154,
+			"totalVotes": 894,
+			"percentTurnout": 77.47,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 326,
+					"percent": 36.47
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 568,
+					"percent": 63.53
+				}
+			]
+		}, {
+			"precinctNumber": "2154935427",
+			"registeredVoters": 1486,
+			"totalVotes": 1163,
+			"percentTurnout": 78.26,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 578,
+					"percent": 49.7
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 585,
+					"percent": 50.3
+				}
+			]
+		}, {
+			"precinctNumber": "2154935428",
+			"registeredVoters": 1359,
+			"totalVotes": 1039,
+			"percentTurnout": 76.45,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 595,
+					"percent": 57.27
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 444,
+					"percent": 42.73
+				}
+			]
+		}, {
+			"precinctNumber": "2154935429",
+			"registeredVoters": 1937,
+			"totalVotes": 1403,
+			"percentTurnout": 72.43,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 684,
+					"percent": 48.75
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 719,
+					"percent": 51.25
+				}
+			]
+		}, {
+			"precinctNumber": "2154935430",
+			"registeredVoters": 1086,
+			"totalVotes": 835,
+			"percentTurnout": 76.89,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 307,
+					"percent": 36.77
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 528,
+					"percent": 63.23
+				}
+			]
+		}, {
+			"precinctNumber": "2154935431",
+			"registeredVoters": 1321,
+			"totalVotes": 910,
+			"percentTurnout": 68.89,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 325,
+					"percent": 35.71
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 585,
+					"percent": 64.29
+				}
+			]
+		}, {
+			"precinctNumber": "2154935432",
+			"registeredVoters": 1834,
+			"totalVotes": 1284,
+			"percentTurnout": 70.01,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 474,
+					"percent": 36.92
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 810,
+					"percent": 63.08
+				}
+			]
+		}, {
+			"precinctNumber": "2154935433",
+			"registeredVoters": 2304,
+			"totalVotes": 1654,
+			"percentTurnout": 71.79,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 614,
+					"percent": 37.12
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 1040,
+					"percent": 62.88
+				}
+			]
+		}, {
+			"precinctNumber": "2154935434",
+			"registeredVoters": 1119,
+			"totalVotes": 815,
+			"percentTurnout": 72.83,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 267,
+					"percent": 32.76
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 548,
+					"percent": 67.24
+				}
+			]
+		}, {
+			"precinctNumber": "2234935801",
+			"registeredVoters": 1161,
+			"totalVotes": 804,
+			"percentTurnout": 69.25,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 322,
+					"percent": 40.05
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 482,
+					"percent": 59.95
+				}
+			]
+		}, {
+			"precinctNumber": "2234935802",
+			"registeredVoters": 834,
+			"totalVotes": 658,
+			"percentTurnout": 78.9,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 262,
+					"percent": 39.82
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 396,
+					"percent": 60.18
+				}
+			]
+		}, {
+			"precinctNumber": "2234935803",
+			"registeredVoters": 1374,
+			"totalVotes": 1094,
+			"percentTurnout": 79.62,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 316,
+					"percent": 28.88
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 778,
+					"percent": 71.12
+				}
+			]
+		}, {
+			"precinctNumber": "2234935804",
+			"registeredVoters": 1326,
+			"totalVotes": 1066,
+			"percentTurnout": 80.39,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 387,
+					"percent": 36.3
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 679,
+					"percent": 63.7
+				}
+			]
+		}, {
+			"precinctNumber": "2234935805",
+			"registeredVoters": 1822,
+			"totalVotes": 1429,
+			"percentTurnout": 78.43,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 435,
+					"percent": 30.44
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 994,
+					"percent": 69.56
+				}
+			]
+		}, {
+			"precinctNumber": "2234935806",
+			"registeredVoters": 989,
+			"totalVotes": 771,
+			"percentTurnout": 77.96,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 251,
+					"percent": 32.56
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 520,
+					"percent": 67.44
+				}
+			]
+		}, {
+			"precinctNumber": "2234935807",
+			"registeredVoters": 1705,
+			"totalVotes": 1379,
+			"percentTurnout": 80.88,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 440,
+					"percent": 31.91
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 939,
+					"percent": 68.09
+				}
+			]
+		}, {
+			"precinctNumber": "2234935808",
+			"registeredVoters": 1145,
+			"totalVotes": 939,
+			"percentTurnout": 82.01,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 262,
+					"percent": 27.9
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 677,
+					"percent": 72.1
+				}
+			]
+		}, {
+			"precinctNumber": "2234935809",
+			"registeredVoters": 1166,
+			"totalVotes": 933,
+			"percentTurnout": 80.02,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 219,
+					"percent": 23.47
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 714,
+					"percent": 76.53
+				}
+			]
+		}, {
+			"precinctNumber": "2234935810",
+			"registeredVoters": 2148,
+			"totalVotes": 1559,
+			"percentTurnout": 72.58,
+			"votes": [{
+					"candidate": "Adrian Sweeney",
+					"votes": 518,
+					"percent": 33.23
+				}, {
+					"candidate": "Perry L. Buck",
+					"votes": 1041,
+					"percent": 66.77
+				}
+			]
+		}
+	]
+}

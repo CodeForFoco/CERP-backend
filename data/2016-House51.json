@@ -1,0 +1,651 @@
+{
+	"topic": "House 51",
+	"year": "2016",
+	"precincts": [{
+			"precinctNumber": "2155135501",
+			"registeredVoters": 1722,
+			"totalVotes": 1254,
+			"percentTurnout": 72.82,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 792,
+					"percent": 63.16
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 462,
+					"percent": 36.84
+				}
+			]
+		}, {
+			"precinctNumber": "2155135502",
+			"registeredVoters": 1356,
+			"totalVotes": 1054,
+			"percentTurnout": 77.73,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 734,
+					"percent": 69.64
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 320,
+					"percent": 30.36
+				}
+			]
+		}, {
+			"precinctNumber": "2155135503",
+			"registeredVoters": 1517,
+			"totalVotes": 1068,
+			"percentTurnout": 70.4,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 708,
+					"percent": 66.29
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 360,
+					"percent": 33.71
+				}
+			]
+		}, {
+			"precinctNumber": "2155135504",
+			"registeredVoters": 1623,
+			"totalVotes": 1131,
+			"percentTurnout": 69.69,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 698,
+					"percent": 61.72
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 433,
+					"percent": 38.28
+				}
+			]
+		}, {
+			"precinctNumber": "2155135505",
+			"registeredVoters": 1499,
+			"totalVotes": 970,
+			"percentTurnout": 64.71,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 601,
+					"percent": 61.96
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 369,
+					"percent": 38.04
+				}
+			]
+		}, {
+			"precinctNumber": "2155135506",
+			"registeredVoters": 1341,
+			"totalVotes": 947,
+			"percentTurnout": 70.62,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 591,
+					"percent": 62.41
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 356,
+					"percent": 37.59
+				}
+			]
+		}, {
+			"precinctNumber": "2155135507",
+			"registeredVoters": 1768,
+			"totalVotes": 1407,
+			"percentTurnout": 79.58,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 914,
+					"percent": 64.96
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 493,
+					"percent": 35.04
+				}
+			]
+		}, {
+			"precinctNumber": "2155135508",
+			"registeredVoters": 1094,
+			"totalVotes": 882,
+			"percentTurnout": 80.62,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 567,
+					"percent": 64.29
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 315,
+					"percent": 35.71
+				}
+			]
+		}, {
+			"precinctNumber": "2155135509",
+			"registeredVoters": 980,
+			"totalVotes": 697,
+			"percentTurnout": 71.12,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 430,
+					"percent": 61.69
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 267,
+					"percent": 38.31
+				}
+			]
+		}, {
+			"precinctNumber": "2155135510",
+			"registeredVoters": 1364,
+			"totalVotes": 988,
+			"percentTurnout": 72.43,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 569,
+					"percent": 57.59
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 419,
+					"percent": 42.41
+				}
+			]
+		}, {
+			"precinctNumber": "2155135511",
+			"registeredVoters": 988,
+			"totalVotes": 808,
+			"percentTurnout": 81.78,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 513,
+					"percent": 63.49
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 295,
+					"percent": 36.51
+				}
+			]
+		}, {
+			"precinctNumber": "2155135512",
+			"registeredVoters": 1644,
+			"totalVotes": 1232,
+			"percentTurnout": 74.94,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 724,
+					"percent": 58.77
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 508,
+					"percent": 41.23
+				}
+			]
+		}, {
+			"precinctNumber": "2155135513",
+			"registeredVoters": 1310,
+			"totalVotes": 954,
+			"percentTurnout": 72.82,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 583,
+					"percent": 61.11
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 371,
+					"percent": 38.89
+				}
+			]
+		}, {
+			"precinctNumber": "2155135514",
+			"registeredVoters": 1648,
+			"totalVotes": 1131,
+			"percentTurnout": 68.63,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 628,
+					"percent": 55.53
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 503,
+					"percent": 44.47
+				}
+			]
+		}, {
+			"precinctNumber": "2155135515",
+			"registeredVoters": 1245,
+			"totalVotes": 899,
+			"percentTurnout": 72.21,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 572,
+					"percent": 63.63
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 327,
+					"percent": 36.37
+				}
+			]
+		}, {
+			"precinctNumber": "2155135516",
+			"registeredVoters": 1650,
+			"totalVotes": 1346,
+			"percentTurnout": 81.58,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 836,
+					"percent": 62.11
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 510,
+					"percent": 37.89
+				}
+			]
+		}, {
+			"precinctNumber": "2155135517",
+			"registeredVoters": 1124,
+			"totalVotes": 896,
+			"percentTurnout": 79.72,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 551,
+					"percent": 61.5
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 345,
+					"percent": 38.5
+				}
+			]
+		}, {
+			"precinctNumber": "2155135518",
+			"registeredVoters": 1853,
+			"totalVotes": 1230,
+			"percentTurnout": 66.38,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 742,
+					"percent": 60.33
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 488,
+					"percent": 39.67
+				}
+			]
+		}, {
+			"precinctNumber": "2155135519",
+			"registeredVoters": 1484,
+			"totalVotes": 1045,
+			"percentTurnout": 70.42,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 649,
+					"percent": 62.11
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 396,
+					"percent": 37.89
+				}
+			]
+		}, {
+			"precinctNumber": "2155135520",
+			"registeredVoters": 1680,
+			"totalVotes": 1148,
+			"percentTurnout": 68.33,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 672,
+					"percent": 58.54
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 476,
+					"percent": 41.46
+				}
+			]
+		}, {
+			"precinctNumber": "2155135521",
+			"registeredVoters": 1384,
+			"totalVotes": 1025,
+			"percentTurnout": 74.06,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 567,
+					"percent": 55.32
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 458,
+					"percent": 44.68
+				}
+			]
+		}, {
+			"precinctNumber": "2155135522",
+			"registeredVoters": 1752,
+			"totalVotes": 1386,
+			"percentTurnout": 79.11,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 870,
+					"percent": 62.77
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 516,
+					"percent": 37.23
+				}
+			]
+		}, {
+			"precinctNumber": "2155135523",
+			"registeredVoters": 1218,
+			"totalVotes": 976,
+			"percentTurnout": 80.13,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 588,
+					"percent": 60.25
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 388,
+					"percent": 39.75
+				}
+			]
+		}, {
+			"precinctNumber": "2155135524",
+			"registeredVoters": 1453,
+			"totalVotes": 1027,
+			"percentTurnout": 70.68,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 634,
+					"percent": 61.73
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 393,
+					"percent": 38.27
+				}
+			]
+		}, {
+			"precinctNumber": "2155135525",
+			"registeredVoters": 680,
+			"totalVotes": 562,
+			"percentTurnout": 82.65,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 364,
+					"percent": 64.77
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 198,
+					"percent": 35.23
+				}
+			]
+		}, {
+			"precinctNumber": "2155135526",
+			"registeredVoters": 1584,
+			"totalVotes": 1224,
+			"percentTurnout": 77.27,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 749,
+					"percent": 61.19
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 475,
+					"percent": 38.81
+				}
+			]
+		}, {
+			"precinctNumber": "2155135527",
+			"registeredVoters": 1532,
+			"totalVotes": 1102,
+			"percentTurnout": 71.93,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 681,
+					"percent": 61.8
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 421,
+					"percent": 38.2
+				}
+			]
+		}, {
+			"precinctNumber": "2155135528",
+			"registeredVoters": 1811,
+			"totalVotes": 1260,
+			"percentTurnout": 69.57,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 638,
+					"percent": 50.63
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 622,
+					"percent": 49.37
+				}
+			]
+		}, {
+			"precinctNumber": "2155135529",
+			"registeredVoters": 1994,
+			"totalVotes": 1314,
+			"percentTurnout": 65.9,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 618,
+					"percent": 47.03
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 696,
+					"percent": 52.97
+				}
+			]
+		}, {
+			"precinctNumber": "2155135530",
+			"registeredVoters": 1765,
+			"totalVotes": 1223,
+			"percentTurnout": 69.29,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 673,
+					"percent": 55.03
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 550,
+					"percent": 44.97
+				}
+			]
+		}, {
+			"precinctNumber": "2155135531",
+			"registeredVoters": 1478,
+			"totalVotes": 1088,
+			"percentTurnout": 73.61,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 684,
+					"percent": 62.87
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 404,
+					"percent": 37.13
+				}
+			]
+		}, {
+			"precinctNumber": "2155135532",
+			"registeredVoters": 1602,
+			"totalVotes": 1023,
+			"percentTurnout": 63.86,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 595,
+					"percent": 58.16
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 428,
+					"percent": 41.84
+				}
+			]
+		}, {
+			"precinctNumber": "2155135533",
+			"registeredVoters": 2209,
+			"totalVotes": 1426,
+			"percentTurnout": 64.55,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 729,
+					"percent": 51.12
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 697,
+					"percent": 48.88
+				}
+			]
+		}, {
+			"precinctNumber": "2155135534",
+			"registeredVoters": 2038,
+			"totalVotes": 1377,
+			"percentTurnout": 67.57,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 818,
+					"percent": 59.4
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 559,
+					"percent": 40.6
+				}
+			]
+		}, {
+			"precinctNumber": "2155135535",
+			"registeredVoters": 1835,
+			"totalVotes": 1255,
+			"percentTurnout": 68.39,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 756,
+					"percent": 60.24
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 499,
+					"percent": 39.76
+				}
+			]
+		}, {
+			"precinctNumber": "2155135536",
+			"registeredVoters": 1665,
+			"totalVotes": 1300,
+			"percentTurnout": 78.08,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 809,
+					"percent": 62.23
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 491,
+					"percent": 37.77
+				}
+			]
+		}, {
+			"precinctNumber": "2155135537",
+			"registeredVoters": 1704,
+			"totalVotes": 1359,
+			"percentTurnout": 79.75,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 854,
+					"percent": 62.84
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 505,
+					"percent": 37.16
+				}
+			]
+		}, {
+			"precinctNumber": "2155135538",
+			"registeredVoters": 1547,
+			"totalVotes": 1216,
+			"percentTurnout": 78.6,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 814,
+					"percent": 66.94
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 402,
+					"percent": 33.06
+				}
+			]
+		}, {
+			"precinctNumber": "2155135539",
+			"registeredVoters": 1528,
+			"totalVotes": 1174,
+			"percentTurnout": 76.83,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 756,
+					"percent": 64.4
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 418,
+					"percent": 35.6
+				}
+			]
+		}, {
+			"precinctNumber": "2155135540",
+			"registeredVoters": 1866,
+			"totalVotes": 1231,
+			"percentTurnout": 65.97,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 731,
+					"percent": 59.38
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 500,
+					"percent": 40.62
+				}
+			]
+		}, {
+			"precinctNumber": "2155135541",
+			"registeredVoters": 1719,
+			"totalVotes": 1307,
+			"percentTurnout": 76.03,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 885,
+					"percent": 67.71
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 422,
+					"percent": 32.29
+				}
+			]
+		}, {
+			"precinctNumber": "2155135542",
+			"registeredVoters": 1511,
+			"totalVotes": 900,
+			"percentTurnout": 59.56,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 524,
+					"percent": 58.22
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 376,
+					"percent": 41.78
+				}
+			]
+		}, {
+			"precinctNumber": "2155135543",
+			"registeredVoters": 871,
+			"totalVotes": 623,
+			"percentTurnout": 71.53,
+			"votes": [{
+					"candidate": "Hugh McKean",
+					"votes": 412,
+					"percent": 66.13
+				}, {
+					"candidate": "Jody Shadduck-McNally",
+					"votes": 211,
+					"percent": 33.87
+				}
+			]
+		}
+	]
+}

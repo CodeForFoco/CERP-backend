@@ -1,0 +1,2571 @@
+{
+	"topic": "Amendment 69",
+	"year": "2016",
+	"precincts": [{
+			"precinctNumber": "2235235101",
+			"registeredVoters": 1052,
+			"totalVotes": 706,
+			"percentTurnout": 67.11,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 200,
+					"percent": 28.33
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 506,
+					"percent": 71.67
+				}
+			]
+		}, {
+			"precinctNumber": "2235235102",
+			"registeredVoters": 242,
+			"totalVotes": 210,
+			"percentTurnout": 86.78,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 34,
+					"percent": 16.19
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 176,
+					"percent": 83.81
+				}
+			]
+		}, {
+			"precinctNumber": "2145235201",
+			"registeredVoters": 1925,
+			"totalVotes": 1201,
+			"percentTurnout": 62.39,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 397,
+					"percent": 33.06
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 804,
+					"percent": 66.94
+				}
+			]
+		}, {
+			"precinctNumber": "2145235202",
+			"registeredVoters": 1557,
+			"totalVotes": 1065,
+			"percentTurnout": 68.4,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 310,
+					"percent": 29.11
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 755,
+					"percent": 70.89
+				}
+			]
+		}, {
+			"precinctNumber": "2145235203",
+			"registeredVoters": 1380,
+			"totalVotes": 1038,
+			"percentTurnout": 75.22,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 234,
+					"percent": 22.54
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 804,
+					"percent": 77.46
+				}
+			]
+		}, {
+			"precinctNumber": "2145235204",
+			"registeredVoters": 1727,
+			"totalVotes": 1191,
+			"percentTurnout": 68.96,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 296,
+					"percent": 24.85
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 895,
+					"percent": 75.15
+				}
+			]
+		}, {
+			"precinctNumber": "2145235205",
+			"registeredVoters": 1470,
+			"totalVotes": 904,
+			"percentTurnout": 61.5,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 395,
+					"percent": 43.69
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 509,
+					"percent": 56.31
+				}
+			]
+		}, {
+			"precinctNumber": "2145235206",
+			"registeredVoters": 1812,
+			"totalVotes": 1257,
+			"percentTurnout": 69.37,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 561,
+					"percent": 44.63
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 696,
+					"percent": 55.37
+				}
+			]
+		}, {
+			"precinctNumber": "2145235207",
+			"registeredVoters": 1500,
+			"totalVotes": 946,
+			"percentTurnout": 63.07,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 460,
+					"percent": 48.63
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 486,
+					"percent": 51.37
+				}
+			]
+		}, {
+			"precinctNumber": "2145235208",
+			"registeredVoters": 1784,
+			"totalVotes": 1174,
+			"percentTurnout": 65.81,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 526,
+					"percent": 44.8
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 648,
+					"percent": 55.2
+				}
+			]
+		}, {
+			"precinctNumber": "2145235209",
+			"registeredVoters": 1643,
+			"totalVotes": 1153,
+			"percentTurnout": 70.18,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 453,
+					"percent": 39.29
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 700,
+					"percent": 60.71
+				}
+			]
+		}, {
+			"precinctNumber": "2145235210",
+			"registeredVoters": 1624,
+			"totalVotes": 996,
+			"percentTurnout": 61.33,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 336,
+					"percent": 33.73
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 660,
+					"percent": 66.27
+				}
+			]
+		}, {
+			"precinctNumber": "2145235211",
+			"registeredVoters": 1367,
+			"totalVotes": 943,
+			"percentTurnout": 68.98,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 283,
+					"percent": 30.01
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 660,
+					"percent": 69.99
+				}
+			]
+		}, {
+			"precinctNumber": "2145235212",
+			"registeredVoters": 1192,
+			"totalVotes": 926,
+			"percentTurnout": 77.68,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 243,
+					"percent": 26.24
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 683,
+					"percent": 73.76
+				}
+			]
+		}, {
+			"precinctNumber": "2145235213",
+			"registeredVoters": 2152,
+			"totalVotes": 1497,
+			"percentTurnout": 69.56,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 491,
+					"percent": 32.8
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1006,
+					"percent": 67.2
+				}
+			]
+		}, {
+			"precinctNumber": "2145235214",
+			"registeredVoters": 1585,
+			"totalVotes": 1123,
+			"percentTurnout": 70.85,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 377,
+					"percent": 33.57
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 746,
+					"percent": 66.43
+				}
+			]
+		}, {
+			"precinctNumber": "2145235215",
+			"registeredVoters": 1201,
+			"totalVotes": 850,
+			"percentTurnout": 70.77,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 259,
+					"percent": 30.47
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 591,
+					"percent": 69.53
+				}
+			]
+		}, {
+			"precinctNumber": "2145235216",
+			"registeredVoters": 1096,
+			"totalVotes": 712,
+			"percentTurnout": 64.96,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 238,
+					"percent": 33.43
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 474,
+					"percent": 66.57
+				}
+			]
+		}, {
+			"precinctNumber": "2145235217",
+			"registeredVoters": 1599,
+			"totalVotes": 1227,
+			"percentTurnout": 76.74,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 332,
+					"percent": 27.06
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 895,
+					"percent": 72.94
+				}
+			]
+		}, {
+			"precinctNumber": "2145235218",
+			"registeredVoters": 2535,
+			"totalVotes": 1868,
+			"percentTurnout": 73.69,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 467,
+					"percent": 25.0
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1401,
+					"percent": 75.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235219",
+			"registeredVoters": 1695,
+			"totalVotes": 1314,
+			"percentTurnout": 77.52,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 230,
+					"percent": 17.5
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1084,
+					"percent": 82.5
+				}
+			]
+		}, {
+			"precinctNumber": "2145235220",
+			"registeredVoters": 1336,
+			"totalVotes": 1070,
+			"percentTurnout": 80.09,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 247,
+					"percent": 23.08
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 823,
+					"percent": 76.92
+				}
+			]
+		}, {
+			"precinctNumber": "2145235221",
+			"registeredVoters": 1624,
+			"totalVotes": 1056,
+			"percentTurnout": 65.02,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 310,
+					"percent": 29.36
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 746,
+					"percent": 70.64
+				}
+			]
+		}, {
+			"precinctNumber": "2145235222",
+			"registeredVoters": 2116,
+			"totalVotes": 1473,
+			"percentTurnout": 69.61,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 414,
+					"percent": 28.11
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1059,
+					"percent": 71.89
+				}
+			]
+		}, {
+			"precinctNumber": "2145235223",
+			"registeredVoters": 1620,
+			"totalVotes": 1222,
+			"percentTurnout": 75.43,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 270,
+					"percent": 22.09
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 952,
+					"percent": 77.91
+				}
+			]
+		}, {
+			"precinctNumber": "2145235224",
+			"registeredVoters": 1175,
+			"totalVotes": 883,
+			"percentTurnout": 75.15,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 210,
+					"percent": 23.78
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 673,
+					"percent": 76.22
+				}
+			]
+		}, {
+			"precinctNumber": "2145235225",
+			"registeredVoters": 1639,
+			"totalVotes": 1332,
+			"percentTurnout": 81.27,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 203,
+					"percent": 15.24
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1129,
+					"percent": 84.76
+				}
+			]
+		}, {
+			"precinctNumber": "2145235226",
+			"registeredVoters": 2357,
+			"totalVotes": 1551,
+			"percentTurnout": 65.8,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 399,
+					"percent": 25.73
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1152,
+					"percent": 74.27
+				}
+			]
+		}, {
+			"precinctNumber": "2145235227",
+			"registeredVoters": 1995,
+			"totalVotes": 1499,
+			"percentTurnout": 75.14,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 302,
+					"percent": 20.15
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1197,
+					"percent": 79.85
+				}
+			]
+		}, {
+			"precinctNumber": "2145235228",
+			"registeredVoters": 1411,
+			"totalVotes": 1087,
+			"percentTurnout": 77.04,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 231,
+					"percent": 21.25
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 856,
+					"percent": 78.75
+				}
+			]
+		}, {
+			"precinctNumber": "2145235229",
+			"registeredVoters": 1798,
+			"totalVotes": 1354,
+			"percentTurnout": 75.31,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 239,
+					"percent": 17.65
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1115,
+					"percent": 82.35
+				}
+			]
+		}, {
+			"precinctNumber": "2145235230",
+			"registeredVoters": 1342,
+			"totalVotes": 1028,
+			"percentTurnout": 76.6,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 177,
+					"percent": 17.22
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 851,
+					"percent": 82.78
+				}
+			]
+		}, {
+			"precinctNumber": "2145235231",
+			"registeredVoters": 1352,
+			"totalVotes": 955,
+			"percentTurnout": 70.64,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 220,
+					"percent": 23.04
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 735,
+					"percent": 76.96
+				}
+			]
+		}, {
+			"precinctNumber": "2145235232",
+			"registeredVoters": 1265,
+			"totalVotes": 1009,
+			"percentTurnout": 79.76,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 169,
+					"percent": 16.75
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 840,
+					"percent": 83.25
+				}
+			]
+		}, {
+			"precinctNumber": "2145235233",
+			"registeredVoters": 1417,
+			"totalVotes": 1054,
+			"percentTurnout": 74.38,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 223,
+					"percent": 21.16
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 831,
+					"percent": 78.84
+				}
+			]
+		}, {
+			"precinctNumber": "2145235234",
+			"registeredVoters": 1284,
+			"totalVotes": 1048,
+			"percentTurnout": 81.62,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 177,
+					"percent": 16.89
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 871,
+					"percent": 83.11
+				}
+			]
+		}, {
+			"precinctNumber": "2145235235",
+			"registeredVoters": 1617,
+			"totalVotes": 1239,
+			"percentTurnout": 76.62,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 174,
+					"percent": 14.04
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1065,
+					"percent": 85.96
+				}
+			]
+		}, {
+			"precinctNumber": "2145235236",
+			"registeredVoters": 1953,
+			"totalVotes": 1570,
+			"percentTurnout": 80.39,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 183,
+					"percent": 11.66
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1387,
+					"percent": 88.34
+				}
+			]
+		}, {
+			"precinctNumber": "2145235237",
+			"registeredVoters": 1434,
+			"totalVotes": 1151,
+			"percentTurnout": 80.26,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 214,
+					"percent": 18.59
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 937,
+					"percent": 81.41
+				}
+			]
+		}, {
+			"precinctNumber": "2145235238",
+			"registeredVoters": 1157,
+			"totalVotes": 911,
+			"percentTurnout": 78.74,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 184,
+					"percent": 20.2
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 727,
+					"percent": 79.8
+				}
+			]
+		}, {
+			"precinctNumber": "2145235239",
+			"registeredVoters": 1288,
+			"totalVotes": 786,
+			"percentTurnout": 61.02,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 228,
+					"percent": 29.01
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 558,
+					"percent": 70.99
+				}
+			]
+		}, {
+			"precinctNumber": "2145235240",
+			"registeredVoters": 1335,
+			"totalVotes": 989,
+			"percentTurnout": 74.08,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 234,
+					"percent": 23.66
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 755,
+					"percent": 76.34
+				}
+			]
+		}, {
+			"precinctNumber": "2145335301",
+			"registeredVoters": 1355,
+			"totalVotes": 905,
+			"percentTurnout": 66.79,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 422,
+					"percent": 46.63
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 483,
+					"percent": 53.37
+				}
+			]
+		}, {
+			"precinctNumber": "2145335302",
+			"registeredVoters": 1926,
+			"totalVotes": 1368,
+			"percentTurnout": 71.03,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 615,
+					"percent": 44.96
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 753,
+					"percent": 55.04
+				}
+			]
+		}, {
+			"precinctNumber": "2145335303",
+			"registeredVoters": 1522,
+			"totalVotes": 1065,
+			"percentTurnout": 69.97,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 448,
+					"percent": 42.07
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 617,
+					"percent": 57.93
+				}
+			]
+		}, {
+			"precinctNumber": "2145335304",
+			"registeredVoters": 2163,
+			"totalVotes": 1422,
+			"percentTurnout": 65.74,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 520,
+					"percent": 36.57
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 902,
+					"percent": 63.43
+				}
+			]
+		}, {
+			"precinctNumber": "2145335305",
+			"registeredVoters": 1893,
+			"totalVotes": 1260,
+			"percentTurnout": 66.56,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 423,
+					"percent": 33.57
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 837,
+					"percent": 66.43
+				}
+			]
+		}, {
+			"precinctNumber": "2145335306",
+			"registeredVoters": 2275,
+			"totalVotes": 1342,
+			"percentTurnout": 58.99,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 527,
+					"percent": 39.27
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 815,
+					"percent": 60.73
+				}
+			]
+		}, {
+			"precinctNumber": "2145335307",
+			"registeredVoters": 2427,
+			"totalVotes": 1416,
+			"percentTurnout": 58.34,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 600,
+					"percent": 42.37
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 816,
+					"percent": 57.63
+				}
+			]
+		}, {
+			"precinctNumber": "2145335308",
+			"registeredVoters": 1453,
+			"totalVotes": 744,
+			"percentTurnout": 51.2,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 279,
+					"percent": 37.5
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 465,
+					"percent": 62.5
+				}
+			]
+		}, {
+			"precinctNumber": "2145335309",
+			"registeredVoters": 1989,
+			"totalVotes": 974,
+			"percentTurnout": 48.97,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 409,
+					"percent": 41.99
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 565,
+					"percent": 58.01
+				}
+			]
+		}, {
+			"precinctNumber": "2145335310",
+			"registeredVoters": 2120,
+			"totalVotes": 1370,
+			"percentTurnout": 64.62,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 550,
+					"percent": 40.15
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 820,
+					"percent": 59.85
+				}
+			]
+		}, {
+			"precinctNumber": "2145335311",
+			"registeredVoters": 2285,
+			"totalVotes": 1367,
+			"percentTurnout": 59.82,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 518,
+					"percent": 37.89
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 849,
+					"percent": 62.11
+				}
+			]
+		}, {
+			"precinctNumber": "2145335312",
+			"registeredVoters": 1959,
+			"totalVotes": 1194,
+			"percentTurnout": 60.95,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 464,
+					"percent": 38.86
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 730,
+					"percent": 61.14
+				}
+			]
+		}, {
+			"precinctNumber": "2145335313",
+			"registeredVoters": 1560,
+			"totalVotes": 1131,
+			"percentTurnout": 72.5,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 339,
+					"percent": 29.97
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 792,
+					"percent": 70.03
+				}
+			]
+		}, {
+			"precinctNumber": "2145335314",
+			"registeredVoters": 2529,
+			"totalVotes": 1667,
+			"percentTurnout": 65.92,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 579,
+					"percent": 34.73
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1088,
+					"percent": 65.27
+				}
+			]
+		}, {
+			"precinctNumber": "2145335315",
+			"registeredVoters": 1740,
+			"totalVotes": 1230,
+			"percentTurnout": 70.69,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 349,
+					"percent": 28.37
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 881,
+					"percent": 71.63
+				}
+			]
+		}, {
+			"precinctNumber": "2145335316",
+			"registeredVoters": 1109,
+			"totalVotes": 843,
+			"percentTurnout": 76.01,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 264,
+					"percent": 31.32
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 579,
+					"percent": 68.68
+				}
+			]
+		}, {
+			"precinctNumber": "2145335317",
+			"registeredVoters": 1515,
+			"totalVotes": 1252,
+			"percentTurnout": 82.64,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 292,
+					"percent": 23.32
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 960,
+					"percent": 76.68
+				}
+			]
+		}, {
+			"precinctNumber": "2145335318",
+			"registeredVoters": 1625,
+			"totalVotes": 1063,
+			"percentTurnout": 65.42,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 376,
+					"percent": 35.37
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 687,
+					"percent": 64.63
+				}
+			]
+		}, {
+			"precinctNumber": "2145335319",
+			"registeredVoters": 1373,
+			"totalVotes": 974,
+			"percentTurnout": 70.94,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 276,
+					"percent": 28.34
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 698,
+					"percent": 71.66
+				}
+			]
+		}, {
+			"precinctNumber": "2145335320",
+			"registeredVoters": 1262,
+			"totalVotes": 875,
+			"percentTurnout": 69.33,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 280,
+					"percent": 32.0
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 595,
+					"percent": 68.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335321",
+			"registeredVoters": 1648,
+			"totalVotes": 1011,
+			"percentTurnout": 61.35,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 344,
+					"percent": 34.03
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 667,
+					"percent": 65.97
+				}
+			]
+		}, {
+			"precinctNumber": "2145335322",
+			"registeredVoters": 1508,
+			"totalVotes": 1065,
+			"percentTurnout": 70.62,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 317,
+					"percent": 29.77
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 748,
+					"percent": 70.23
+				}
+			]
+		}, {
+			"precinctNumber": "2145335323",
+			"registeredVoters": 1529,
+			"totalVotes": 1136,
+			"percentTurnout": 74.3,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 301,
+					"percent": 26.5
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 835,
+					"percent": 73.5
+				}
+			]
+		}, {
+			"precinctNumber": "2145335324",
+			"registeredVoters": 1701,
+			"totalVotes": 1366,
+			"percentTurnout": 80.31,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 310,
+					"percent": 22.69
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1056,
+					"percent": 77.31
+				}
+			]
+		}, {
+			"precinctNumber": "2145335325",
+			"registeredVoters": 1813,
+			"totalVotes": 1257,
+			"percentTurnout": 69.33,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 343,
+					"percent": 27.29
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 914,
+					"percent": 72.71
+				}
+			]
+		}, {
+			"precinctNumber": "2145335326",
+			"registeredVoters": 2083,
+			"totalVotes": 1487,
+			"percentTurnout": 71.39,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 455,
+					"percent": 30.6
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1032,
+					"percent": 69.4
+				}
+			]
+		}, {
+			"precinctNumber": "2145335327",
+			"registeredVoters": 1576,
+			"totalVotes": 1251,
+			"percentTurnout": 79.38,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 223,
+					"percent": 17.83
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1028,
+					"percent": 82.17
+				}
+			]
+		}, {
+			"precinctNumber": "2145335328",
+			"registeredVoters": 1604,
+			"totalVotes": 1299,
+			"percentTurnout": 80.99,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 236,
+					"percent": 18.17
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1063,
+					"percent": 81.83
+				}
+			]
+		}, {
+			"precinctNumber": "2145335329",
+			"registeredVoters": 1235,
+			"totalVotes": 980,
+			"percentTurnout": 79.35,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 165,
+					"percent": 16.84
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 815,
+					"percent": 83.16
+				}
+			]
+		}, {
+			"precinctNumber": "2145335330",
+			"registeredVoters": 1501,
+			"totalVotes": 1169,
+			"percentTurnout": 77.88,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 209,
+					"percent": 17.88
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 960,
+					"percent": 82.12
+				}
+			]
+		}, {
+			"precinctNumber": "2145335331",
+			"registeredVoters": 956,
+			"totalVotes": 712,
+			"percentTurnout": 74.48,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 142,
+					"percent": 19.94
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 570,
+					"percent": 80.06
+				}
+			]
+		}, {
+			"precinctNumber": "2145335332",
+			"registeredVoters": 1342,
+			"totalVotes": 930,
+			"percentTurnout": 69.3,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 176,
+					"percent": 18.92
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 754,
+					"percent": 81.08
+				}
+			]
+		}, {
+			"precinctNumber": "2145335333",
+			"registeredVoters": 1106,
+			"totalVotes": 822,
+			"percentTurnout": 74.32,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 158,
+					"percent": 19.22
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 664,
+					"percent": 80.78
+				}
+			]
+		}, {
+			"precinctNumber": "2145335334",
+			"registeredVoters": 1943,
+			"totalVotes": 1033,
+			"percentTurnout": 53.17,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 460,
+					"percent": 44.53
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 573,
+					"percent": 55.47
+				}
+			]
+		}, {
+			"precinctNumber": "2145335335",
+			"registeredVoters": 2659,
+			"totalVotes": 1430,
+			"percentTurnout": 53.78,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 701,
+					"percent": 49.02
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 729,
+					"percent": 50.98
+				}
+			]
+		}, {
+			"precinctNumber": "2145335336",
+			"registeredVoters": 1417,
+			"totalVotes": 779,
+			"percentTurnout": 54.98,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 312,
+					"percent": 40.05
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 467,
+					"percent": 59.95
+				}
+			]
+		}, {
+			"precinctNumber": "2154935401",
+			"registeredVoters": 767,
+			"totalVotes": 546,
+			"percentTurnout": 71.19,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 93,
+					"percent": 17.03
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 453,
+					"percent": 82.97
+				}
+			]
+		}, {
+			"precinctNumber": "2154935402",
+			"registeredVoters": 1954,
+			"totalVotes": 1515,
+			"percentTurnout": 77.53,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 241,
+					"percent": 15.91
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1274,
+					"percent": 84.09
+				}
+			]
+		}, {
+			"precinctNumber": "2154935403",
+			"registeredVoters": 1371,
+			"totalVotes": 1057,
+			"percentTurnout": 77.1,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 146,
+					"percent": 13.81
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 911,
+					"percent": 86.19
+				}
+			]
+		}, {
+			"precinctNumber": "2154935404",
+			"registeredVoters": 127,
+			"totalVotes": 95,
+			"percentTurnout": 74.8,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 16,
+					"percent": 16.84
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 79,
+					"percent": 83.16
+				}
+			]
+		}, {
+			"precinctNumber": "2154935405",
+			"registeredVoters": 808,
+			"totalVotes": 616,
+			"percentTurnout": 76.24,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 170,
+					"percent": 27.6
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 446,
+					"percent": 72.4
+				}
+			]
+		}, {
+			"precinctNumber": "2154935406",
+			"registeredVoters": 1006,
+			"totalVotes": 808,
+			"percentTurnout": 80.32,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 179,
+					"percent": 22.15
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 629,
+					"percent": 77.85
+				}
+			]
+		}, {
+			"precinctNumber": "2154935407",
+			"registeredVoters": 1855,
+			"totalVotes": 1455,
+			"percentTurnout": 78.44,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 372,
+					"percent": 25.57
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1083,
+					"percent": 74.43
+				}
+			]
+		}, {
+			"precinctNumber": "2154935408",
+			"registeredVoters": 2034,
+			"totalVotes": 1600,
+			"percentTurnout": 78.66,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 272,
+					"percent": 17.0
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1328,
+					"percent": 83.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935409",
+			"registeredVoters": 1322,
+			"totalVotes": 1026,
+			"percentTurnout": 77.61,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 136,
+					"percent": 13.26
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 890,
+					"percent": 86.74
+				}
+			]
+		}, {
+			"precinctNumber": "2154935410",
+			"registeredVoters": 1122,
+			"totalVotes": 812,
+			"percentTurnout": 72.37,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 159,
+					"percent": 19.58
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 653,
+					"percent": 80.42
+				}
+			]
+		}, {
+			"precinctNumber": "2154935411",
+			"registeredVoters": 1560,
+			"totalVotes": 1223,
+			"percentTurnout": 78.4,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 254,
+					"percent": 20.77
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 969,
+					"percent": 79.23
+				}
+			]
+		}, {
+			"precinctNumber": "2154935412",
+			"registeredVoters": 1096,
+			"totalVotes": 787,
+			"percentTurnout": 71.81,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 218,
+					"percent": 27.7
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 569,
+					"percent": 72.3
+				}
+			]
+		}, {
+			"precinctNumber": "2154935413",
+			"registeredVoters": 1404,
+			"totalVotes": 1054,
+			"percentTurnout": 75.07,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 221,
+					"percent": 20.97
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 833,
+					"percent": 79.03
+				}
+			]
+		}, {
+			"precinctNumber": "2154935414",
+			"registeredVoters": 1379,
+			"totalVotes": 1009,
+			"percentTurnout": 73.17,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 216,
+					"percent": 21.41
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 793,
+					"percent": 78.59
+				}
+			]
+		}, {
+			"precinctNumber": "2154935415",
+			"registeredVoters": 1579,
+			"totalVotes": 1120,
+			"percentTurnout": 70.93,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 288,
+					"percent": 25.71
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 832,
+					"percent": 74.29
+				}
+			]
+		}, {
+			"precinctNumber": "2154935416",
+			"registeredVoters": 1511,
+			"totalVotes": 1173,
+			"percentTurnout": 77.63,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 264,
+					"percent": 22.51
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 909,
+					"percent": 77.49
+				}
+			]
+		}, {
+			"precinctNumber": "2154935417",
+			"registeredVoters": 1253,
+			"totalVotes": 1023,
+			"percentTurnout": 81.64,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 281,
+					"percent": 27.47
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 742,
+					"percent": 72.53
+				}
+			]
+		}, {
+			"precinctNumber": "2154935418",
+			"registeredVoters": 1670,
+			"totalVotes": 1346,
+			"percentTurnout": 80.6,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 187,
+					"percent": 13.89
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1159,
+					"percent": 86.11
+				}
+			]
+		}, {
+			"precinctNumber": "2154935419",
+			"registeredVoters": 1615,
+			"totalVotes": 1233,
+			"percentTurnout": 76.35,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 185,
+					"percent": 15.0
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1048,
+					"percent": 85.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935420",
+			"registeredVoters": 2120,
+			"totalVotes": 1614,
+			"percentTurnout": 76.13,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 313,
+					"percent": 19.39
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1301,
+					"percent": 80.61
+				}
+			]
+		}, {
+			"precinctNumber": "2154935421",
+			"registeredVoters": 1889,
+			"totalVotes": 1420,
+			"percentTurnout": 75.17,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 227,
+					"percent": 15.99
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1193,
+					"percent": 84.01
+				}
+			]
+		}, {
+			"precinctNumber": "2154935422",
+			"registeredVoters": 1360,
+			"totalVotes": 1106,
+			"percentTurnout": 81.32,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 156,
+					"percent": 14.1
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 950,
+					"percent": 85.9
+				}
+			]
+		}, {
+			"precinctNumber": "2154935423",
+			"registeredVoters": 1538,
+			"totalVotes": 1281,
+			"percentTurnout": 83.29,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 173,
+					"percent": 13.51
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1108,
+					"percent": 86.49
+				}
+			]
+		}, {
+			"precinctNumber": "2154935424",
+			"registeredVoters": 44,
+			"totalVotes": 35,
+			"percentTurnout": 79.55,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 4,
+					"percent": 11.43
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 31,
+					"percent": 88.57
+				}
+			]
+		}, {
+			"precinctNumber": "2154935425",
+			"registeredVoters": 189,
+			"totalVotes": 149,
+			"percentTurnout": 78.84,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 8,
+					"percent": 5.37
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 141,
+					"percent": 94.63
+				}
+			]
+		}, {
+			"precinctNumber": "2154935426",
+			"registeredVoters": 1154,
+			"totalVotes": 925,
+			"percentTurnout": 80.16,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 123,
+					"percent": 13.3
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 802,
+					"percent": 86.7
+				}
+			]
+		}, {
+			"precinctNumber": "2154935427",
+			"registeredVoters": 1486,
+			"totalVotes": 1190,
+			"percentTurnout": 80.08,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 261,
+					"percent": 21.93
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 929,
+					"percent": 78.07
+				}
+			]
+		}, {
+			"precinctNumber": "2154935428",
+			"registeredVoters": 1359,
+			"totalVotes": 1068,
+			"percentTurnout": 78.59,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 288,
+					"percent": 26.97
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 780,
+					"percent": 73.03
+				}
+			]
+		}, {
+			"precinctNumber": "2154935429",
+			"registeredVoters": 1937,
+			"totalVotes": 1438,
+			"percentTurnout": 74.24,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 342,
+					"percent": 23.78
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1096,
+					"percent": 76.22
+				}
+			]
+		}, {
+			"precinctNumber": "2154935430",
+			"registeredVoters": 1086,
+			"totalVotes": 856,
+			"percentTurnout": 78.82,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 119,
+					"percent": 13.9
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 737,
+					"percent": 86.1
+				}
+			]
+		}, {
+			"precinctNumber": "2154935431",
+			"registeredVoters": 1321,
+			"totalVotes": 935,
+			"percentTurnout": 70.78,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 160,
+					"percent": 17.11
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 775,
+					"percent": 82.89
+				}
+			]
+		}, {
+			"precinctNumber": "2154935432",
+			"registeredVoters": 1834,
+			"totalVotes": 1329,
+			"percentTurnout": 72.46,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 211,
+					"percent": 15.88
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1118,
+					"percent": 84.12
+				}
+			]
+		}, {
+			"precinctNumber": "2154935433",
+			"registeredVoters": 2304,
+			"totalVotes": 1723,
+			"percentTurnout": 74.78,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 245,
+					"percent": 14.22
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1478,
+					"percent": 85.78
+				}
+			]
+		}, {
+			"precinctNumber": "2154935434",
+			"registeredVoters": 1119,
+			"totalVotes": 852,
+			"percentTurnout": 76.14,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 121,
+					"percent": 14.2
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 731,
+					"percent": 85.8
+				}
+			]
+		}, {
+			"precinctNumber": "2155135501",
+			"registeredVoters": 1722,
+			"totalVotes": 1287,
+			"percentTurnout": 74.74,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 217,
+					"percent": 16.86
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1070,
+					"percent": 83.14
+				}
+			]
+		}, {
+			"precinctNumber": "2155135502",
+			"registeredVoters": 1356,
+			"totalVotes": 1063,
+			"percentTurnout": 78.39,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 140,
+					"percent": 13.17
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 923,
+					"percent": 86.83
+				}
+			]
+		}, {
+			"precinctNumber": "2155135503",
+			"registeredVoters": 1517,
+			"totalVotes": 1110,
+			"percentTurnout": 73.17,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 179,
+					"percent": 16.13
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 931,
+					"percent": 83.87
+				}
+			]
+		}, {
+			"precinctNumber": "2155135504",
+			"registeredVoters": 1623,
+			"totalVotes": 1168,
+			"percentTurnout": 71.97,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 201,
+					"percent": 17.21
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 967,
+					"percent": 82.79
+				}
+			]
+		}, {
+			"precinctNumber": "2155135505",
+			"registeredVoters": 1499,
+			"totalVotes": 996,
+			"percentTurnout": 66.44,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 168,
+					"percent": 16.87
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 828,
+					"percent": 83.13
+				}
+			]
+		}, {
+			"precinctNumber": "2155135506",
+			"registeredVoters": 1341,
+			"totalVotes": 963,
+			"percentTurnout": 71.81,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 145,
+					"percent": 15.06
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 818,
+					"percent": 84.94
+				}
+			]
+		}, {
+			"precinctNumber": "2155135507",
+			"registeredVoters": 1768,
+			"totalVotes": 1440,
+			"percentTurnout": 81.45,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 168,
+					"percent": 11.67
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1272,
+					"percent": 88.33
+				}
+			]
+		}, {
+			"precinctNumber": "2155135508",
+			"registeredVoters": 1094,
+			"totalVotes": 890,
+			"percentTurnout": 81.35,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 89,
+					"percent": 10.0
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 801,
+					"percent": 90.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135509",
+			"registeredVoters": 980,
+			"totalVotes": 712,
+			"percentTurnout": 72.65,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 130,
+					"percent": 18.26
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 582,
+					"percent": 81.74
+				}
+			]
+		}, {
+			"precinctNumber": "2155135510",
+			"registeredVoters": 1364,
+			"totalVotes": 1001,
+			"percentTurnout": 73.39,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 166,
+					"percent": 16.58
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 835,
+					"percent": 83.42
+				}
+			]
+		}, {
+			"precinctNumber": "2155135511",
+			"registeredVoters": 988,
+			"totalVotes": 802,
+			"percentTurnout": 81.17,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 113,
+					"percent": 14.09
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 689,
+					"percent": 85.91
+				}
+			]
+		}, {
+			"precinctNumber": "2155135512",
+			"registeredVoters": 1644,
+			"totalVotes": 1222,
+			"percentTurnout": 74.33,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 209,
+					"percent": 17.1
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1013,
+					"percent": 82.9
+				}
+			]
+		}, {
+			"precinctNumber": "2155135513",
+			"registeredVoters": 1310,
+			"totalVotes": 984,
+			"percentTurnout": 75.11,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 163,
+					"percent": 16.57
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 821,
+					"percent": 83.43
+				}
+			]
+		}, {
+			"precinctNumber": "2155135514",
+			"registeredVoters": 1648,
+			"totalVotes": 1137,
+			"percentTurnout": 68.99,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 257,
+					"percent": 22.6
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 880,
+					"percent": 77.4
+				}
+			]
+		}, {
+			"precinctNumber": "2155135515",
+			"registeredVoters": 1245,
+			"totalVotes": 936,
+			"percentTurnout": 75.18,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 131,
+					"percent": 14.0
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 805,
+					"percent": 86.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135516",
+			"registeredVoters": 1650,
+			"totalVotes": 1377,
+			"percentTurnout": 83.45,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 166,
+					"percent": 12.06
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1211,
+					"percent": 87.94
+				}
+			]
+		}, {
+			"precinctNumber": "2155135517",
+			"registeredVoters": 1124,
+			"totalVotes": 902,
+			"percentTurnout": 80.25,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 148,
+					"percent": 16.41
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 754,
+					"percent": 83.59
+				}
+			]
+		}, {
+			"precinctNumber": "2155135518",
+			"registeredVoters": 1853,
+			"totalVotes": 1270,
+			"percentTurnout": 68.54,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 239,
+					"percent": 18.82
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1031,
+					"percent": 81.18
+				}
+			]
+		}, {
+			"precinctNumber": "2155135519",
+			"registeredVoters": 1484,
+			"totalVotes": 1058,
+			"percentTurnout": 71.29,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 168,
+					"percent": 15.88
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 890,
+					"percent": 84.12
+				}
+			]
+		}, {
+			"precinctNumber": "2155135520",
+			"registeredVoters": 1680,
+			"totalVotes": 1142,
+			"percentTurnout": 67.98,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 211,
+					"percent": 18.48
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 931,
+					"percent": 81.52
+				}
+			]
+		}, {
+			"precinctNumber": "2155135521",
+			"registeredVoters": 1384,
+			"totalVotes": 1036,
+			"percentTurnout": 74.86,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 217,
+					"percent": 20.95
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 819,
+					"percent": 79.05
+				}
+			]
+		}, {
+			"precinctNumber": "2155135522",
+			"registeredVoters": 1752,
+			"totalVotes": 1383,
+			"percentTurnout": 78.94,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 194,
+					"percent": 14.03
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1189,
+					"percent": 85.97
+				}
+			]
+		}, {
+			"precinctNumber": "2155135523",
+			"registeredVoters": 1218,
+			"totalVotes": 973,
+			"percentTurnout": 79.89,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 144,
+					"percent": 14.8
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 829,
+					"percent": 85.2
+				}
+			]
+		}, {
+			"precinctNumber": "2155135524",
+			"registeredVoters": 1453,
+			"totalVotes": 1058,
+			"percentTurnout": 72.81,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 154,
+					"percent": 14.56
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 904,
+					"percent": 85.44
+				}
+			]
+		}, {
+			"precinctNumber": "2155135525",
+			"registeredVoters": 680,
+			"totalVotes": 570,
+			"percentTurnout": 83.82,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 64,
+					"percent": 11.23
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 506,
+					"percent": 88.77
+				}
+			]
+		}, {
+			"precinctNumber": "2155135526",
+			"registeredVoters": 1584,
+			"totalVotes": 1248,
+			"percentTurnout": 78.79,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 179,
+					"percent": 14.34
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1069,
+					"percent": 85.66
+				}
+			]
+		}, {
+			"precinctNumber": "2155135527",
+			"registeredVoters": 1532,
+			"totalVotes": 1109,
+			"percentTurnout": 72.39,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 196,
+					"percent": 17.67
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 913,
+					"percent": 82.33
+				}
+			]
+		}, {
+			"precinctNumber": "2155135528",
+			"registeredVoters": 1811,
+			"totalVotes": 1261,
+			"percentTurnout": 69.63,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 299,
+					"percent": 23.71
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 962,
+					"percent": 76.29
+				}
+			]
+		}, {
+			"precinctNumber": "2155135529",
+			"registeredVoters": 1994,
+			"totalVotes": 1326,
+			"percentTurnout": 66.5,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 364,
+					"percent": 27.45
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 962,
+					"percent": 72.55
+				}
+			]
+		}, {
+			"precinctNumber": "2155135530",
+			"registeredVoters": 1765,
+			"totalVotes": 1232,
+			"percentTurnout": 69.8,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 282,
+					"percent": 22.89
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 950,
+					"percent": 77.11
+				}
+			]
+		}, {
+			"precinctNumber": "2155135531",
+			"registeredVoters": 1478,
+			"totalVotes": 1114,
+			"percentTurnout": 75.37,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 173,
+					"percent": 15.53
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 941,
+					"percent": 84.47
+				}
+			]
+		}, {
+			"precinctNumber": "2155135532",
+			"registeredVoters": 1602,
+			"totalVotes": 1060,
+			"percentTurnout": 66.17,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 216,
+					"percent": 20.38
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 844,
+					"percent": 79.62
+				}
+			]
+		}, {
+			"precinctNumber": "2155135533",
+			"registeredVoters": 2209,
+			"totalVotes": 1424,
+			"percentTurnout": 64.46,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 381,
+					"percent": 26.76
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1043,
+					"percent": 73.24
+				}
+			]
+		}, {
+			"precinctNumber": "2155135534",
+			"registeredVoters": 2038,
+			"totalVotes": 1395,
+			"percentTurnout": 68.45,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 282,
+					"percent": 20.22
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1113,
+					"percent": 79.78
+				}
+			]
+		}, {
+			"precinctNumber": "2155135535",
+			"registeredVoters": 1835,
+			"totalVotes": 1289,
+			"percentTurnout": 70.25,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 216,
+					"percent": 16.76
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1073,
+					"percent": 83.24
+				}
+			]
+		}, {
+			"precinctNumber": "2155135536",
+			"registeredVoters": 1665,
+			"totalVotes": 1326,
+			"percentTurnout": 79.64,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 174,
+					"percent": 13.12
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1152,
+					"percent": 86.88
+				}
+			]
+		}, {
+			"precinctNumber": "2155135537",
+			"registeredVoters": 1704,
+			"totalVotes": 1378,
+			"percentTurnout": 80.87,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 196,
+					"percent": 14.22
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1182,
+					"percent": 85.78
+				}
+			]
+		}, {
+			"precinctNumber": "2155135538",
+			"registeredVoters": 1547,
+			"totalVotes": 1266,
+			"percentTurnout": 81.84,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 159,
+					"percent": 12.56
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1107,
+					"percent": 87.44
+				}
+			]
+		}, {
+			"precinctNumber": "2155135539",
+			"registeredVoters": 1528,
+			"totalVotes": 1205,
+			"percentTurnout": 78.86,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 187,
+					"percent": 15.52
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1018,
+					"percent": 84.48
+				}
+			]
+		}, {
+			"precinctNumber": "2155135540",
+			"registeredVoters": 1866,
+			"totalVotes": 1276,
+			"percentTurnout": 68.38,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 244,
+					"percent": 19.12
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1032,
+					"percent": 80.88
+				}
+			]
+		}, {
+			"precinctNumber": "2155135541",
+			"registeredVoters": 1719,
+			"totalVotes": 1312,
+			"percentTurnout": 76.32,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 159,
+					"percent": 12.12
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1153,
+					"percent": 87.88
+				}
+			]
+		}, {
+			"precinctNumber": "2155135542",
+			"registeredVoters": 1511,
+			"totalVotes": 884,
+			"percentTurnout": 58.5,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 197,
+					"percent": 22.29
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 687,
+					"percent": 77.71
+				}
+			]
+		}, {
+			"precinctNumber": "2155135543",
+			"registeredVoters": 871,
+			"totalVotes": 628,
+			"percentTurnout": 72.1,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 99,
+					"percent": 15.76
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 529,
+					"percent": 84.24
+				}
+			]
+		}, {
+			"precinctNumber": "2155235601",
+			"registeredVoters": 536,
+			"totalVotes": 323,
+			"percentTurnout": 60.26,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 105,
+					"percent": 32.51
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 218,
+					"percent": 67.49
+				}
+			]
+		}, {
+			"precinctNumber": "2155235602",
+			"registeredVoters": 995,
+			"totalVotes": 819,
+			"percentTurnout": 82.31,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 206,
+					"percent": 25.15
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 613,
+					"percent": 74.85
+				}
+			]
+		}, {
+			"precinctNumber": "2155235603",
+			"registeredVoters": 1541,
+			"totalVotes": 1291,
+			"percentTurnout": 83.78,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 249,
+					"percent": 19.29
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1042,
+					"percent": 80.71
+				}
+			]
+		}, {
+			"precinctNumber": "2155335701",
+			"registeredVoters": 1496,
+			"totalVotes": 1124,
+			"percentTurnout": 75.13,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 425,
+					"percent": 37.81
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 699,
+					"percent": 62.19
+				}
+			]
+		}, {
+			"precinctNumber": "2155335702",
+			"registeredVoters": 1196,
+			"totalVotes": 960,
+			"percentTurnout": 80.27,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 261,
+					"percent": 27.19
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 699,
+					"percent": 72.81
+				}
+			]
+		}, {
+			"precinctNumber": "2155335703",
+			"registeredVoters": 1300,
+			"totalVotes": 782,
+			"percentTurnout": 60.15,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 229,
+					"percent": 29.28
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 553,
+					"percent": 70.72
+				}
+			]
+		}, {
+			"precinctNumber": "2234935801",
+			"registeredVoters": 1161,
+			"totalVotes": 844,
+			"percentTurnout": 72.7,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 141,
+					"percent": 16.71
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 703,
+					"percent": 83.29
+				}
+			]
+		}, {
+			"precinctNumber": "2234935802",
+			"registeredVoters": 834,
+			"totalVotes": 693,
+			"percentTurnout": 83.09,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 99,
+					"percent": 14.29
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 594,
+					"percent": 85.71
+				}
+			]
+		}, {
+			"precinctNumber": "2234935803",
+			"registeredVoters": 1374,
+			"totalVotes": 1156,
+			"percentTurnout": 84.13,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 108,
+					"percent": 9.34
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1048,
+					"percent": 90.66
+				}
+			]
+		}, {
+			"precinctNumber": "2234935804",
+			"registeredVoters": 1326,
+			"totalVotes": 1103,
+			"percentTurnout": 83.18,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 126,
+					"percent": 11.42
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 977,
+					"percent": 88.58
+				}
+			]
+		}, {
+			"precinctNumber": "2234935805",
+			"registeredVoters": 1822,
+			"totalVotes": 1502,
+			"percentTurnout": 82.44,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 143,
+					"percent": 9.52
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1359,
+					"percent": 90.48
+				}
+			]
+		}, {
+			"precinctNumber": "2234935806",
+			"registeredVoters": 989,
+			"totalVotes": 809,
+			"percentTurnout": 81.8,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 71,
+					"percent": 8.78
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 738,
+					"percent": 91.22
+				}
+			]
+		}, {
+			"precinctNumber": "2234935807",
+			"registeredVoters": 1705,
+			"totalVotes": 1412,
+			"percentTurnout": 82.82,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 127,
+					"percent": 8.99
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1285,
+					"percent": 91.01
+				}
+			]
+		}, {
+			"precinctNumber": "2234935808",
+			"registeredVoters": 1145,
+			"totalVotes": 978,
+			"percentTurnout": 85.41,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 93,
+					"percent": 9.51
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 885,
+					"percent": 90.49
+				}
+			]
+		}, {
+			"precinctNumber": "2234935809",
+			"registeredVoters": 1166,
+			"totalVotes": 974,
+			"percentTurnout": 83.53,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 63,
+					"percent": 6.47
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 911,
+					"percent": 93.53
+				}
+			]
+		}, {
+			"precinctNumber": "2234935810",
+			"registeredVoters": 2148,
+			"totalVotes": 1614,
+			"percentTurnout": 75.14,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 211,
+					"percent": 13.07
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 1403,
+					"percent": 86.93
+				}
+			]
+		}
+	]
+}

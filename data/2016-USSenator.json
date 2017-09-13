@@ -1,0 +1,5991 @@
+{
+	"topic": "US Senator",
+	"year": "2016",
+	"precincts": [{
+			"precinctNumber": "2235235101",
+			"registeredVoters": 1052,
+			"totalVotes": 733,
+			"percentTurnout": 69.68,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 368,
+					"percent": 50.2
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 279,
+					"percent": 38.06
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 53,
+					"percent": 7.23
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 24,
+					"percent": 3.27
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.41
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.55
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.14
+				}
+			]
+		}, {
+			"precinctNumber": "2235235102",
+			"registeredVoters": 242,
+			"totalVotes": 224,
+			"percentTurnout": 92.56,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 104,
+					"percent": 46.43
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 114,
+					"percent": 50.89
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 2,
+					"percent": 0.89
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 1.34
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.45
+				}
+			]
+		}, {
+			"precinctNumber": "2145235201",
+			"registeredVoters": 1925,
+			"totalVotes": 1236,
+			"percentTurnout": 64.21,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 746,
+					"percent": 60.36
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 406,
+					"percent": 32.85
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 46,
+					"percent": 3.72
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 17,
+					"percent": 1.38
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.57
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 7,
+					"percent": 0.57
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.16
+				}
+			]
+		}, {
+			"precinctNumber": "2145235202",
+			"registeredVoters": 1557,
+			"totalVotes": 1095,
+			"percentTurnout": 70.33,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 634,
+					"percent": 57.9
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 361,
+					"percent": 32.97
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 58,
+					"percent": 5.3
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 27,
+					"percent": 2.47
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 8,
+					"percent": 0.73
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.27
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.18
+				}
+			]
+		}, {
+			"precinctNumber": "2145235203",
+			"registeredVoters": 1380,
+			"totalVotes": 1063,
+			"percentTurnout": 77.03,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 549,
+					"percent": 51.65
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 450,
+					"percent": 42.33
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 45,
+					"percent": 4.23
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 15,
+					"percent": 1.41
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.28
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.09
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235204",
+			"registeredVoters": 1727,
+			"totalVotes": 1213,
+			"percentTurnout": 70.24,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 658,
+					"percent": 54.25
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 471,
+					"percent": 38.83
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 57,
+					"percent": 4.7
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 19,
+					"percent": 1.57
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.16
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.16
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.16
+				}
+			]
+		}, {
+			"precinctNumber": "2145235205",
+			"registeredVoters": 1470,
+			"totalVotes": 966,
+			"percentTurnout": 65.71,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 700,
+					"percent": 72.46
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 166,
+					"percent": 17.18
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 55,
+					"percent": 5.69
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 32,
+					"percent": 3.31
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.31
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.52
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 4,
+					"percent": 0.41
+				}
+			]
+		}, {
+			"precinctNumber": "2145235206",
+			"registeredVoters": 1812,
+			"totalVotes": 1316,
+			"percentTurnout": 72.63,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 949,
+					"percent": 72.11
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 233,
+					"percent": 17.71
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 73,
+					"percent": 5.55
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 52,
+					"percent": 3.95
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.3
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.23
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235207",
+			"registeredVoters": 1500,
+			"totalVotes": 988,
+			"percentTurnout": 65.87,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 737,
+					"percent": 74.6
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 141,
+					"percent": 14.27
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 64,
+					"percent": 6.48
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 36,
+					"percent": 3.64
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.4
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.4
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235208",
+			"registeredVoters": 1784,
+			"totalVotes": 1240,
+			"percentTurnout": 69.51,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 858,
+					"percent": 69.19
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 250,
+					"percent": 20.16
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 74,
+					"percent": 5.97
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 51,
+					"percent": 4.11
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.32
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.16
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235209",
+			"registeredVoters": 1643,
+			"totalVotes": 1199,
+			"percentTurnout": 72.98,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 869,
+					"percent": 72.48
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 243,
+					"percent": 20.27
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 50,
+					"percent": 4.17
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 28,
+					"percent": 2.34
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.17
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.42
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235210",
+			"registeredVoters": 1624,
+			"totalVotes": 1053,
+			"percentTurnout": 64.84,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 633,
+					"percent": 60.11
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 297,
+					"percent": 28.21
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 72,
+					"percent": 6.84
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 27,
+					"percent": 2.56
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 17,
+					"percent": 1.61
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.38
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.09
+				}
+			]
+		}, {
+			"precinctNumber": "2145235211",
+			"registeredVoters": 1367,
+			"totalVotes": 984,
+			"percentTurnout": 71.98,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 613,
+					"percent": 62.3
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 306,
+					"percent": 31.1
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 36,
+					"percent": 3.66
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 19,
+					"percent": 1.93
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 6,
+					"percent": 0.61
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.2
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.2
+				}
+			]
+		}, {
+			"precinctNumber": "2145235212",
+			"registeredVoters": 1192,
+			"totalVotes": 972,
+			"percentTurnout": 81.54,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 653,
+					"percent": 67.18
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 274,
+					"percent": 28.19
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 27,
+					"percent": 2.78
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 15,
+					"percent": 1.54
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.1
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.21
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235213",
+			"registeredVoters": 2152,
+			"totalVotes": 1560,
+			"percentTurnout": 72.49,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 1021,
+					"percent": 65.45
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 446,
+					"percent": 28.59
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 55,
+					"percent": 3.53
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 29,
+					"percent": 1.86
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.19
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.13
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.06
+				}
+			]
+		}, {
+			"precinctNumber": "2145235214",
+			"registeredVoters": 1585,
+			"totalVotes": 1164,
+			"percentTurnout": 73.44,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 775,
+					"percent": 66.58
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 291,
+					"percent": 25.0
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 47,
+					"percent": 4.04
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 43,
+					"percent": 3.69
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.26
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.43
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235215",
+			"registeredVoters": 1201,
+			"totalVotes": 869,
+			"percentTurnout": 72.36,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 481,
+					"percent": 55.35
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 302,
+					"percent": 34.75
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 43,
+					"percent": 4.95
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 32,
+					"percent": 3.68
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.81
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.12
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.35
+				}
+			]
+		}, {
+			"precinctNumber": "2145235216",
+			"registeredVoters": 1096,
+			"totalVotes": 740,
+			"percentTurnout": 67.52,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 487,
+					"percent": 65.81
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 189,
+					"percent": 25.54
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 43,
+					"percent": 5.81
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 13,
+					"percent": 1.76
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 6,
+					"percent": 0.81
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.27
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235217",
+			"registeredVoters": 1599,
+			"totalVotes": 1269,
+			"percentTurnout": 79.36,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 788,
+					"percent": 62.1
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 424,
+					"percent": 33.41
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 36,
+					"percent": 2.84
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 13,
+					"percent": 1.02
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.08
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.39
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.16
+				}
+			]
+		}, {
+			"precinctNumber": "2145235218",
+			"registeredVoters": 2535,
+			"totalVotes": 1931,
+			"percentTurnout": 76.17,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 1089,
+					"percent": 56.4
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 734,
+					"percent": 38.01
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 65,
+					"percent": 3.37
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 29,
+					"percent": 1.5
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.36
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.16
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.1
+				}
+			]
+		}, {
+			"precinctNumber": "2145235219",
+			"registeredVoters": 1695,
+			"totalVotes": 1360,
+			"percentTurnout": 80.24,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 686,
+					"percent": 50.44
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 614,
+					"percent": 45.15
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 44,
+					"percent": 3.24
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 3,
+					"percent": 0.22
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 8,
+					"percent": 0.59
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.37
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235220",
+			"registeredVoters": 1336,
+			"totalVotes": 1115,
+			"percentTurnout": 83.46,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 649,
+					"percent": 58.21
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 420,
+					"percent": 37.67
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 28,
+					"percent": 2.51
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 9,
+					"percent": 0.81
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.27
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.27
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.18
+				}
+			]
+		}, {
+			"precinctNumber": "2145235221",
+			"registeredVoters": 1624,
+			"totalVotes": 1110,
+			"percentTurnout": 68.35,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 581,
+					"percent": 52.34
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 415,
+					"percent": 37.39
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 68,
+					"percent": 6.13
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 28,
+					"percent": 2.52
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.63
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 7,
+					"percent": 0.63
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.27
+				}
+			]
+		}, {
+			"precinctNumber": "2145235222",
+			"registeredVoters": 2116,
+			"totalVotes": 1527,
+			"percentTurnout": 72.16,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 921,
+					"percent": 60.31
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 508,
+					"percent": 33.27
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 64,
+					"percent": 4.19
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 23,
+					"percent": 1.51
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.26
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.07
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.13
+				}
+			]
+		}, {
+			"precinctNumber": "2145235223",
+			"registeredVoters": 1620,
+			"totalVotes": 1240,
+			"percentTurnout": 76.54,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 647,
+					"percent": 52.18
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 506,
+					"percent": 40.81
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 49,
+					"percent": 3.95
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 26,
+					"percent": 2.1
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.4
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.4
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2145235224",
+			"registeredVoters": 1175,
+			"totalVotes": 903,
+			"percentTurnout": 76.85,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 482,
+					"percent": 53.38
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 354,
+					"percent": 39.2
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 48,
+					"percent": 5.32
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 9,
+					"percent": 1.0
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.55
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.44
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235225",
+			"registeredVoters": 1639,
+			"totalVotes": 1377,
+			"percentTurnout": 84.01,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 584,
+					"percent": 42.41
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 728,
+					"percent": 52.87
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 47,
+					"percent": 3.41
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 7,
+					"percent": 0.51
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.29
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.29
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.15
+				}
+			]
+		}, {
+			"precinctNumber": "2145235226",
+			"registeredVoters": 2357,
+			"totalVotes": 1591,
+			"percentTurnout": 67.5,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 818,
+					"percent": 51.41
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 638,
+					"percent": 40.1
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 84,
+					"percent": 5.28
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 28,
+					"percent": 1.76
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 9,
+					"percent": 0.57
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 9,
+					"percent": 0.57
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.06
+				}
+			]
+		}, {
+			"precinctNumber": "2145235227",
+			"registeredVoters": 1995,
+			"totalVotes": 1522,
+			"percentTurnout": 76.29,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 804,
+					"percent": 52.83
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 656,
+					"percent": 43.1
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 49,
+					"percent": 3.22
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 11,
+					"percent": 0.72
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.13
+				}
+			]
+		}, {
+			"precinctNumber": "2145235228",
+			"registeredVoters": 1411,
+			"totalVotes": 1122,
+			"percentTurnout": 79.52,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 552,
+					"percent": 49.2
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 512,
+					"percent": 45.63
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 44,
+					"percent": 3.92
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 9,
+					"percent": 0.8
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.18
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.18
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235229",
+			"registeredVoters": 1798,
+			"totalVotes": 1373,
+			"percentTurnout": 76.36,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 647,
+					"percent": 47.12
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 672,
+					"percent": 48.94
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 41,
+					"percent": 2.99
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 5,
+					"percent": 0.36
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 6,
+					"percent": 0.44
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.15
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235230",
+			"registeredVoters": 1342,
+			"totalVotes": 1080,
+			"percentTurnout": 80.48,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 583,
+					"percent": 53.98
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 457,
+					"percent": 42.31
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 24,
+					"percent": 2.22
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 1.3
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.09
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.09
+				}
+			]
+		}, {
+			"precinctNumber": "2145235231",
+			"registeredVoters": 1352,
+			"totalVotes": 999,
+			"percentTurnout": 73.89,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 549,
+					"percent": 54.95
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 401,
+					"percent": 40.14
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 32,
+					"percent": 3.2
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 9,
+					"percent": 0.9
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.1
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 6,
+					"percent": 0.6
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235232",
+			"registeredVoters": 1265,
+			"totalVotes": 1041,
+			"percentTurnout": 82.29,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 550,
+					"percent": 52.83
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 445,
+					"percent": 42.75
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 27,
+					"percent": 2.59
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 11,
+					"percent": 1.06
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.29
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.38
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.1
+				}
+			]
+		}, {
+			"precinctNumber": "2145235233",
+			"registeredVoters": 1417,
+			"totalVotes": 1097,
+			"percentTurnout": 77.42,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 545,
+					"percent": 49.68
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 498,
+					"percent": 45.4
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 41,
+					"percent": 3.74
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 10,
+					"percent": 0.91
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.18
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.09
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235234",
+			"registeredVoters": 1284,
+			"totalVotes": 1068,
+			"percentTurnout": 83.18,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 562,
+					"percent": 52.62
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 472,
+					"percent": 44.19
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 20,
+					"percent": 1.87
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 7,
+					"percent": 0.66
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.28
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.09
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.19
+				}
+			]
+		}, {
+			"precinctNumber": "2145235235",
+			"registeredVoters": 1617,
+			"totalVotes": 1277,
+			"percentTurnout": 78.97,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 611,
+					"percent": 47.85
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 621,
+					"percent": 48.63
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 30,
+					"percent": 2.35
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 7,
+					"percent": 0.55
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.16
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.31
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235236",
+			"registeredVoters": 1953,
+			"totalVotes": 1607,
+			"percentTurnout": 82.28,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 712,
+					"percent": 44.31
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 836,
+					"percent": 52.02
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 45,
+					"percent": 2.8
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 7,
+					"percent": 0.44
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.31
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.06
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235237",
+			"registeredVoters": 1434,
+			"totalVotes": 1185,
+			"percentTurnout": 82.64,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 576,
+					"percent": 48.61
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 564,
+					"percent": 47.59
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 31,
+					"percent": 2.62
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 8,
+					"percent": 0.68
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.25
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.25
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235238",
+			"registeredVoters": 1157,
+			"totalVotes": 920,
+			"percentTurnout": 79.52,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 455,
+					"percent": 49.46
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 415,
+					"percent": 45.11
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 35,
+					"percent": 3.8
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 10,
+					"percent": 1.09
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.33
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.22
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145235239",
+			"registeredVoters": 1288,
+			"totalVotes": 810,
+			"percentTurnout": 62.89,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 441,
+					"percent": 54.44
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 285,
+					"percent": 35.19
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 56,
+					"percent": 6.91
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 18,
+					"percent": 2.22
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.49
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.37
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.25
+				}
+			]
+		}, {
+			"precinctNumber": "2145235240",
+			"registeredVoters": 1335,
+			"totalVotes": 1021,
+			"percentTurnout": 76.48,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 572,
+					"percent": 56.02
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 393,
+					"percent": 38.49
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 38,
+					"percent": 3.72
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 12,
+					"percent": 1.18
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.29
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.29
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335301",
+			"registeredVoters": 1355,
+			"totalVotes": 952,
+			"percentTurnout": 70.26,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 657,
+					"percent": 69.01
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 200,
+					"percent": 21.01
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 44,
+					"percent": 4.62
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 33,
+					"percent": 3.47
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.74
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.42
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.21
+				}
+			]
+		}, {
+			"precinctNumber": "2145335302",
+			"registeredVoters": 1926,
+			"totalVotes": 1428,
+			"percentTurnout": 74.14,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 1095,
+					"percent": 76.68
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 226,
+					"percent": 15.83
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 55,
+					"percent": 3.85
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 44,
+					"percent": 3.08
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.28
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.14
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.07
+				}
+			]
+		}, {
+			"precinctNumber": "2145335303",
+			"registeredVoters": 1522,
+			"totalVotes": 1124,
+			"percentTurnout": 73.85,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 837,
+					"percent": 74.47
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 183,
+					"percent": 16.28
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 53,
+					"percent": 4.72
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 48,
+					"percent": 4.27
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.18
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.09
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335304",
+			"registeredVoters": 2163,
+			"totalVotes": 1498,
+			"percentTurnout": 69.26,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 944,
+					"percent": 63.02
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 417,
+					"percent": 27.84
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 82,
+					"percent": 5.47
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 42,
+					"percent": 2.8
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 6,
+					"percent": 0.4
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.27
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.13
+				}
+			]
+		}, {
+			"precinctNumber": "2145335305",
+			"registeredVoters": 1893,
+			"totalVotes": 1317,
+			"percentTurnout": 69.57,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 806,
+					"percent": 61.2
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 400,
+					"percent": 30.37
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 59,
+					"percent": 4.48
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 38,
+					"percent": 2.89
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.3
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.08
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 5,
+					"percent": 0.38
+				}
+			]
+		}, {
+			"precinctNumber": "2145335306",
+			"registeredVoters": 2275,
+			"totalVotes": 1414,
+			"percentTurnout": 62.15,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 860,
+					"percent": 60.82
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 398,
+					"percent": 28.15
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 83,
+					"percent": 5.87
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 46,
+					"percent": 3.25
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 12,
+					"percent": 0.85
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 13,
+					"percent": 0.92
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.07
+				}
+			]
+		}, {
+			"precinctNumber": "2145335307",
+			"registeredVoters": 2427,
+			"totalVotes": 1519,
+			"percentTurnout": 62.59,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 988,
+					"percent": 65.04
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 379,
+					"percent": 24.95
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 78,
+					"percent": 5.13
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 57,
+					"percent": 3.75
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.33
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.33
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.2
+				}
+			]
+		}, {
+			"precinctNumber": "2145335308",
+			"registeredVoters": 1453,
+			"totalVotes": 810,
+			"percentTurnout": 55.75,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 479,
+					"percent": 59.14
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 259,
+					"percent": 31.98
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 34,
+					"percent": 4.2
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 26,
+					"percent": 3.21
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.25
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.62
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335309",
+			"registeredVoters": 1989,
+			"totalVotes": 1137,
+			"percentTurnout": 57.16,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 715,
+					"percent": 62.88
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 320,
+					"percent": 28.14
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 68,
+					"percent": 5.98
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 23,
+					"percent": 2.02
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.09
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 7,
+					"percent": 0.62
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335310",
+			"registeredVoters": 2120,
+			"totalVotes": 1495,
+			"percentTurnout": 70.52,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 967,
+					"percent": 64.68
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 415,
+					"percent": 27.76
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 64,
+					"percent": 4.28
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 31,
+					"percent": 2.07
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.2
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 10,
+					"percent": 0.67
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.2
+				}
+			]
+		}, {
+			"precinctNumber": "2145335311",
+			"registeredVoters": 2285,
+			"totalVotes": 1448,
+			"percentTurnout": 63.37,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 900,
+					"percent": 62.15
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 405,
+					"percent": 27.97
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 91,
+					"percent": 6.28
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 41,
+					"percent": 2.83
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.21
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.28
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.14
+				}
+			]
+		}, {
+			"precinctNumber": "2145335312",
+			"registeredVoters": 1959,
+			"totalVotes": 1247,
+			"percentTurnout": 63.65,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 794,
+					"percent": 63.67
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 344,
+					"percent": 27.59
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 64,
+					"percent": 5.13
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 27,
+					"percent": 2.17
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 11,
+					"percent": 0.88
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.4
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335313",
+			"registeredVoters": 1560,
+			"totalVotes": 1169,
+			"percentTurnout": 74.94,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 699,
+					"percent": 59.79
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 370,
+					"percent": 31.65
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 62,
+					"percent": 5.3
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 27,
+					"percent": 2.31
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.26
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 7,
+					"percent": 0.6
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.09
+				}
+			]
+		}, {
+			"precinctNumber": "2145335314",
+			"registeredVoters": 2529,
+			"totalVotes": 1741,
+			"percentTurnout": 68.84,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 1059,
+					"percent": 60.83
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 505,
+					"percent": 29.01
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 105,
+					"percent": 6.03
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 46,
+					"percent": 2.64
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 10,
+					"percent": 0.57
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 11,
+					"percent": 0.63
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.17
+				}
+			]
+		}, {
+			"precinctNumber": "2145335315",
+			"registeredVoters": 1740,
+			"totalVotes": 1279,
+			"percentTurnout": 73.51,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 754,
+					"percent": 58.95
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 437,
+					"percent": 34.17
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 51,
+					"percent": 3.99
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 23,
+					"percent": 1.8
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.39
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 8,
+					"percent": 0.63
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335316",
+			"registeredVoters": 1109,
+			"totalVotes": 871,
+			"percentTurnout": 78.54,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 545,
+					"percent": 62.57
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 283,
+					"percent": 32.49
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 27,
+					"percent": 3.1
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 10,
+					"percent": 1.15
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.34
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.11
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335317",
+			"registeredVoters": 1515,
+			"totalVotes": 1289,
+			"percentTurnout": 85.08,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 808,
+					"percent": 62.68
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 443,
+					"percent": 34.37
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 17,
+					"percent": 1.32
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 13,
+					"percent": 1.01
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 6,
+					"percent": 0.47
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2145335318",
+			"registeredVoters": 1625,
+			"totalVotes": 1101,
+			"percentTurnout": 67.75,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 678,
+					"percent": 61.58
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 338,
+					"percent": 30.7
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 53,
+					"percent": 4.81
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 19,
+					"percent": 1.73
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.36
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 6,
+					"percent": 0.54
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.18
+				}
+			]
+		}, {
+			"precinctNumber": "2145335319",
+			"registeredVoters": 1373,
+			"totalVotes": 995,
+			"percentTurnout": 72.47,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 568,
+					"percent": 57.09
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 378,
+					"percent": 37.99
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 33,
+					"percent": 3.32
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 12,
+					"percent": 1.21
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.3
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.1
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335320",
+			"registeredVoters": 1262,
+			"totalVotes": 911,
+			"percentTurnout": 72.19,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 549,
+					"percent": 60.26
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 285,
+					"percent": 31.28
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 43,
+					"percent": 4.72
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 22,
+					"percent": 2.41
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.55
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.55
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.11
+				}
+			]
+		}, {
+			"precinctNumber": "2145335321",
+			"registeredVoters": 1648,
+			"totalVotes": 1023,
+			"percentTurnout": 62.08,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 634,
+					"percent": 61.97
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 302,
+					"percent": 29.52
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 63,
+					"percent": 6.16
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 16,
+					"percent": 1.56
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.39
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.39
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335322",
+			"registeredVoters": 1508,
+			"totalVotes": 1115,
+			"percentTurnout": 73.94,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 646,
+					"percent": 57.94
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 401,
+					"percent": 35.96
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 50,
+					"percent": 4.48
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 1.26
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.09
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.27
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335323",
+			"registeredVoters": 1529,
+			"totalVotes": 1163,
+			"percentTurnout": 76.06,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 610,
+					"percent": 52.45
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 467,
+					"percent": 40.15
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 60,
+					"percent": 5.16
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 16,
+					"percent": 1.38
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 6,
+					"percent": 0.52
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.34
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335324",
+			"registeredVoters": 1701,
+			"totalVotes": 1403,
+			"percentTurnout": 82.48,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 746,
+					"percent": 53.17
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 589,
+					"percent": 41.98
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 47,
+					"percent": 3.35
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 18,
+					"percent": 1.28
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.07
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.07
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.07
+				}
+			]
+		}, {
+			"precinctNumber": "2145335325",
+			"registeredVoters": 1813,
+			"totalVotes": 1311,
+			"percentTurnout": 72.31,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 762,
+					"percent": 58.12
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 458,
+					"percent": 34.94
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 66,
+					"percent": 5.03
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 18,
+					"percent": 1.37
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.15
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.23
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2145335326",
+			"registeredVoters": 2083,
+			"totalVotes": 1536,
+			"percentTurnout": 73.74,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 910,
+					"percent": 59.24
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 511,
+					"percent": 33.27
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 69,
+					"percent": 4.49
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 28,
+					"percent": 1.82
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 12,
+					"percent": 0.78
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.26
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.07
+				}
+			]
+		}, {
+			"precinctNumber": "2145335327",
+			"registeredVoters": 1576,
+			"totalVotes": 1284,
+			"percentTurnout": 81.47,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 695,
+					"percent": 54.13
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 545,
+					"percent": 42.45
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 28,
+					"percent": 2.18
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 11,
+					"percent": 0.86
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.31
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.08
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335328",
+			"registeredVoters": 1604,
+			"totalVotes": 1327,
+			"percentTurnout": 82.73,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 704,
+					"percent": 53.05
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 569,
+					"percent": 42.88
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 35,
+					"percent": 2.64
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 10,
+					"percent": 0.75
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.15
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.3
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.15
+				}
+			]
+		}, {
+			"precinctNumber": "2145335329",
+			"registeredVoters": 1235,
+			"totalVotes": 996,
+			"percentTurnout": 80.65,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 466,
+					"percent": 46.79
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 488,
+					"percent": 49.0
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 32,
+					"percent": 3.21
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 4,
+					"percent": 0.4
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.3
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.1
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.1
+				}
+			]
+		}, {
+			"precinctNumber": "2145335330",
+			"registeredVoters": 1501,
+			"totalVotes": 1208,
+			"percentTurnout": 80.48,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 572,
+					"percent": 47.35
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 583,
+					"percent": 48.26
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 32,
+					"percent": 2.65
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 1.16
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.25
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.17
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2145335331",
+			"registeredVoters": 956,
+			"totalVotes": 735,
+			"percentTurnout": 76.88,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 337,
+					"percent": 45.85
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 357,
+					"percent": 48.57
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 28,
+					"percent": 3.81
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 10,
+					"percent": 1.36
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.27
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.14
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335332",
+			"registeredVoters": 1342,
+			"totalVotes": 953,
+			"percentTurnout": 71.01,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 443,
+					"percent": 46.48
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 442,
+					"percent": 46.38
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 46,
+					"percent": 4.83
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 1.47
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.42
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.1
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.31
+				}
+			]
+		}, {
+			"precinctNumber": "2145335333",
+			"registeredVoters": 1106,
+			"totalVotes": 850,
+			"percentTurnout": 76.85,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 415,
+					"percent": 48.82
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 404,
+					"percent": 47.53
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 22,
+					"percent": 2.59
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 4,
+					"percent": 0.47
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.47
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2145335334",
+			"registeredVoters": 1943,
+			"totalVotes": 1112,
+			"percentTurnout": 57.23,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 694,
+					"percent": 62.41
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 290,
+					"percent": 26.08
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 68,
+					"percent": 6.12
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 47,
+					"percent": 4.23
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.27
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 8,
+					"percent": 0.72
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.18
+				}
+			]
+		}, {
+			"precinctNumber": "2145335335",
+			"registeredVoters": 2659,
+			"totalVotes": 1605,
+			"percentTurnout": 60.36,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 1042,
+					"percent": 64.92
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 411,
+					"percent": 25.61
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 77,
+					"percent": 4.8
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 57,
+					"percent": 3.55
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.25
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 9,
+					"percent": 0.56
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 4,
+					"percent": 0.25
+				}
+			]
+		}, {
+			"precinctNumber": "2145335336",
+			"registeredVoters": 1417,
+			"totalVotes": 819,
+			"percentTurnout": 57.8,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 518,
+					"percent": 63.25
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 232,
+					"percent": 28.33
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 45,
+					"percent": 5.49
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 21,
+					"percent": 2.56
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.12
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.24
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935401",
+			"registeredVoters": 767,
+			"totalVotes": 562,
+			"percentTurnout": 73.27,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 204,
+					"percent": 36.3
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 321,
+					"percent": 57.12
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 18,
+					"percent": 3.2
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 2.49
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.18
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.71
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935402",
+			"registeredVoters": 1954,
+			"totalVotes": 1568,
+			"percentTurnout": 80.25,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 542,
+					"percent": 34.57
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 937,
+					"percent": 59.76
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 55,
+					"percent": 3.51
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 19,
+					"percent": 1.21
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 10,
+					"percent": 0.64
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.26
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.06
+				}
+			]
+		}, {
+			"precinctNumber": "2154935403",
+			"registeredVoters": 1371,
+			"totalVotes": 1078,
+			"percentTurnout": 78.63,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 301,
+					"percent": 27.92
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 713,
+					"percent": 66.14
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 50,
+					"percent": 4.64
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 10,
+					"percent": 0.93
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.19
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.19
+				}
+			]
+		}, {
+			"precinctNumber": "2154935404",
+			"registeredVoters": 127,
+			"totalVotes": 100,
+			"percentTurnout": 78.74,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 33,
+					"percent": 33.0
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 65,
+					"percent": 65.0
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 2,
+					"percent": 2.0
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935405",
+			"registeredVoters": 808,
+			"totalVotes": 635,
+			"percentTurnout": 78.59,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 323,
+					"percent": 50.87
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 282,
+					"percent": 44.41
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 20,
+					"percent": 3.15
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 7,
+					"percent": 1.1
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.31
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.16
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935406",
+			"registeredVoters": 1006,
+			"totalVotes": 826,
+			"percentTurnout": 82.11,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 431,
+					"percent": 52.18
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 354,
+					"percent": 42.86
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 29,
+					"percent": 3.51
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 8,
+					"percent": 0.97
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.12
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.24
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.12
+				}
+			]
+		}, {
+			"precinctNumber": "2154935407",
+			"registeredVoters": 1855,
+			"totalVotes": 1487,
+			"percentTurnout": 80.16,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 810,
+					"percent": 54.47
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 592,
+					"percent": 39.81
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 51,
+					"percent": 3.43
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 19,
+					"percent": 1.28
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 10,
+					"percent": 0.67
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.34
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935408",
+			"registeredVoters": 2034,
+			"totalVotes": 1635,
+			"percentTurnout": 80.38,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 656,
+					"percent": 40.12
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 904,
+					"percent": 55.29
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 42,
+					"percent": 2.57
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 18,
+					"percent": 1.1
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.31
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.24
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.18
+				}
+			]
+		}, {
+			"precinctNumber": "2154935409",
+			"registeredVoters": 1322,
+			"totalVotes": 1046,
+			"percentTurnout": 79.12,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 325,
+					"percent": 31.07
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 665,
+					"percent": 63.58
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 40,
+					"percent": 3.82
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 12,
+					"percent": 1.15
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.29
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.1
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935410",
+			"registeredVoters": 1122,
+			"totalVotes": 824,
+			"percentTurnout": 73.44,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 349,
+					"percent": 42.35
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 423,
+					"percent": 51.33
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 33,
+					"percent": 4.0
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 13,
+					"percent": 1.58
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.36
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.36
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935411",
+			"registeredVoters": 1560,
+			"totalVotes": 1284,
+			"percentTurnout": 82.31,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 625,
+					"percent": 48.68
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 610,
+					"percent": 47.51
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 26,
+					"percent": 2.02
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 15,
+					"percent": 1.17
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.23
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.16
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2154935412",
+			"registeredVoters": 1096,
+			"totalVotes": 808,
+			"percentTurnout": 73.72,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 432,
+					"percent": 53.47
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 321,
+					"percent": 39.73
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 27,
+					"percent": 3.34
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 18,
+					"percent": 2.23
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.25
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 6,
+					"percent": 0.74
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.25
+				}
+			]
+		}, {
+			"precinctNumber": "2154935413",
+			"registeredVoters": 1404,
+			"totalVotes": 1109,
+			"percentTurnout": 78.99,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 529,
+					"percent": 47.7
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 526,
+					"percent": 47.43
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 32,
+					"percent": 2.89
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 13,
+					"percent": 1.17
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.27
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 6,
+					"percent": 0.54
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935414",
+			"registeredVoters": 1379,
+			"totalVotes": 1051,
+			"percentTurnout": 76.21,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 499,
+					"percent": 47.48
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 493,
+					"percent": 46.91
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 38,
+					"percent": 3.62
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 13,
+					"percent": 1.24
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.29
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.29
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935415",
+			"registeredVoters": 1579,
+			"totalVotes": 1178,
+			"percentTurnout": 74.6,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 556,
+					"percent": 47.2
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 553,
+					"percent": 46.94
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 40,
+					"percent": 3.4
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 1.19
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.25
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 7,
+					"percent": 0.59
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.25
+				}
+			]
+		}, {
+			"precinctNumber": "2154935416",
+			"registeredVoters": 1511,
+			"totalVotes": 1213,
+			"percentTurnout": 80.28,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 642,
+					"percent": 52.93
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 540,
+					"percent": 44.52
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 18,
+					"percent": 1.48
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 11,
+					"percent": 0.91
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.08
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2154935417",
+			"registeredVoters": 1253,
+			"totalVotes": 1041,
+			"percentTurnout": 83.08,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 505,
+					"percent": 48.51
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 466,
+					"percent": 44.76
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 45,
+					"percent": 4.32
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 20,
+					"percent": 1.92
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.19
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.29
+				}
+			]
+		}, {
+			"precinctNumber": "2154935418",
+			"registeredVoters": 1670,
+			"totalVotes": 1351,
+			"percentTurnout": 80.9,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 507,
+					"percent": 37.53
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 771,
+					"percent": 57.07
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 53,
+					"percent": 3.92
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 1.04
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.22
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.15
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.07
+				}
+			]
+		}, {
+			"precinctNumber": "2154935419",
+			"registeredVoters": 1615,
+			"totalVotes": 1268,
+			"percentTurnout": 78.51,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 448,
+					"percent": 35.33
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 757,
+					"percent": 59.7
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 41,
+					"percent": 3.23
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 13,
+					"percent": 1.03
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 6,
+					"percent": 0.47
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.24
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935420",
+			"registeredVoters": 2120,
+			"totalVotes": 1640,
+			"percentTurnout": 77.36,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 686,
+					"percent": 41.83
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 861,
+					"percent": 52.5
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 53,
+					"percent": 3.23
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 15,
+					"percent": 0.91
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 11,
+					"percent": 0.67
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 9,
+					"percent": 0.55
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.18
+				}
+			]
+		}, {
+			"precinctNumber": "2154935421",
+			"registeredVoters": 1889,
+			"totalVotes": 1470,
+			"percentTurnout": 77.82,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 624,
+					"percent": 42.45
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 768,
+					"percent": 52.24
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 53,
+					"percent": 3.61
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 9,
+					"percent": 0.61
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.48
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.34
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.14
+				}
+			]
+		}, {
+			"precinctNumber": "2154935422",
+			"registeredVoters": 1360,
+			"totalVotes": 1121,
+			"percentTurnout": 82.43,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 377,
+					"percent": 33.63
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 698,
+					"percent": 62.27
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 34,
+					"percent": 3.03
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 8,
+					"percent": 0.71
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.09
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.18
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935423",
+			"registeredVoters": 1538,
+			"totalVotes": 1300,
+			"percentTurnout": 84.53,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 452,
+					"percent": 34.77
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 790,
+					"percent": 60.77
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 43,
+					"percent": 3.31
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 8,
+					"percent": 0.62
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.38
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.08
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935424",
+			"registeredVoters": 44,
+			"totalVotes": 37,
+			"percentTurnout": 84.09,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 9,
+					"percent": 24.32
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 24,
+					"percent": 64.86
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 2,
+					"percent": 5.41
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 1,
+					"percent": 2.7
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 2.7
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935425",
+			"registeredVoters": 189,
+			"totalVotes": 150,
+			"percentTurnout": 79.37,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 55,
+					"percent": 36.67
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 92,
+					"percent": 61.33
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 2,
+					"percent": 1.33
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 1,
+					"percent": 0.67
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935426",
+			"registeredVoters": 1154,
+			"totalVotes": 945,
+			"percentTurnout": 81.89,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 376,
+					"percent": 39.79
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 516,
+					"percent": 54.6
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 29,
+					"percent": 3.07
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 10,
+					"percent": 1.06
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 8,
+					"percent": 0.85
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.53
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935427",
+			"registeredVoters": 1486,
+			"totalVotes": 1209,
+			"percentTurnout": 81.36,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 661,
+					"percent": 54.67
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 510,
+					"percent": 42.18
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 20,
+					"percent": 1.65
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 8,
+					"percent": 0.66
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.33
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.41
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2154935428",
+			"registeredVoters": 1359,
+			"totalVotes": 1105,
+			"percentTurnout": 81.31,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 624,
+					"percent": 56.47
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 401,
+					"percent": 36.29
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 46,
+					"percent": 4.16
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 22,
+					"percent": 1.99
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 8,
+					"percent": 0.72
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.36
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935429",
+			"registeredVoters": 1937,
+			"totalVotes": 1487,
+			"percentTurnout": 76.77,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 698,
+					"percent": 46.94
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 665,
+					"percent": 44.72
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 85,
+					"percent": 5.72
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 23,
+					"percent": 1.55
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 8,
+					"percent": 0.54
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.2
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.07
+				}
+			]
+		}, {
+			"precinctNumber": "2154935430",
+			"registeredVoters": 1086,
+			"totalVotes": 878,
+			"percentTurnout": 80.85,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 327,
+					"percent": 37.24
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 501,
+					"percent": 57.06
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 38,
+					"percent": 4.33
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 7,
+					"percent": 0.8
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.23
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.23
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.11
+				}
+			]
+		}, {
+			"precinctNumber": "2154935431",
+			"registeredVoters": 1321,
+			"totalVotes": 956,
+			"percentTurnout": 72.37,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 314,
+					"percent": 32.85
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 566,
+					"percent": 59.21
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 53,
+					"percent": 5.54
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 11,
+					"percent": 1.15
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.31
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 8,
+					"percent": 0.84
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2154935432",
+			"registeredVoters": 1834,
+			"totalVotes": 1362,
+			"percentTurnout": 74.26,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 509,
+					"percent": 37.37
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 779,
+					"percent": 57.2
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 52,
+					"percent": 3.82
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 7,
+					"percent": 0.51
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.51
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.37
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.07
+				}
+			]
+		}, {
+			"precinctNumber": "2154935433",
+			"registeredVoters": 2304,
+			"totalVotes": 1750,
+			"percentTurnout": 75.95,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 636,
+					"percent": 36.34
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 992,
+					"percent": 56.69
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 89,
+					"percent": 5.09
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 19,
+					"percent": 1.09
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.29
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 6,
+					"percent": 0.34
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.11
+				}
+			]
+		}, {
+			"precinctNumber": "2154935434",
+			"registeredVoters": 1119,
+			"totalVotes": 862,
+			"percentTurnout": 77.03,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 270,
+					"percent": 31.32
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 528,
+					"percent": 61.25
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 48,
+					"percent": 5.57
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 7,
+					"percent": 0.81
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.58
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.35
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135501",
+			"registeredVoters": 1722,
+			"totalVotes": 1318,
+			"percentTurnout": 76.54,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 531,
+					"percent": 40.29
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 711,
+					"percent": 53.95
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 55,
+					"percent": 4.17
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 9,
+					"percent": 0.68
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.38
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.3
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2155135502",
+			"registeredVoters": 1356,
+			"totalVotes": 1096,
+			"percentTurnout": 80.83,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 377,
+					"percent": 34.4
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 675,
+					"percent": 61.59
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 32,
+					"percent": 2.92
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 8,
+					"percent": 0.73
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.36
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135503",
+			"registeredVoters": 1517,
+			"totalVotes": 1131,
+			"percentTurnout": 74.56,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 388,
+					"percent": 34.31
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 665,
+					"percent": 58.8
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 49,
+					"percent": 4.33
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 12,
+					"percent": 1.06
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.62
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.27
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 5,
+					"percent": 0.44
+				}
+			]
+		}, {
+			"precinctNumber": "2155135504",
+			"registeredVoters": 1623,
+			"totalVotes": 1195,
+			"percentTurnout": 73.63,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 474,
+					"percent": 39.67
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 634,
+					"percent": 53.05
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 54,
+					"percent": 4.52
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 1.17
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.59
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 11,
+					"percent": 0.92
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2155135505",
+			"registeredVoters": 1499,
+			"totalVotes": 1013,
+			"percentTurnout": 67.58,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 410,
+					"percent": 40.47
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 505,
+					"percent": 49.85
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 76,
+					"percent": 7.5
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 1.38
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.49
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.3
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135506",
+			"registeredVoters": 1341,
+			"totalVotes": 987,
+			"percentTurnout": 73.6,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 377,
+					"percent": 38.2
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 529,
+					"percent": 53.6
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 56,
+					"percent": 5.67
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 11,
+					"percent": 1.11
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.71
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.3
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.3
+				}
+			]
+		}, {
+			"precinctNumber": "2155135507",
+			"registeredVoters": 1768,
+			"totalVotes": 1464,
+			"percentTurnout": 82.81,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 572,
+					"percent": 39.07
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 842,
+					"percent": 57.51
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 38,
+					"percent": 2.6
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 6,
+					"percent": 0.41
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.14
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.27
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135508",
+			"registeredVoters": 1094,
+			"totalVotes": 915,
+			"percentTurnout": 83.64,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 373,
+					"percent": 40.77
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 518,
+					"percent": 56.61
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 21,
+					"percent": 2.3
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 3,
+					"percent": 0.33
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135509",
+			"registeredVoters": 980,
+			"totalVotes": 736,
+			"percentTurnout": 75.1,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 310,
+					"percent": 42.12
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 392,
+					"percent": 53.26
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 26,
+					"percent": 3.53
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 3,
+					"percent": 0.41
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.27
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.27
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.14
+				}
+			]
+		}, {
+			"precinctNumber": "2155135510",
+			"registeredVoters": 1364,
+			"totalVotes": 1036,
+			"percentTurnout": 75.95,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 449,
+					"percent": 43.34
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 515,
+					"percent": 49.71
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 47,
+					"percent": 4.54
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 9,
+					"percent": 0.87
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 9,
+					"percent": 0.87
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.29
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.19
+				}
+			]
+		}, {
+			"precinctNumber": "2155135511",
+			"registeredVoters": 988,
+			"totalVotes": 828,
+			"percentTurnout": 83.81,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 341,
+					"percent": 41.18
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 460,
+					"percent": 55.56
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 16,
+					"percent": 1.93
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 7,
+					"percent": 0.85
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.24
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.12
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135512",
+			"registeredVoters": 1644,
+			"totalVotes": 1289,
+			"percentTurnout": 78.41,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 541,
+					"percent": 41.97
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 665,
+					"percent": 51.59
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 58,
+					"percent": 4.5
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 1.09
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.31
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 6,
+					"percent": 0.47
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135513",
+			"registeredVoters": 1310,
+			"totalVotes": 1012,
+			"percentTurnout": 77.25,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 428,
+					"percent": 42.29
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 532,
+					"percent": 52.57
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 38,
+					"percent": 3.75
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 1,
+					"percent": 0.1
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 6,
+					"percent": 0.59
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 6,
+					"percent": 0.59
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135514",
+			"registeredVoters": 1648,
+			"totalVotes": 1178,
+			"percentTurnout": 71.48,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 499,
+					"percent": 42.36
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 597,
+					"percent": 50.68
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 54,
+					"percent": 4.58
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 1.19
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.59
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 6,
+					"percent": 0.51
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2155135515",
+			"registeredVoters": 1245,
+			"totalVotes": 935,
+			"percentTurnout": 75.1,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 366,
+					"percent": 39.14
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 530,
+					"percent": 56.68
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 27,
+					"percent": 2.89
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 4,
+					"percent": 0.43
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.75
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.11
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135516",
+			"registeredVoters": 1650,
+			"totalVotes": 1403,
+			"percentTurnout": 85.03,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 590,
+					"percent": 42.05
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 765,
+					"percent": 54.53
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 30,
+					"percent": 2.14
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 8,
+					"percent": 0.57
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 8,
+					"percent": 0.57
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.07
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135517",
+			"registeredVoters": 1124,
+			"totalVotes": 918,
+			"percentTurnout": 81.67,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 361,
+					"percent": 39.32
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 526,
+					"percent": 57.3
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 22,
+					"percent": 2.4
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 5,
+					"percent": 0.54
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.33
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.11
+				}
+			]
+		}, {
+			"precinctNumber": "2155135518",
+			"registeredVoters": 1853,
+			"totalVotes": 1306,
+			"percentTurnout": 70.48,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 543,
+					"percent": 41.58
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 695,
+					"percent": 53.22
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 47,
+					"percent": 3.6
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 10,
+					"percent": 0.77
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.31
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.31
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.23
+				}
+			]
+		}, {
+			"precinctNumber": "2155135519",
+			"registeredVoters": 1484,
+			"totalVotes": 1098,
+			"percentTurnout": 73.99,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 440,
+					"percent": 40.07
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 593,
+					"percent": 54.01
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 45,
+					"percent": 4.1
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 9,
+					"percent": 0.82
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 8,
+					"percent": 0.73
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.27
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135520",
+			"registeredVoters": 1680,
+			"totalVotes": 1200,
+			"percentTurnout": 71.43,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 516,
+					"percent": 43.0
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 605,
+					"percent": 50.42
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 55,
+					"percent": 4.58
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 13,
+					"percent": 1.08
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.42
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.17
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.25
+				}
+			]
+		}, {
+			"precinctNumber": "2155135521",
+			"registeredVoters": 1384,
+			"totalVotes": 1060,
+			"percentTurnout": 76.59,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 474,
+					"percent": 44.72
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 519,
+					"percent": 48.96
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 38,
+					"percent": 3.58
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 15,
+					"percent": 1.42
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.66
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.38
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.19
+				}
+			]
+		}, {
+			"precinctNumber": "2155135522",
+			"registeredVoters": 1752,
+			"totalVotes": 1428,
+			"percentTurnout": 81.51,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 553,
+					"percent": 38.73
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 824,
+					"percent": 57.7
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 35,
+					"percent": 2.45
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 4,
+					"percent": 0.28
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 6,
+					"percent": 0.42
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.21
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135523",
+			"registeredVoters": 1218,
+			"totalVotes": 998,
+			"percentTurnout": 81.94,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 414,
+					"percent": 41.48
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 551,
+					"percent": 55.21
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 18,
+					"percent": 1.8
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 6,
+					"percent": 0.6
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.4
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.2
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.2
+				}
+			]
+		}, {
+			"precinctNumber": "2155135524",
+			"registeredVoters": 1453,
+			"totalVotes": 1071,
+			"percentTurnout": 73.71,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 436,
+					"percent": 40.71
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 562,
+					"percent": 52.47
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 44,
+					"percent": 4.11
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 17,
+					"percent": 1.59
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 6,
+					"percent": 0.56
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.37
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.09
+				}
+			]
+		}, {
+			"precinctNumber": "2155135525",
+			"registeredVoters": 680,
+			"totalVotes": 579,
+			"percentTurnout": 85.15,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 239,
+					"percent": 41.28
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 330,
+					"percent": 56.99
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 6,
+					"percent": 1.04
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 3,
+					"percent": 0.52
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.17
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135526",
+			"registeredVoters": 1584,
+			"totalVotes": 1260,
+			"percentTurnout": 79.55,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 541,
+					"percent": 42.94
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 674,
+					"percent": 53.49
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 32,
+					"percent": 2.54
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 6,
+					"percent": 0.48
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.16
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.32
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135527",
+			"registeredVoters": 1532,
+			"totalVotes": 1136,
+			"percentTurnout": 74.15,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 440,
+					"percent": 38.73
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 629,
+					"percent": 55.37
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 43,
+					"percent": 3.79
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 12,
+					"percent": 1.06
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.44
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.35
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.26
+				}
+			]
+		}, {
+			"precinctNumber": "2155135528",
+			"registeredVoters": 1811,
+			"totalVotes": 1319,
+			"percentTurnout": 72.83,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 641,
+					"percent": 48.6
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 582,
+					"percent": 44.12
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 63,
+					"percent": 4.78
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 22,
+					"percent": 1.67
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.3
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.38
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2155135529",
+			"registeredVoters": 1994,
+			"totalVotes": 1367,
+			"percentTurnout": 68.56,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 687,
+					"percent": 50.26
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 553,
+					"percent": 40.45
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 79,
+					"percent": 5.78
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 28,
+					"percent": 2.05
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 7,
+					"percent": 0.51
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 10,
+					"percent": 0.73
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.15
+				}
+			]
+		}, {
+			"precinctNumber": "2155135530",
+			"registeredVoters": 1765,
+			"totalVotes": 1275,
+			"percentTurnout": 72.24,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 586,
+					"percent": 45.96
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 589,
+					"percent": 46.2
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 68,
+					"percent": 5.33
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 17,
+					"percent": 1.33
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 8,
+					"percent": 0.63
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 6,
+					"percent": 0.47
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135531",
+			"registeredVoters": 1478,
+			"totalVotes": 1130,
+			"percentTurnout": 76.45,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 462,
+					"percent": 40.88
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 606,
+					"percent": 53.63
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 37,
+					"percent": 3.27
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 13,
+					"percent": 1.15
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.44
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.35
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.27
+				}
+			]
+		}, {
+			"precinctNumber": "2155135532",
+			"registeredVoters": 1602,
+			"totalVotes": 1073,
+			"percentTurnout": 66.98,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 435,
+					"percent": 40.54
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 559,
+					"percent": 52.1
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 35,
+					"percent": 3.26
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 19,
+					"percent": 1.77
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 11,
+					"percent": 1.03
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 12,
+					"percent": 1.12
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.19
+				}
+			]
+		}, {
+			"precinctNumber": "2155135533",
+			"registeredVoters": 2209,
+			"totalVotes": 1489,
+			"percentTurnout": 67.41,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 701,
+					"percent": 47.08
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 651,
+					"percent": 43.72
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 68,
+					"percent": 4.57
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 39,
+					"percent": 2.62
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 12,
+					"percent": 0.81
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 13,
+					"percent": 0.87
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.2
+				}
+			]
+		}, {
+			"precinctNumber": "2155135534",
+			"registeredVoters": 2038,
+			"totalVotes": 1419,
+			"percentTurnout": 69.63,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 556,
+					"percent": 39.18
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 743,
+					"percent": 52.36
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 87,
+					"percent": 6.13
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 18,
+					"percent": 1.27
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.28
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.28
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.21
+				}
+			]
+		}, {
+			"precinctNumber": "2155135535",
+			"registeredVoters": 1835,
+			"totalVotes": 1311,
+			"percentTurnout": 71.44,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 495,
+					"percent": 37.76
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 711,
+					"percent": 54.23
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 70,
+					"percent": 5.34
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 18,
+					"percent": 1.37
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.38
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 8,
+					"percent": 0.61
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.23
+				}
+			]
+		}, {
+			"precinctNumber": "2155135536",
+			"registeredVoters": 1665,
+			"totalVotes": 1350,
+			"percentTurnout": 81.08,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 498,
+					"percent": 36.89
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 774,
+					"percent": 57.33
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 55,
+					"percent": 4.07
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 13,
+					"percent": 0.96
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.22
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.3
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.15
+				}
+			]
+		}, {
+			"precinctNumber": "2155135537",
+			"registeredVoters": 1704,
+			"totalVotes": 1419,
+			"percentTurnout": 83.27,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 533,
+					"percent": 37.56
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 810,
+					"percent": 57.08
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 46,
+					"percent": 3.24
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 19,
+					"percent": 1.34
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 6,
+					"percent": 0.42
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.21
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.14
+				}
+			]
+		}, {
+			"precinctNumber": "2155135538",
+			"registeredVoters": 1547,
+			"totalVotes": 1285,
+			"percentTurnout": 83.06,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 476,
+					"percent": 37.04
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 759,
+					"percent": 59.07
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 33,
+					"percent": 2.57
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 8,
+					"percent": 0.62
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.23
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.39
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2155135539",
+			"registeredVoters": 1528,
+			"totalVotes": 1239,
+			"percentTurnout": 81.09,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 493,
+					"percent": 39.79
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 678,
+					"percent": 54.72
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 43,
+					"percent": 3.47
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 16,
+					"percent": 1.29
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.24
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.24
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.08
+				}
+			]
+		}, {
+			"precinctNumber": "2155135540",
+			"registeredVoters": 1866,
+			"totalVotes": 1312,
+			"percentTurnout": 70.31,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 530,
+					"percent": 40.4
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 668,
+					"percent": 50.91
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 80,
+					"percent": 6.1
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 16,
+					"percent": 1.22
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 8,
+					"percent": 0.61
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 10,
+					"percent": 0.76
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155135541",
+			"registeredVoters": 1719,
+			"totalVotes": 1365,
+			"percentTurnout": 79.41,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 478,
+					"percent": 35.02
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 820,
+					"percent": 60.07
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 41,
+					"percent": 3.0
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 1.03
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.29
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.37
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.22
+				}
+			]
+		}, {
+			"precinctNumber": "2155135542",
+			"registeredVoters": 1511,
+			"totalVotes": 944,
+			"percentTurnout": 62.48,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 392,
+					"percent": 41.53
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 484,
+					"percent": 51.27
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 50,
+					"percent": 5.3
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 8,
+					"percent": 0.85
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.53
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.42
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.11
+				}
+			]
+		}, {
+			"precinctNumber": "2155135543",
+			"registeredVoters": 871,
+			"totalVotes": 648,
+			"percentTurnout": 74.4,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 223,
+					"percent": 34.41
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 382,
+					"percent": 58.95
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 32,
+					"percent": 4.94
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 3,
+					"percent": 0.46
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.77
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.15
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.15
+				}
+			]
+		}, {
+			"precinctNumber": "2155235601",
+			"registeredVoters": 536,
+			"totalVotes": 324,
+			"percentTurnout": 60.45,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 204,
+					"percent": 62.96
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 95,
+					"percent": 29.32
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 11,
+					"percent": 3.4
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 8,
+					"percent": 2.47
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.62
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.93
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155235602",
+			"registeredVoters": 995,
+			"totalVotes": 843,
+			"percentTurnout": 84.72,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 487,
+					"percent": 57.77
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 321,
+					"percent": 38.08
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 21,
+					"percent": 2.49
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 10,
+					"percent": 1.19
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 2,
+					"percent": 0.24
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.24
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155235603",
+			"registeredVoters": 1541,
+			"totalVotes": 1342,
+			"percentTurnout": 87.09,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 726,
+					"percent": 54.1
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 564,
+					"percent": 42.03
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 34,
+					"percent": 2.53
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 13,
+					"percent": 0.97
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.07
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 4,
+					"percent": 0.3
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2155335701",
+			"registeredVoters": 1496,
+			"totalVotes": 1167,
+			"percentTurnout": 78.01,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 730,
+					"percent": 62.55
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 330,
+					"percent": 28.28
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 45,
+					"percent": 3.86
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 46,
+					"percent": 3.94
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.43
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 8,
+					"percent": 0.69
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.17
+				}
+			]
+		}, {
+			"precinctNumber": "2155335702",
+			"registeredVoters": 1196,
+			"totalVotes": 985,
+			"percentTurnout": 82.36,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 591,
+					"percent": 60.0
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 337,
+					"percent": 34.21
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 42,
+					"percent": 4.26
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 12,
+					"percent": 1.22
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.1
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 2,
+					"percent": 0.2
+				}
+			]
+		}, {
+			"precinctNumber": "2155335703",
+			"registeredVoters": 1300,
+			"totalVotes": 808,
+			"percentTurnout": 62.15,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 381,
+					"percent": 47.15
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 342,
+					"percent": 42.33
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 55,
+					"percent": 6.81
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 14,
+					"percent": 1.73
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 10,
+					"percent": 1.24
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.37
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.12
+				}
+			]
+		}, {
+			"precinctNumber": "2234935801",
+			"registeredVoters": 1161,
+			"totalVotes": 876,
+			"percentTurnout": 75.45,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 364,
+					"percent": 41.55
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 460,
+					"percent": 52.51
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 36,
+					"percent": 4.11
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 4,
+					"percent": 0.46
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 5,
+					"percent": 0.57
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.57
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2234935802",
+			"registeredVoters": 834,
+			"totalVotes": 712,
+			"percentTurnout": 85.37,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 312,
+					"percent": 43.82
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 375,
+					"percent": 52.67
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 15,
+					"percent": 2.11
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 6,
+					"percent": 0.84
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.14
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.28
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2234935803",
+			"registeredVoters": 1374,
+			"totalVotes": 1156,
+			"percentTurnout": 84.13,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 373,
+					"percent": 32.27
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 736,
+					"percent": 63.67
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 29,
+					"percent": 2.51
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 9,
+					"percent": 0.78
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.26
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 3,
+					"percent": 0.26
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 3,
+					"percent": 0.26
+				}
+			]
+		}, {
+			"precinctNumber": "2234935804",
+			"registeredVoters": 1326,
+			"totalVotes": 1134,
+			"percentTurnout": 85.52,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 449,
+					"percent": 39.59
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 646,
+					"percent": 56.97
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 35,
+					"percent": 3.09
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 2,
+					"percent": 0.18
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.09
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2234935805",
+			"registeredVoters": 1822,
+			"totalVotes": 1521,
+			"percentTurnout": 83.48,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 548,
+					"percent": 36.03
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 931,
+					"percent": 61.21
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 36,
+					"percent": 2.37
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 4,
+					"percent": 0.26
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.07
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 1,
+					"percent": 0.07
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2234935806",
+			"registeredVoters": 989,
+			"totalVotes": 824,
+			"percentTurnout": 83.32,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 294,
+					"percent": 35.68
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 509,
+					"percent": 61.77
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 15,
+					"percent": 1.82
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 5,
+					"percent": 0.61
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2234935807",
+			"registeredVoters": 1705,
+			"totalVotes": 1452,
+			"percentTurnout": 85.16,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 503,
+					"percent": 34.64
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 907,
+					"percent": 62.47
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 31,
+					"percent": 2.13
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 6,
+					"percent": 0.41
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.28
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2234935808",
+			"registeredVoters": 1145,
+			"totalVotes": 987,
+			"percentTurnout": 86.2,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 342,
+					"percent": 34.65
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 625,
+					"percent": 63.32
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 11,
+					"percent": 1.11
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 5,
+					"percent": 0.51
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 1,
+					"percent": 0.1
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.2
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}, {
+			"precinctNumber": "2234935809",
+			"registeredVoters": 1166,
+			"totalVotes": 996,
+			"percentTurnout": 85.42,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 273,
+					"percent": 27.41
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 691,
+					"percent": 69.38
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 22,
+					"percent": 2.21
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 2,
+					"percent": 0.2
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 3,
+					"percent": 0.3
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 2,
+					"percent": 0.2
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.1
+				}
+			]
+		}, {
+			"precinctNumber": "2234935810",
+			"registeredVoters": 2148,
+			"totalVotes": 1656,
+			"percentTurnout": 77.09,
+			"votes": [{
+					"candidate": "Michael Bennet",
+					"votes": 558,
+					"percent": 33.7
+				}, {
+					"candidate": "Darryl Glenn",
+					"votes": 1004,
+					"percent": 60.63
+				}, {
+					"candidate": "Lily Tang Williams",
+					"votes": 63,
+					"percent": 3.8
+				}, {
+					"candidate": "Arn Menconi",
+					"votes": 20,
+					"percent": 1.21
+				}, {
+					"candidate": "Bill Hammons",
+					"votes": 4,
+					"percent": 0.24
+				}, {
+					"candidate": "Dan Chapin",
+					"votes": 5,
+					"percent": 0.3
+				}, {
+					"candidate": "Paul Noel Fiorino",
+					"votes": 1,
+					"percent": 0.06
+				}
+			]
+		}
+	]
+}

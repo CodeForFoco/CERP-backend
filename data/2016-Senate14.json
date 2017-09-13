@@ -1,0 +1,1146 @@
+{
+	"topic": "Senate 14",
+	"year": "2016",
+	"precincts": [{
+			"precinctNumber": "2145235201",
+			"registeredVoters": 1925,
+			"totalVotes": 1172,
+			"percentTurnout": 60.88,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 755,
+					"percent": 64.42
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 417,
+					"percent": 35.58
+				}
+			]
+		}, {
+			"precinctNumber": "2145235202",
+			"registeredVoters": 1557,
+			"totalVotes": 1056,
+			"percentTurnout": 67.82,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 684,
+					"percent": 64.77
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 372,
+					"percent": 35.23
+				}
+			]
+		}, {
+			"precinctNumber": "2145235203",
+			"registeredVoters": 1380,
+			"totalVotes": 1028,
+			"percentTurnout": 74.49,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 554,
+					"percent": 53.89
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 474,
+					"percent": 46.11
+				}
+			]
+		}, {
+			"precinctNumber": "2145235204",
+			"registeredVoters": 1727,
+			"totalVotes": 1150,
+			"percentTurnout": 66.59,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 651,
+					"percent": 56.61
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 499,
+					"percent": 43.39
+				}
+			]
+		}, {
+			"precinctNumber": "2145235205",
+			"registeredVoters": 1470,
+			"totalVotes": 915,
+			"percentTurnout": 62.24,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 736,
+					"percent": 80.44
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 179,
+					"percent": 19.56
+				}
+			]
+		}, {
+			"precinctNumber": "2145235206",
+			"registeredVoters": 1812,
+			"totalVotes": 1262,
+			"percentTurnout": 69.65,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 1018,
+					"percent": 80.67
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 244,
+					"percent": 19.33
+				}
+			]
+		}, {
+			"precinctNumber": "2145235207",
+			"registeredVoters": 1500,
+			"totalVotes": 923,
+			"percentTurnout": 61.53,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 761,
+					"percent": 82.45
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 162,
+					"percent": 17.55
+				}
+			]
+		}, {
+			"precinctNumber": "2145235208",
+			"registeredVoters": 1784,
+			"totalVotes": 1173,
+			"percentTurnout": 65.75,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 892,
+					"percent": 76.04
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 281,
+					"percent": 23.96
+				}
+			]
+		}, {
+			"precinctNumber": "2145235209",
+			"registeredVoters": 1643,
+			"totalVotes": 1143,
+			"percentTurnout": 69.57,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 854,
+					"percent": 74.72
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 289,
+					"percent": 25.28
+				}
+			]
+		}, {
+			"precinctNumber": "2145235210",
+			"registeredVoters": 1624,
+			"totalVotes": 993,
+			"percentTurnout": 61.15,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 661,
+					"percent": 66.57
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 332,
+					"percent": 33.43
+				}
+			]
+		}, {
+			"precinctNumber": "2145235211",
+			"registeredVoters": 1367,
+			"totalVotes": 942,
+			"percentTurnout": 68.91,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 612,
+					"percent": 64.97
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 330,
+					"percent": 35.03
+				}
+			]
+		}, {
+			"precinctNumber": "2145235212",
+			"registeredVoters": 1192,
+			"totalVotes": 942,
+			"percentTurnout": 79.03,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 659,
+					"percent": 69.96
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 283,
+					"percent": 30.04
+				}
+			]
+		}, {
+			"precinctNumber": "2145235213",
+			"registeredVoters": 2152,
+			"totalVotes": 1495,
+			"percentTurnout": 69.47,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 1023,
+					"percent": 68.43
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 472,
+					"percent": 31.57
+				}
+			]
+		}, {
+			"precinctNumber": "2145235214",
+			"registeredVoters": 1585,
+			"totalVotes": 1118,
+			"percentTurnout": 70.54,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 818,
+					"percent": 73.17
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 300,
+					"percent": 26.83
+				}
+			]
+		}, {
+			"precinctNumber": "2145235215",
+			"registeredVoters": 1201,
+			"totalVotes": 827,
+			"percentTurnout": 68.86,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 503,
+					"percent": 60.82
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 324,
+					"percent": 39.18
+				}
+			]
+		}, {
+			"precinctNumber": "2145235216",
+			"registeredVoters": 1096,
+			"totalVotes": 706,
+			"percentTurnout": 64.42,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 502,
+					"percent": 71.1
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 204,
+					"percent": 28.9
+				}
+			]
+		}, {
+			"precinctNumber": "2145235217",
+			"registeredVoters": 1599,
+			"totalVotes": 1224,
+			"percentTurnout": 76.55,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 768,
+					"percent": 62.75
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 456,
+					"percent": 37.25
+				}
+			]
+		}, {
+			"precinctNumber": "2145235218",
+			"registeredVoters": 2535,
+			"totalVotes": 1844,
+			"percentTurnout": 72.74,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 1066,
+					"percent": 57.81
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 778,
+					"percent": 42.19
+				}
+			]
+		}, {
+			"precinctNumber": "2145235219",
+			"registeredVoters": 1695,
+			"totalVotes": 1296,
+			"percentTurnout": 76.46,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 673,
+					"percent": 51.93
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 623,
+					"percent": 48.07
+				}
+			]
+		}, {
+			"precinctNumber": "2145235220",
+			"registeredVoters": 1336,
+			"totalVotes": 1074,
+			"percentTurnout": 80.39,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 655,
+					"percent": 60.99
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 419,
+					"percent": 39.01
+				}
+			]
+		}, {
+			"precinctNumber": "2145235221",
+			"registeredVoters": 1624,
+			"totalVotes": 1058,
+			"percentTurnout": 65.15,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 608,
+					"percent": 57.47
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 450,
+					"percent": 42.53
+				}
+			]
+		}, {
+			"precinctNumber": "2145235222",
+			"registeredVoters": 2116,
+			"totalVotes": 1469,
+			"percentTurnout": 69.42,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 953,
+					"percent": 64.87
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 516,
+					"percent": 35.13
+				}
+			]
+		}, {
+			"precinctNumber": "2145235223",
+			"registeredVoters": 1620,
+			"totalVotes": 1198,
+			"percentTurnout": 73.95,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 686,
+					"percent": 57.26
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 512,
+					"percent": 42.74
+				}
+			]
+		}, {
+			"precinctNumber": "2145235224",
+			"registeredVoters": 1175,
+			"totalVotes": 863,
+			"percentTurnout": 73.45,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 497,
+					"percent": 57.59
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 366,
+					"percent": 42.41
+				}
+			]
+		}, {
+			"precinctNumber": "2145235225",
+			"registeredVoters": 1639,
+			"totalVotes": 1336,
+			"percentTurnout": 81.51,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 588,
+					"percent": 44.01
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 748,
+					"percent": 55.99
+				}
+			]
+		}, {
+			"precinctNumber": "2145235226",
+			"registeredVoters": 2357,
+			"totalVotes": 1495,
+			"percentTurnout": 63.43,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 832,
+					"percent": 55.65
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 663,
+					"percent": 44.35
+				}
+			]
+		}, {
+			"precinctNumber": "2145235227",
+			"registeredVoters": 1995,
+			"totalVotes": 1454,
+			"percentTurnout": 72.88,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 793,
+					"percent": 54.54
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 661,
+					"percent": 45.46
+				}
+			]
+		}, {
+			"precinctNumber": "2145235228",
+			"registeredVoters": 1411,
+			"totalVotes": 1067,
+			"percentTurnout": 75.62,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 554,
+					"percent": 51.92
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 513,
+					"percent": 48.08
+				}
+			]
+		}, {
+			"precinctNumber": "2145235229",
+			"registeredVoters": 1798,
+			"totalVotes": 1309,
+			"percentTurnout": 72.8,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 650,
+					"percent": 49.66
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 659,
+					"percent": 50.34
+				}
+			]
+		}, {
+			"precinctNumber": "2145235230",
+			"registeredVoters": 1342,
+			"totalVotes": 1031,
+			"percentTurnout": 76.83,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 544,
+					"percent": 52.76
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 487,
+					"percent": 47.24
+				}
+			]
+		}, {
+			"precinctNumber": "2145235231",
+			"registeredVoters": 1352,
+			"totalVotes": 958,
+			"percentTurnout": 70.86,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 543,
+					"percent": 56.68
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 415,
+					"percent": 43.32
+				}
+			]
+		}, {
+			"precinctNumber": "2145235232",
+			"registeredVoters": 1265,
+			"totalVotes": 1006,
+			"percentTurnout": 79.53,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 526,
+					"percent": 52.29
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 480,
+					"percent": 47.71
+				}
+			]
+		}, {
+			"precinctNumber": "2145235233",
+			"registeredVoters": 1417,
+			"totalVotes": 1060,
+			"percentTurnout": 74.81,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 535,
+					"percent": 50.47
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 525,
+					"percent": 49.53
+				}
+			]
+		}, {
+			"precinctNumber": "2145235234",
+			"registeredVoters": 1284,
+			"totalVotes": 1023,
+			"percentTurnout": 79.67,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 535,
+					"percent": 52.3
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 488,
+					"percent": 47.7
+				}
+			]
+		}, {
+			"precinctNumber": "2145235235",
+			"registeredVoters": 1617,
+			"totalVotes": 1223,
+			"percentTurnout": 75.63,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 582,
+					"percent": 47.59
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 641,
+					"percent": 52.41
+				}
+			]
+		}, {
+			"precinctNumber": "2145235236",
+			"registeredVoters": 1953,
+			"totalVotes": 1535,
+			"percentTurnout": 78.6,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 658,
+					"percent": 42.87
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 877,
+					"percent": 57.13
+				}
+			]
+		}, {
+			"precinctNumber": "2145235237",
+			"registeredVoters": 1434,
+			"totalVotes": 1142,
+			"percentTurnout": 79.64,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 565,
+					"percent": 49.47
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 577,
+					"percent": 50.53
+				}
+			]
+		}, {
+			"precinctNumber": "2145235238",
+			"registeredVoters": 1157,
+			"totalVotes": 882,
+			"percentTurnout": 76.23,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 445,
+					"percent": 50.45
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 437,
+					"percent": 49.55
+				}
+			]
+		}, {
+			"precinctNumber": "2145235239",
+			"registeredVoters": 1288,
+			"totalVotes": 774,
+			"percentTurnout": 60.09,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 463,
+					"percent": 59.82
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 311,
+					"percent": 40.18
+				}
+			]
+		}, {
+			"precinctNumber": "2145235240",
+			"registeredVoters": 1335,
+			"totalVotes": 981,
+			"percentTurnout": 73.48,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 565,
+					"percent": 57.59
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 416,
+					"percent": 42.41
+				}
+			]
+		}, {
+			"precinctNumber": "2145335301",
+			"registeredVoters": 1355,
+			"totalVotes": 916,
+			"percentTurnout": 67.6,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 715,
+					"percent": 78.06
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 201,
+					"percent": 21.94
+				}
+			]
+		}, {
+			"precinctNumber": "2145335302",
+			"registeredVoters": 1926,
+			"totalVotes": 1385,
+			"percentTurnout": 71.91,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 1145,
+					"percent": 82.67
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 240,
+					"percent": 17.33
+				}
+			]
+		}, {
+			"precinctNumber": "2145335303",
+			"registeredVoters": 1522,
+			"totalVotes": 1082,
+			"percentTurnout": 71.09,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 897,
+					"percent": 82.9
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 185,
+					"percent": 17.1
+				}
+			]
+		}, {
+			"precinctNumber": "2145335304",
+			"registeredVoters": 2163,
+			"totalVotes": 1427,
+			"percentTurnout": 65.97,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 968,
+					"percent": 67.83
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 459,
+					"percent": 32.17
+				}
+			]
+		}, {
+			"precinctNumber": "2145335305",
+			"registeredVoters": 1893,
+			"totalVotes": 1232,
+			"percentTurnout": 65.08,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 804,
+					"percent": 65.26
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 428,
+					"percent": 34.74
+				}
+			]
+		}, {
+			"precinctNumber": "2145335306",
+			"registeredVoters": 2275,
+			"totalVotes": 1281,
+			"percentTurnout": 56.31,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 838,
+					"percent": 65.42
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 443,
+					"percent": 34.58
+				}
+			]
+		}, {
+			"precinctNumber": "2145335307",
+			"registeredVoters": 2427,
+			"totalVotes": 1384,
+			"percentTurnout": 57.03,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 977,
+					"percent": 70.59
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 407,
+					"percent": 29.41
+				}
+			]
+		}, {
+			"precinctNumber": "2145335308",
+			"registeredVoters": 1453,
+			"totalVotes": 705,
+			"percentTurnout": 48.52,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 457,
+					"percent": 64.82
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 248,
+					"percent": 35.18
+				}
+			]
+		}, {
+			"precinctNumber": "2145335309",
+			"registeredVoters": 1989,
+			"totalVotes": 982,
+			"percentTurnout": 49.37,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 653,
+					"percent": 66.5
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 329,
+					"percent": 33.5
+				}
+			]
+		}, {
+			"precinctNumber": "2145335310",
+			"registeredVoters": 2120,
+			"totalVotes": 1380,
+			"percentTurnout": 65.09,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 955,
+					"percent": 69.2
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 425,
+					"percent": 30.8
+				}
+			]
+		}, {
+			"precinctNumber": "2145335311",
+			"registeredVoters": 2285,
+			"totalVotes": 1354,
+			"percentTurnout": 59.26,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 912,
+					"percent": 67.36
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 442,
+					"percent": 32.64
+				}
+			]
+		}, {
+			"precinctNumber": "2145335312",
+			"registeredVoters": 1959,
+			"totalVotes": 1151,
+			"percentTurnout": 58.75,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 768,
+					"percent": 66.72
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 383,
+					"percent": 33.28
+				}
+			]
+		}, {
+			"precinctNumber": "2145335313",
+			"registeredVoters": 1560,
+			"totalVotes": 1110,
+			"percentTurnout": 71.15,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 726,
+					"percent": 65.41
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 384,
+					"percent": 34.59
+				}
+			]
+		}, {
+			"precinctNumber": "2145335314",
+			"registeredVoters": 2529,
+			"totalVotes": 1643,
+			"percentTurnout": 64.97,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 1107,
+					"percent": 67.38
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 536,
+					"percent": 32.62
+				}
+			]
+		}, {
+			"precinctNumber": "2145335315",
+			"registeredVoters": 1740,
+			"totalVotes": 1217,
+			"percentTurnout": 69.94,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 754,
+					"percent": 61.96
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 463,
+					"percent": 38.04
+				}
+			]
+		}, {
+			"precinctNumber": "2145335316",
+			"registeredVoters": 1109,
+			"totalVotes": 844,
+			"percentTurnout": 76.1,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 550,
+					"percent": 65.17
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 294,
+					"percent": 34.83
+				}
+			]
+		}, {
+			"precinctNumber": "2145335317",
+			"registeredVoters": 1515,
+			"totalVotes": 1244,
+			"percentTurnout": 82.11,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 798,
+					"percent": 64.15
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 446,
+					"percent": 35.85
+				}
+			]
+		}, {
+			"precinctNumber": "2145335318",
+			"registeredVoters": 1625,
+			"totalVotes": 1044,
+			"percentTurnout": 64.25,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 680,
+					"percent": 65.13
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 364,
+					"percent": 34.87
+				}
+			]
+		}, {
+			"precinctNumber": "2145335319",
+			"registeredVoters": 1373,
+			"totalVotes": 958,
+			"percentTurnout": 69.77,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 557,
+					"percent": 58.14
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 401,
+					"percent": 41.86
+				}
+			]
+		}, {
+			"precinctNumber": "2145335320",
+			"registeredVoters": 1262,
+			"totalVotes": 867,
+			"percentTurnout": 68.7,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 565,
+					"percent": 65.17
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 302,
+					"percent": 34.83
+				}
+			]
+		}, {
+			"precinctNumber": "2145335321",
+			"registeredVoters": 1648,
+			"totalVotes": 987,
+			"percentTurnout": 59.89,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 649,
+					"percent": 65.75
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 338,
+					"percent": 34.25
+				}
+			]
+		}, {
+			"precinctNumber": "2145335322",
+			"registeredVoters": 1508,
+			"totalVotes": 1057,
+			"percentTurnout": 70.09,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 639,
+					"percent": 60.45
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 418,
+					"percent": 39.55
+				}
+			]
+		}, {
+			"precinctNumber": "2145335323",
+			"registeredVoters": 1529,
+			"totalVotes": 1120,
+			"percentTurnout": 73.25,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 642,
+					"percent": 57.32
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 478,
+					"percent": 42.68
+				}
+			]
+		}, {
+			"precinctNumber": "2145335324",
+			"registeredVoters": 1701,
+			"totalVotes": 1340,
+			"percentTurnout": 78.78,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 746,
+					"percent": 55.67
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 594,
+					"percent": 44.33
+				}
+			]
+		}, {
+			"precinctNumber": "2145335325",
+			"registeredVoters": 1813,
+			"totalVotes": 1232,
+			"percentTurnout": 67.95,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 746,
+					"percent": 60.55
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 486,
+					"percent": 39.45
+				}
+			]
+		}, {
+			"precinctNumber": "2145335326",
+			"registeredVoters": 2083,
+			"totalVotes": 1459,
+			"percentTurnout": 70.04,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 939,
+					"percent": 64.36
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 520,
+					"percent": 35.64
+				}
+			]
+		}, {
+			"precinctNumber": "2145335327",
+			"registeredVoters": 1576,
+			"totalVotes": 1241,
+			"percentTurnout": 78.74,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 663,
+					"percent": 53.42
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 578,
+					"percent": 46.58
+				}
+			]
+		}, {
+			"precinctNumber": "2145335328",
+			"registeredVoters": 1604,
+			"totalVotes": 1272,
+			"percentTurnout": 79.3,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 709,
+					"percent": 55.74
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 563,
+					"percent": 44.26
+				}
+			]
+		}, {
+			"precinctNumber": "2145335329",
+			"registeredVoters": 1235,
+			"totalVotes": 957,
+			"percentTurnout": 77.49,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 439,
+					"percent": 45.87
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 518,
+					"percent": 54.13
+				}
+			]
+		}, {
+			"precinctNumber": "2145335330",
+			"registeredVoters": 1501,
+			"totalVotes": 1140,
+			"percentTurnout": 75.95,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 533,
+					"percent": 46.75
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 607,
+					"percent": 53.25
+				}
+			]
+		}, {
+			"precinctNumber": "2145335331",
+			"registeredVoters": 956,
+			"totalVotes": 704,
+			"percentTurnout": 73.64,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 337,
+					"percent": 47.87
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 367,
+					"percent": 52.13
+				}
+			]
+		}, {
+			"precinctNumber": "2145335332",
+			"registeredVoters": 1342,
+			"totalVotes": 912,
+			"percentTurnout": 67.96,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 468,
+					"percent": 51.32
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 444,
+					"percent": 48.68
+				}
+			]
+		}, {
+			"precinctNumber": "2145335333",
+			"registeredVoters": 1106,
+			"totalVotes": 811,
+			"percentTurnout": 73.33,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 400,
+					"percent": 49.32
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 411,
+					"percent": 50.68
+				}
+			]
+		}, {
+			"precinctNumber": "2145335334",
+			"registeredVoters": 1943,
+			"totalVotes": 1026,
+			"percentTurnout": 52.8,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 705,
+					"percent": 68.71
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 321,
+					"percent": 31.29
+				}
+			]
+		}, {
+			"precinctNumber": "2145335335",
+			"registeredVoters": 2659,
+			"totalVotes": 1415,
+			"percentTurnout": 53.22,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 979,
+					"percent": 69.19
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 436,
+					"percent": 30.81
+				}
+			]
+		}, {
+			"precinctNumber": "2145335336",
+			"registeredVoters": 1417,
+			"totalVotes": 752,
+			"percentTurnout": 53.07,
+			"votes": [{
+					"candidate": "John Kefalas",
+					"votes": 509,
+					"percent": 67.69
+				}, {
+					"candidate": "Hans Hochheimer",
+					"votes": 243,
+					"percent": 32.31
+				}
+			]
+		}
+	]
+}
