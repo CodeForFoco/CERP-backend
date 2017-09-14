@@ -1,0 +1,36 @@
+{
+	"topic": "St. Vrain Valley 3A",
+	"year": "2016",
+	"precincts": [{
+			"precinctNumber": "2154935417",
+			"registeredVoters": 559,
+			"totalVotes": 450,
+			"percentTurnout": 80.5,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 211,
+					"percent": 46.89
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 239,
+					"percent": 53.11
+				}
+			]
+		}, {
+			"precinctNumber": "2154935418",
+			"registeredVoters": 5,
+			"totalVotes": 0,
+			"percentTurnout": 0.0,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 0,
+					"percent": 0.0
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 0,
+					"percent": 0.0
+				}
+			]
+		}
+	]
+}

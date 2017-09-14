@@ -1,0 +1,51 @@
+{
+	"topic": "Timnath 2B",
+	"year": "2016",
+	"precincts": [{
+			"precinctNumber": "2234935802",
+			"registeredVoters": 81,
+			"totalVotes": 69,
+			"percentTurnout": 85.19,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 27,
+					"percent": 39.13
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 42,
+					"percent": 60.87
+				}
+			]
+		}, {
+			"precinctNumber": "2234935803",
+			"registeredVoters": 974,
+			"totalVotes": 830,
+			"percentTurnout": 85.22,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 353,
+					"percent": 42.53
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 477,
+					"percent": 57.47
+				}
+			]
+		}, {
+			"precinctNumber": "2234935804",
+			"registeredVoters": 1263,
+			"totalVotes": 1083,
+			"percentTurnout": 85.75,
+			"votes": [{
+					"candidate": "YES/FOR",
+					"votes": 442,
+					"percent": 40.81
+				}, {
+					"candidate": "NO/AGAINST",
+					"votes": 641,
+					"percent": 59.19
+				}
+			]
+		}
+	]
+}
