@@ -56,7 +56,7 @@
                 <md-layout md-flex="33" md-column v-for="precinct in all_precinct">
                     <md-card>
                         <md-card-header>
-                            <div class="md-title">Precent: {{precinct[0]}}</div>
+                            <div class="md-title">Precinct: {{precinct[0]}}</div>
                         </md-card-header>
                         <md-card-media>
                             <highcharts :options="gen_options(precinct)"></highcharts>
