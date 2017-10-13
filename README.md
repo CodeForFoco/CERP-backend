@@ -1,8 +1,20 @@
 # CERP
+
 Community Elections Resources and Polling Tool
 
-- TODO: Write a detailed description of the project here.
-- TODO: Add description of project to projects section of website.
+Provide information on local elections, politicians, issues, and political outcomes. Visualize and share results.
+
+Election information should be available to citizens in an easy to understand, fun to explore, and overall interesting way so that our community can better understand itself and its political past, present, and future.
+
+#### Election Information
+
+Larimer County provides information about elections at a precinct level, but the information is provided as a table of statistics. We are striving to improve the explorability of the data by building a website that lets Larimer County citizens view results on a map, compare precincts, and discover ways to reach out to elected officials.
+
+#### Detailed Project Requirements
+
+1. Show election information on a heat map of precincts in Larimer County.
+2. Display all election outcomes for a precinct on the same page.
+3. Allow different "views" of the data to be shared via hyperlinks.
 
 ## Getting Started
 
