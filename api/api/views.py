@@ -1,27 +1,71 @@
 """
     The controls all the API endpoints
 """
-from api import app
-# common flask imports (for later) render_template, request, session,
-# redirect, url_for
 from flask import jsonify
+from api import app, data
 
 
 @app.route('/')
 def index():
-    """ if someone hits the root dir, return just a simple result:true """
-    return jsonify(result=True)
+    """ If someone hits root dir, show them all paths """
+    output = sorted([str(rule) for rule in app.url_map.iter_rules()])
+    return jsonify(result=True, paths=output)
 
 
-@app.route('/pieme')
-def pieme():
+@app.route('/presidential/<precinctNum>/pie')
+def presidential_precinct_pie(precinctNum):
     """
-        Sample endpoint, showing how the application will
-        work with the front end
+        Generate a highcharts pie friendly dataset for each precient
+
+        output:
+            [
+                [
+                    'Trump/Pence' (str),
+                    value (int)
+                ],
+                [
+                    'Clinton/Kaine' (str),
+                    value (int)
+                ]
+            ],
     """
-    return jsonify([
-        [2235235101, ['Trump/Pence', 289], ['Clinton/Kaine', 359]],
-        [2235235102, ['Trump/Pence', 115], ['Clinton/Kaine', 98]],
-        [2145235201, ['Trump/Pence', 385], ['Clinton/Kaine', 727]],
-        [2234935809, ['Trump/Pence', 681], ['Clinton/Kaine', 251]],
-        [2234935810, ['Trump/Pence', 977], ['Clinton/Kaine', 523]]])
+    print(data.PRESIDENTIAL_ELECTION_CANADITS_16.head())
+    d = data.PRESIDENTIAL_ELECTION_CANADITS_16.loc[int(precinctNum)]
+
+    return jsonify(
+        result=True,
+        data=[
+            [name, int(vaue)]
+            for name, vaue in zip(d.keys(), d.values)
+        ]
+    )
+
+
+@app.route('/presidential/all/pie')
+def presidential_all_pie():
+    """
+        Generate a highcharts pie friendly dataset for all precients (sum)
+
+        output:
+            [
+                [
+                    'Trump/Pence' (str),
+                    value (int)
+                ],
+                [
+                    'Clinton/Kaine' (str),
+                    value (int)
+                ]
+            ]
+    """
+    prez = data.PRESIDENTIAL_ELECTION_CANADITS_16
+    prez = prez[['Trump/Pence', 'Clinton/Kaine']].copy()
+    prez = prez.sum()  # prez is now a series
+
+    return jsonify(
+        result=True,
+        data=[
+            [name, int(vaue)]
+            for name, vaue in zip(prez.keys(), prez.values)
+        ]
+    )
