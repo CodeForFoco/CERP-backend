@@ -1,14 +1,16 @@
 <template>
-  <div class="precint">
-    <p>Precint: {{ $route.params.id }}</p>
+  <div class="precinct">
+    <p>Precinct: {{ precinct }}</p>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'PrecintView',
+  name: 'PrecinctView',
   data () {
-    return {}
+    return {
+      precinct: this.$route.params.id
+    }
   }
 }
 </script>

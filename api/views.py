@@ -1,15 +1,17 @@
 """
     The controls all the API endpoints
 """
-from flask import jsonify
+import json
+from flask import jsonify, render_template
 from api import app, data
 
 
 @app.route('/')
 def index():
     """ If someone hits root dir, show them all paths """
-    output = sorted([str(rule) for rule in app.url_map.iter_rules()])
-    return jsonify(result=True, paths=output)
+    # output = sorted([str(rule) for rule in app.url_map.iter_rules()])
+    # return jsonify(result=True, paths=output)
+    return render_template('index.html')
 
 
 @app.route('/presidential/<precinctNum>/pie')
@@ -39,6 +41,26 @@ def presidential_precinct_pie(precinctNum):
             for name, vaue in zip(d.keys(), d.values)
         ]
     )
+
+
+def colorize(n1, n2):
+    if (-1 * n1) + n2 > 0:
+        return "#3366cc"
+    return "#dc3912"
+
+
+@app.route('/presidential/all/heatmap')
+def presidential_all_heatmap():
+    """ """
+
+    prez = data.PRESIDENTIAL_ELECTION_CANADITS_16
+    prez = prez[['Trump/Pence', 'Clinton/Kaine']].copy()
+    prez['diff'] = prez.apply(
+        lambda row: colorize(row['Trump/Pence'], row['Clinton/Kaine']),
+        axis=1
+    )
+    prez = prez[['diff']].copy()
+    return jsonify(result=True, data=json.loads(prez.to_json())['diff'])
 
 
 @app.route('/presidential/all/pie')

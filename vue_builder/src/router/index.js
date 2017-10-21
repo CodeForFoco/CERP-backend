@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import HomeView from '@/components/HomeView'
 import AboutView from '@/components/AboutView'
 import ContactView from '@/components/ContactView'
-import PrecintView from '@/components/PrecintView'
+import PrecinctView from '@/components/PrecinctView'
 
 Vue.use(Router)
 
@@ -25,9 +25,9 @@ export default new Router({
       component: ContactView
     },
     {
-      path: '/precint/:id',
-      name: 'PrecintView',
-      component: PrecintView
+      path: '/precinct/:id',
+      name: 'PrecinctView',
+      component: PrecinctView
     }
   ]
 })
