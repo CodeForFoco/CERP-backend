@@ -13,7 +13,7 @@ def presidential_election_16():
         Currently it creates then destroys a csv object, this
         step should be removed
     """
-    with open("api/static/2016-PresidentialElection.json") as f:
+    with open("cerp/static/2016-PresidentialElection.json") as f:
         data = json.load(f)
 
     with open('data.csv', 'w') as csvfile:

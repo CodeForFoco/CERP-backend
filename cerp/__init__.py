@@ -15,4 +15,4 @@ app.config.from_object('config')
 cors = CORS(app, supports_credentials=True)
 
 # I know it's weird, but this needs to be at the bottom
-from api import views
+from cerp import views

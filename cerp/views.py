@@ -3,7 +3,7 @@
 """
 import json
 from flask import jsonify, render_template
-from api import app, data
+from cerp import app, data
 
 
 @app.route('/')
