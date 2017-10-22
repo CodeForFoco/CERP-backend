@@ -1,4 +1,4 @@
-# cerp
+# CERP
 
 > The webview for the CERP project
 
@@ -28,3 +28,19 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+Additional notes:
+
+The only file that needs to be changed is: 
+
+`src/config.js`
+
+There are three options:
+
+1. API_LOCATION: 'http://localhost:5000/api'
+2. API_LOCATION: '/api'
+3. API_LOCATION: 'https://cerp-code-foco.herokuapp.com/api'
+
+Use 1 if you are planning on making changes to both the front end and back end (you'll need to start the pythons server)
+Use 2 if you are building for production DONT FORGET TO CHANGE CONFIG TO THIS IF BUILDING FOR PRODUCTION
+Use 3 if you are planning on making changes to the front end, and don't want to start up the local dev server

@@ -82,7 +82,7 @@ export default {
       if (this.presidential_pie_data.length === 0) {
         this.ajaxRequest = true
         this.$http.get(
-        config.API_LOCATION + '/presidential/all/pie'
+        config.API_LOCATION + '/api/presidential/all/pie'
         ).then(response => {
           this.ajaxRequest = false
           var res = response.body
@@ -144,7 +144,7 @@ export default {
         var geodata = JSON.parse(response.body)
         console.log(geodata)
         this.$http.get(
-          config.API_LOCATION + '/presidential/all/heatmap'
+          config.API_LOCATION + '/api/presidential/all/heatmap'
         ).then(response => {
           var heatdata = response.body
           console.log(heatdata)

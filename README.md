@@ -20,6 +20,30 @@ Larimer County provides information about elections at a precinct level, but the
 
 - TODO: Technical documentation to clone, install and run the project goes here.
 
+This project has two parts:
+
+A "front end" built using vue.js and a "back end" built using python+flask
+
+Both have their own build tools and setup process.  The vuejs setup instructions are located in the `vue_builder` directory.  Be sure to be in that directory when you execute the setup steps!
+
+As for the python application:
+
+To get started (assuming linux or linux like)
+
+``` bash
+## Create virtual env
+python3  -m venv venv #optional
+. venv/bin/activate #optional
+## Install Requirements
+pip install --upgrade pip
+pip install -r requirements.txt
+sh start.sh
+```
+
+Learn more here: http://flask.pocoo.org/docs/0.12/quickstart/
+
+A file describing what each file does is named, [DEFINTION.md](DEFINTION.md)
+
 ## Contributing
 
 We welcome new contributors.  Be sure to check out guide on [contributing][contributing], which includes instructions on how to fork, clone, branch, commit, pull request and sync your fork.

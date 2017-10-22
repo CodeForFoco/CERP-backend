@@ -1,5 +1,5 @@
 """
-    The controls all the API endpoints
+    The controls all the endpoints
 """
 import json
 from flask import jsonify, render_template
@@ -8,13 +8,21 @@ from cerp import app, data
 
 @app.route('/')
 def index():
-    """ If someone hits root dir, show them all paths """
-    # output = sorted([str(rule) for rule in app.url_map.iter_rules()])
-    # return jsonify(result=True, paths=output)
+    """
+        Return the index page. Which loads the vue application
+    """
     return render_template('index.html')
 
 
-@app.route('/presidential/<precinctNum>/pie')
+@app.route("/api")
+def api():
+    """ If someone hits root api dir, show them all paths """
+    return jsonify(result=True, paths=sorted(
+        [str(rule) for rule in app.url_map.iter_rules()]
+    ))
+
+
+@app.route('/api/presidential/<precinctNum>/pie')
 def presidential_precinct_pie(precinctNum):
     """
         Generate a highcharts pie friendly dataset for each precient
@@ -31,7 +39,6 @@ def presidential_precinct_pie(precinctNum):
                 ]
             ],
     """
-    print(data.PRESIDENTIAL_ELECTION_CANADITS_16.head())
     d = data.PRESIDENTIAL_ELECTION_CANADITS_16.loc[int(precinctNum)]
 
     return jsonify(
@@ -44,14 +51,25 @@ def presidential_precinct_pie(precinctNum):
 
 
 def colorize(n1, n2):
+    """
+        Returns the color for each diff, based on who got more votes.
+        Needs to be expaned to use a color range
+    """
     if (-1 * n1) + n2 > 0:
         return "#3366cc"
     return "#dc3912"
 
 
-@app.route('/presidential/all/heatmap')
+@app.route('/api/presidential/all/heatmap')
 def presidential_all_heatmap():
-    """ """
+    """
+        Returns an object containing each of the precents and their color:
+        diff: {
+            precent: color,
+            precent: color,
+            ...
+        }
+    """
 
     prez = data.PRESIDENTIAL_ELECTION_CANADITS_16
     prez = prez[['Trump/Pence', 'Clinton/Kaine']].copy()
@@ -63,7 +81,7 @@ def presidential_all_heatmap():
     return jsonify(result=True, data=json.loads(prez.to_json())['diff'])
 
 
-@app.route('/presidential/all/pie')
+@app.route('/api/presidential/all/pie')
 def presidential_all_pie():
     """
         Generate a highcharts pie friendly dataset for all precients (sum)
