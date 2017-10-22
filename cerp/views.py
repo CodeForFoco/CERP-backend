@@ -64,7 +64,7 @@ def colorize(n1, n2):
 def presidential_all_heatmap():
     """
         Returns an object containing each of the precents and their color:
-        diff: {
+        data: {
             precent: color,
             precent: color,
             ...
@@ -75,6 +75,27 @@ def presidential_all_heatmap():
     prez = prez[['Trump/Pence', 'Clinton/Kaine']].copy()
     prez['diff'] = prez.apply(
         lambda row: colorize(row['Trump/Pence'], row['Clinton/Kaine']),
+        axis=1
+    )
+    prez = prez[['diff']].copy()
+    return jsonify(result=True, data=json.loads(prez.to_json())['diff'])
+
+
+@app.route('/api/presidential/all/diff')  # if used, change to heatmap
+def presidential_all_diff():
+    """
+        Returns an object containing each of the precents and their color:
+        data: {
+            precent: diff,
+            precent: diff,
+            ...
+        }
+    """
+
+    prez = data.PRESIDENTIAL_ELECTION_CANADITS_16
+    prez = prez[['Trump/Pence', 'Clinton/Kaine']].copy()
+    prez['diff'] = prez.apply(
+        lambda row: (-1 * row['Trump/Pence']) + row['Clinton/Kaine'],
         axis=1
     )
     prez = prez[['diff']].copy()

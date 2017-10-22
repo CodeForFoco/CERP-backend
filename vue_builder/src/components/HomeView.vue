@@ -7,7 +7,6 @@
                 <md-card-header>
                     <div class="md-title">Options</div>
                 </md-card-header>
-
                 <md-card-content>
                   <md-input-container>
                     <label for="selected_option">Options</label>
@@ -18,8 +17,6 @@
                     </md-select>
                   </md-input-container>
                 </md-card-content>
-
-
             </md-card>
         </md-layout>
 
@@ -35,11 +32,11 @@
             </md-card>
         </md-layout>
 
-        <!-- std_map -->
+        <!-- heat map -->
         <md-layout md-flex="50" md-column v-show="selected_option === 'county_map_with_pres'">
             <md-card>
                 <md-card-header>
-                    <div class="md-title">Lamier County precincts</div>
+                    <div class="md-title">Lamier County Presidential Election Heatmap</div>
                 </md-card-header>
                 <md-card-media>
                     <div id="std_map_with_pres" class="map"></div>
@@ -187,7 +184,7 @@ export default {
               map.on('click', 'precinct-' + precinct, function (e) {
                 new mapboxgl.Popup()
                 .setLngLat(e.lngLat)
-                .setHTML('Precinct: ' + precinct)
+                .setHTML('Precinct: ' + e.features[0].properties.PRECINCT)
                 .addTo(map)
               })
             }
