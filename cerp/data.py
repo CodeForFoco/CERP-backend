@@ -1,9 +1,7 @@
 """
     Load all the data
 """
-import os
 import json
-import csv
 import pandas as pd
 
 
@@ -16,26 +14,24 @@ def presidential_election_16():
     with open("cerp/static/2016-PresidentialElection.json") as f:
         data = json.load(f)
 
-    with open('data.csv', 'w') as csvfile:
-        writer = csv.writer(
-            csvfile,
-            delimiter=',',
-            quotechar="'",
-            quoting=csv.QUOTE_MINIMAL)
+    # Extract proper level
+    a = data['precincts']
 
-        writer.writerow(["precinctNumber"] + sorted([x['candidate']
-                                                     for x in data['precincts'][0]['votes']]))
+    # Convert to DataFrame and select columns we care about
+    b = pd.DataFrame(a)
+    c = b[['precinctNumber', 'votes']]
 
-        for row in data['precincts']:
-            writer.writerow([row['precinctNumber']] + [x['votes']
-                                                       for x in sorted(row['votes'], key=lambda y: y['candidate'])])
+    # Iterate through dataframe to create list with proper associations
+    result = []
+    for idx, row in c.iterrows():
+        for dct in row['votes']:
+            dct['precinctNumber'] = row['precinctNumber']
+            result.append(dct)
 
-        d = pd.read_csv('data.csv', index_col="precinctNumber")
-        try:
-            os.remove('data.csv')  # Cleanup
-        except BaseException:
-            pass
-        return d
+    # Convert back to dataframe and pivot to what you wanted
+    df = pd.DataFrame(result)
+    df = df.pivot(index='precinctNumber', columns='candidate', values='votes')
+    return df
 
 
 # Load all
