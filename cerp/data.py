@@ -31,7 +31,10 @@ def presidential_election_16():
                                                        for x in sorted(row['votes'], key=lambda y: y['candidate'])])
 
         d = pd.read_csv('data.csv', index_col="precinctNumber")
-        os.remove('data.csv')  # Cleanup
+        try:
+            os.remove('data.csv')  # Cleanup
+        except BaseException:
+            pass
         return d
 
 
