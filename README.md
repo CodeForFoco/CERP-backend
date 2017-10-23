@@ -1,5 +1,7 @@
 # CERP
 
+[![Build Status](https://travis-ci.org/deidyomega/CERP.svg?branch=master)](https://travis-ci.org/deidyomega/CERP)
+
 Community Elections Resources and Polling Tool
 
 Provide information on local elections, politicians, issues, and political outcomes. Visualize and share results.
