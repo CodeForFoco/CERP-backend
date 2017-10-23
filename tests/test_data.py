@@ -2,69 +2,51 @@
     This tests the json files for accuracy
 """
 import unittest
-import json
+from cerp import data
+import pandas as pd
 
 
-class ValidPrecientsPresData(unittest.TestCase):
+class ValidPresElection16(unittest.TestCase):
     """
-        This tests that the precients from the VoterPrecinct.geojson
-        match the data from PresidentialElection.json, and that the
-        data is of course valid interally.
+        This tests the cerp/data.presidential_election_16 function
+        is properly creating the dataframe and it matches expected values
     """
+    pres_canadits = data.presidential_election_16()
 
-    # Start by loading the precients from the two files
-
-    # This is from the PDF work
-    with open("cerp/static/2016-PresidentialElection.json") as file_handler:
-        pres_data = json.load(file_handler)
-        pres_precients = [x['precinctNumber'] for x in pres_data['precincts']]
-
-    # This is from lamier county, but it's a conversion from a .shp file
-    with open("cerp/static/VoterPrecinct.geojson") as file_handler:
-        geo_data = json.load(file_handler)
-        geo_precients = [str(x['properties']['PRECINCT'])
-                         for x in geo_data['features']]
-
-    def test_presidential_election(self):
+    def test_is_dataframe(self):
         """
-            PresidentialElection.json precints should be unique
+            pres_canadits should be a dataframe
         """
-        self.assertEqual(
-            len(self.pres_precients),
-            len(set(self.pres_precients)),
-            "PresidentialElection.json precints should be unique"
+        self.assertTrue(
+            isinstance(
+                self.pres_canadits,
+                pd.core.frame.DataFrame)
         )
 
-    def test_voter_precinct(self):
+    def test_shape(self):
         """
-            VoterPrecinct.geojson precints should be unique
+            pres_canadits should match specified shape
         """
-        self.assertEqual(
-            len(self.geo_precients),
-            len(set(self.geo_precients)),
-            "VoterPrecinct.geojson precints should be unique"
+        length, width = self.pres_canadits.shape
+
+        self.assertGreater(
+            length,
+            100,
+            "There should be at least 100 preicents"
         )
 
-    def test_vp_equal_length_pe(self):
-        """
-            PresidentialElection.json precints should be
-            the same length as VoterPrecinct.json precints
-        """
-        self.assertEqual(
-            len(self.pres_precients),
-            len(self.geo_precients),
-            "PresidentialElection.json precints should be "
-            "the same length as VoterPrecinct.json precints"
+        self.assertGreater(
+            width,
+            15,
+            "There should be at least 15 canadits"
         )
 
-    def test_vp_equal_pe(self):
+    def test_index_name(self):
         """
-            PresidentialElection.json precints should be
-            the same as VoterPrecinct.json precints
+            The dataframe should have an index,
+            and the name is, 'precinctNumber'
         """
         self.assertEqual(
-            set(self.pres_precients),
-            set(self.geo_precients),
-            "PresidentialElection.json precints should be "
-            "the same as VoterPrecinct.json precints"
+            self.pres_canadits.index.name,
+            "precinctNumber"
         )
