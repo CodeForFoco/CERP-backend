@@ -16,7 +16,6 @@ node_modules/
 env/
 tmp/
 venv/
-build/
 develop-eggs/
 dist/
 downloads/
