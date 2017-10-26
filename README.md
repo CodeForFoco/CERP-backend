@@ -1,6 +1,7 @@
 # CERP
 
 [![Build Status](https://travis-ci.org/deidyomega/CERP.svg?branch=master)](https://travis-ci.org/deidyomega/CERP)
+![Coverage Status](coverage.svg)
 
 Community Elections Resources and Polling Tool
 
@@ -40,6 +41,12 @@ python3  -m venv venv #optional
 pip install --upgrade pip
 pip install -r requirements.txt
 sh start.sh
+
+## Test:
+sh test.sh
+
+## Generage coverage report (and update badge):
+sh coverage.sh
 ```
 
 Learn more here: http://flask.pocoo.org/docs/0.12/quickstart/
