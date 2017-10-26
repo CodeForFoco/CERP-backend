@@ -36,5 +36,22 @@ def presidential_election_16():
         values='votes')
 
 
+def presidential_election_16_meta():
+    """
+        This loads all the meta data about the precincts
+    """
+    with open("cerp/static/2016-PresidentialElection.json") as file_handler:
+        data = json.load(file_handler)
+
+    meta_obj = {}
+    for precinct in data['precincts']:
+        pnum = precinct['precinctNumber']
+        del precinct["votes"]
+        del precinct["precinctNumber"]
+        meta_obj[pnum] = precinct
+    return meta_obj
+
+
 # Load all
 PRESIDENTIAL_ELECTION_CANADITS_16 = presidential_election_16()
+PRESIDENTIAL_ELECTION_CANADITS_16_META = presidential_election_16_meta()

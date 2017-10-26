@@ -20,3 +20,4 @@ pytz==2017.2
 six==1.11.0
 Werkzeug==0.12.2
 wrapt==1.10.11
+coverage==4.4.1

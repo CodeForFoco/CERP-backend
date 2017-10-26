@@ -39,7 +39,7 @@ def presidential_precinct_pie(precinctNum):
                 ]
             ],
     """
-    d = data.PRESIDENTIAL_ELECTION_CANADITS_16.loc[int(precinctNum)]
+    d = data.PRESIDENTIAL_ELECTION_CANADITS_16.loc[precinctNum]
 
     return jsonify(
         result=True,
