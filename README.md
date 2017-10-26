@@ -1,7 +1,7 @@
 # CERP
 
 [![Build Status](https://travis-ci.org/deidyomega/CERP.svg?branch=master)](https://travis-ci.org/deidyomega/CERP)
-![Coverage Status](coverage.svg)
+[![Coverage Status](https://coveralls.io/repos/github/deidyomega/CERP/badge.svg)](https://coveralls.io/github/deidyomega/CERP)
 
 Community Elections Resources and Polling Tool
 
