@@ -22,3 +22,4 @@ Werkzeug==0.12.2
 wrapt==1.10.11
 coverage==4.4.1
 coverage-badge==0.2.0
+coveralls==1.2.0
