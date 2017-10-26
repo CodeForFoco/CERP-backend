@@ -50,6 +50,24 @@ def presidential_precinct_pie(precinctNum):
     )
 
 
+@app.route('/api/presidential/<precinctNum>/meta')
+def presidential_precinct_meta(precinctNum):
+    """
+        Return meta data about each precinct's election result
+
+        output:
+            {
+                "percentTurnout": num,
+                "registeredVoters": num,
+                "totalVotes": num
+            },
+    """
+    return jsonify(
+        result=True,
+        data=data.PRESIDENTIAL_ELECTION_CANADITS_16_META[precinctNum]
+    )
+
+
 def colorize(n1, n2):
     """
         Returns the color for each diff, based on who got more votes.

@@ -42,6 +42,22 @@ class CERPTestCase(unittest.TestCase):
             self.assertTrue(isinstance(item[0], str))
             self.assertTrue(isinstance(item[1], int))
 
+    def test_presidential_precinct_meta(self):
+        page = self.convert_to_json(
+            self.app.get('/api/presidential/2235235101/meta')
+        )
+        # Result was found
+        self.assertTrue(page['result'])
+        # data is a dict
+        self.assertTrue(isinstance(page['data'], dict))
+        # Keys are known, and only what we expect
+        keys = set(['percentTurnout', 'registeredVoters', 'totalVotes'])
+        self.assertEqual(page['data'].keys(), keys)
+
+        # values are numbers
+        for item in page['data']:
+            self.assertTrue(isinstance(page['data'][item], (int, float)))
+
     def test_presidential_all_heatmap(self):
         page = self.convert_to_json(
             self.app.get('/api/presidential/all/heatmap')
