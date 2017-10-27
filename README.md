@@ -1,7 +1,7 @@
 # CERP
 
-[![Build Status](https://travis-ci.org/deidyomega/CERP.svg?branch=master)](https://travis-ci.org/deidyomega/CERP)
-[![Coverage Status](https://coveralls.io/repos/github/deidyomega/CERP/badge.svg)](https://coveralls.io/github/deidyomega/CERP)
+[![Build Status](https://travis-ci.org/CodeForFoco/CERP-backend.svg?branch=master)](https://travis-ci.org/CodeForFoco/CERP-backend)
+[![Coverage Status](https://coveralls.io/repos/github/CodeForFoco/CERP-backend/badge.svg)](https://coveralls.io/github/CodeForFoco/CERP-backend)
 
 > The backend for the CERP project.
 > See [CERP-webview][webview] for the frontend.
