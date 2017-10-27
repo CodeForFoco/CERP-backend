@@ -1,5 +1,8 @@
 # CERP
 
+[![Build Status](https://travis-ci.org/deidyomega/CERP.svg?branch=master)](https://travis-ci.org/deidyomega/CERP)
+[![Coverage Status](https://coveralls.io/repos/github/deidyomega/CERP/badge.svg)](https://coveralls.io/github/deidyomega/CERP)
+
 Community Elections Resources and Polling Tool
 
 Provide information on local elections, politicians, issues, and political outcomes. Visualize and share results.
@@ -19,6 +22,36 @@ Larimer County provides information about elections at a precinct level, but the
 ## Getting Started
 
 - TODO: Technical documentation to clone, install and run the project goes here.
+
+This project has two parts:
+
+A "front end" built using vue.js and a "back end" built using python+flask
+
+Both have their own build tools and setup process.  The vuejs setup instructions are located in the `vue_builder` directory.  Be sure to be in that directory when you execute the setup steps!
+
+As for the python application:
+
+To get started (assuming linux or linux like)
+
+``` bash
+## Create virtual env
+python3  -m venv venv #optional
+. venv/bin/activate #optional
+## Install Requirements
+pip install --upgrade pip
+pip install -r requirements.txt
+sh start.sh
+
+## Test:
+sh test.sh
+
+## Generage coverage report (and update badge):
+sh coverage.sh
+```
+
+Learn more here: http://flask.pocoo.org/docs/0.12/quickstart/
+
+A file describing what each file does is named, [DEFINTION.md](DEFINTION.md)
 
 ## Contributing
 
