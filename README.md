@@ -3,6 +3,9 @@
 [![Build Status](https://travis-ci.org/deidyomega/CERP.svg?branch=master)](https://travis-ci.org/deidyomega/CERP)
 [![Coverage Status](https://coveralls.io/repos/github/deidyomega/CERP/badge.svg)](https://coveralls.io/github/deidyomega/CERP)
 
+> The backend for the CERP project.
+> See [CERP-webview][webview] for the frontend.
+
 Community Elections Resources and Polling Tool
 
 Provide information on local elections, politicians, issues, and political outcomes. Visualize and share results.
@@ -21,13 +24,10 @@ Larimer County provides information about elections at a precinct level, but the
 
 ## Getting Started
 
-- TODO: Technical documentation to clone, install and run the project goes here.
 
 This project has two parts:
 
-A "front end" built using vue.js and a "back end" built using python+flask
-
-Both have their own build tools and setup process.  The vuejs setup instructions are located in the `vue_builder` directory.  Be sure to be in that directory when you execute the setup steps!
+A "front end" built using vue.js and a "back end" built using python+flask. The front end setup instructions are located in the [webview][webview] repository.  Be sure to checkout that repo when you execute the setup steps!
 
 As for the python application:
 
@@ -80,9 +80,9 @@ MIT, see [LICENSE](/LICENSE) for full license.
 [slack]: https://codeforfoco.slack.com/
 [slackinvite]: https://codeforfocoslack.herokuapp.com
 [fork]: https://help.github.com/articles/fork-a-repo/
-[forkthisrepo]: https://github.com/CodeForFoco/TODOUPDATEURL#fork-destination-box
+[forkthisrepo]: https://github.com/CodeForFoco/CERP-backend#fork-destination-box
 [contributing]: https://github.com/CodeForFoco/org/blob/master/CONTRIBUTING.md
-[githubissue]: https://github.com/CodeForFoco/TODOUPDATEURL/issues
-[newissue]: https://github.com/CodeForFoco/TODOUPDATEURL/issues/new
-[pullrequest]: https://github.com/CodeForFoco/TODOUPDATEURL/pulls
-
+[githubissue]: https://github.com/CodeForFoco/CERP-backend/issues
+[newissue]: https://github.com/CodeForFoco/CERP-backend/issues/new
+[pullrequest]: https://github.com/CodeForFoco/CERP-backend/pulls
+[webview]: https://github.com/CodeForFoco/CERP-webview
