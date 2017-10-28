@@ -4,8 +4,6 @@ docs/: This contains the original pdf's with the data used within the entire app
 
 tests/: This contains the python testing suit (unittest).
 
-vue_builder/: This contains the "front end" of the application.  Using vuejs
-
 .gitignore: This file tells git which other files should be ignored (build files, compiled files, cached libraries, etc)
 
 .travis.yml: This file tells travis-ci.org how to build and test our project.  It needs to be improved to include vue_builder tests

@@ -4,6 +4,7 @@
   before_script:
     - sh coverage.sh --automated
   script:
-    - python -m unittest discover tests/
+    - python -m unittest tests/test_data.py
+    - python -m unittest tests/test_views.py
   after_script:
     - coveralls
