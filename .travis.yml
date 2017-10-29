@@ -1,10 +1,9 @@
   language: python
   python:
     - 3.5
-  before_script:
-    - sh coverage.sh --automated
   script:
     - python -m unittest tests/test_data.py
     - python -m unittest tests/test_views.py
   after_script:
+    - python manage coverage_auto
     - coveralls
