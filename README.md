@@ -31,22 +31,29 @@ A "front end" built using vue.js and a "back end" built using python+flask. The 
 
 As for the python application:
 
-To get started (assuming linux or linux like)
+To get started (assuming linux or linux like).  The manage application is os agnostic.  However it assumes the current python ~3.6 and all packages for the application are installed correctly, and are in the current path
 
 ``` bash
+##### One time only #####
 ## Create virtual env
 python3  -m venv venv #optional
 . venv/bin/activate #optional
 ## Install Requirements
 pip install --upgrade pip
 pip install -r requirements.txt
-sh start.sh
+
+### Every time ###
+## Run:
+python manage run
+python manage r
 
 ## Test:
-sh test.sh
+python manage test
+python manage t
 
-## Generage coverage report (and update badge):
-sh coverage.sh
+## Generage coverage report:
+python manage coverage
+python manage c
 ```
 
 Learn more here: http://flask.pocoo.org/docs/0.12/quickstart/
