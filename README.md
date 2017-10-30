@@ -44,16 +44,16 @@ pip install -r requirements.txt
 
 ### Every time ###
 ## Run:
-python manage run
-python manage r
+python manage.py run
+python manage.py r
 
 ## Test:
-python manage test
-python manage t
+python manage.py test
+python manage.py t
 
 ## Generage coverage report:
-python manage coverage
-python manage c
+python manage.py coverage
+python manage.py c
 ```
 
 Learn more here: http://flask.pocoo.org/docs/0.12/quickstart/

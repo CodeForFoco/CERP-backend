@@ -2,8 +2,9 @@
   python:
     - 3.5
   script:
+    # - python manage.py test ## once we fix the data issue, we can just run a full test
     - python -m unittest tests/test_data.py
     - python -m unittest tests/test_views.py
   after_script:
-    - python manage coverage_auto
+    - python manage.py coverage_auto
     - coveralls
