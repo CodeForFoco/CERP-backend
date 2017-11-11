@@ -5,35 +5,45 @@ import json
 import os
 import pandas as pd
 
-
-
-# ELECTION_DATA = {
-#     "<topic>-<year>": {
-#         "data": pd.
-#         "meta": {}
-#     }
-# }
-
 def get_voter_data():
     """
-        This returns the presidental data for the 2016 election.
-        Specifically a dataframe that looks like:
+        This is a factory that parses all provided json voter documents
+        and returns them as a dictionary:
+
+        Main dictionary format:
+
+            ELECTION_DATA = {
+                "<topic>-<year>": {
+                        "data": pd.DataFrame
+                        "meta": {}
+                }
+            } 
+
+        The "data" key has value of a pandas dataframe of the format:
 
                      canadit | canadit   | ...
         precinctNum   votes  |   votes   | ...
         precinctNum   votes  |   votes   | ...
         ...
+
+
+        The "meta" key returns a dictionary of all meta data associated with
+        the issue 
     """
+
     full_data = {}
     path = "cerp/static/microdata";
+    
+    # Iterate through each file in the microdata directory and load its contents
     for file in os.listdir(path=path):
+
+        # Open .json only
         if file.endswith(".json"):
             with open(path + "/" + file) as file_handler:
                 data = json.load(file_handler)
 
             # Convert to DataFrame and select columns we care about
             data_frame = pd.DataFrame(data['precincts'])
-
             data_frame = data_frame[['precinctNumber', 'votes']]
 
             # Iterate through dataframe to create list with proper associations
@@ -47,12 +57,15 @@ def get_voter_data():
             columns='candidate',
             values='votes')
 
+            # Create the meta dictionary
             meta_obj = {}
             for precinct in data['precincts']:
                 pnum = precinct['precinctNumber']
                 del precinct["votes"]
                 del precinct["precinctNumber"]
                 meta_obj[pnum] = precinct
+
+            # Add dataframe and meta to the full dictionary
             full_data[data['topic'] + "-" + data['year']] = {}
             full_data[data['topic'] + "-" + data['year']]['data'] = final_df
             full_data[data['topic'] + "-" + data['year']]['meta'] = meta_obj    
