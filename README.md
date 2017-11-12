@@ -1,12 +1,10 @@
-# CERP
+# Community Elections Resources and Polling Tool (CERP)
 
 [![Build Status](https://travis-ci.org/CodeForFoco/CERP-backend.svg?branch=master)](https://travis-ci.org/CodeForFoco/CERP-backend)
 [![Coverage Status](https://coveralls.io/repos/github/CodeForFoco/CERP-backend/badge.svg)](https://coveralls.io/github/CodeForFoco/CERP-backend)
 
 > The backend for the CERP project.
 > See [CERP-webview][webview] for the frontend.
-
-Community Elections Resources and Polling Tool
 
 Provide information on local elections, politicians, issues, and political outcomes. Visualize and share results.
 
@@ -24,41 +22,67 @@ Larimer County provides information about elections at a precinct level, but the
 
 ## Getting Started
 
-
 This project has two parts:
 
-A "front end" built using vue.js and a "back end" built using python+flask. The front end setup instructions are located in the [webview][webview] repository.  Be sure to checkout that repo when you execute the setup steps!
+- A **front end** built on [Vue.js][vue] and located in its [own repository][webview].  Be sure to clone that repo and follow the [setup steps][webview-setup]!
+- A **back end** (this repo) built with Python + [Flask][flask].  You can learn the purpose of each file in [DEFINTION.md](DEFINTION.md).
 
-As for the python application:
+### Initial Steps
 
-To get started (assuming linux or linux like).  The manage application is os agnostic.  However it assumes the current python ~3.6 and all packages for the application are installed correctly, and are in the current path
+These steps only need to be performed once.
 
-``` bash
-##### One time only #####
-## Create virtual env
-python3  -m venv venv #optional
-. venv/bin/activate #optional
-## Install Requirements
+#### Verify Required Applications
+
+Although the `manage` application is OS-agnostic, it assumes that the current version of Python (`~3.6`) and all packages for the application are installed correctly and exist in your current `$PATH`.
+
+#### Dependencies/Packages
+
+To get started on a Linux or Linux-like environment (e.g. OS X), create a Python virtual environment and install the project's requirements:
+
+```bash
+python3  -m venv venv
+. venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
-
-### Every time ###
-## Run:
-python manage.py run
-python manage.py r
-
-## Test:
-python manage.py test
-python manage.py t
-
-## Generage coverage report:
-python manage.py coverage
-python manage.py c
 ```
 
-Learn more here: http://flask.pocoo.org/docs/0.12/quickstart/
+You can read about `virtualenv` [here][virtual-env].
 
-A file describing what each file does is named, [DEFINTION.md](DEFINTION.md)
+## Developing
+
+Once you have completed the initial setup steps above, follow these instructions to start developing.
+
+### Start the Server
+
+Whenever you want to view or develop the application, activate the Python virtual environment then start the Flask server:
+
+```bash
+. venv/bin/activate
+python manage.py run
+
+# OR alternate shorthand/alias
+python manage.py r
+```
+
+### Tests and Coverage Report (as needed)
+
+To periodically run Python tests:
+
+```bash
+python manage.py test
+
+# OR alternate shorthand/alias
+python manage.py t
+```
+
+To generate a coverage report and update the `Coveralls` badge:
+
+```bash
+python manage.py coverage
+
+# OR alternate shorthand/alias
+python manage.py c 
+```
 
 ## Contributing
 
@@ -84,12 +108,16 @@ We encourage you to [open up an issue][newissue] if you have any feedback, sugge
 
 MIT, see [LICENSE](/LICENSE) for full license.
 
-[slack]: https://codeforfoco.slack.com/
-[slackinvite]: https://codeforfocoslack.herokuapp.com
+[contributing]: https://github.com/CodeForFoco/org/blob/master/CONTRIBUTING.md
+[flask]: http://flask.pocoo.org/docs/0.12/quickstart/
 [fork]: https://help.github.com/articles/fork-a-repo/
 [forkthisrepo]: https://github.com/CodeForFoco/CERP-backend#fork-destination-box
-[contributing]: https://github.com/CodeForFoco/org/blob/master/CONTRIBUTING.md
 [githubissue]: https://github.com/CodeForFoco/CERP-backend/issues
 [newissue]: https://github.com/CodeForFoco/CERP-backend/issues/new
 [pullrequest]: https://github.com/CodeForFoco/CERP-backend/pulls
+[slack]: https://codeforfoco.slack.com/
+[slackinvite]: https://codeforfocoslack.herokuapp.com
+[virtual-env]: https://pypi.python.org/pypi/virtualenv
+[vue]: https://vuejs.org/
+[webview-setup]: https://github.com/CodeForFoco/CERP-webview#getting-started
 [webview]: https://github.com/CodeForFoco/CERP-webview
