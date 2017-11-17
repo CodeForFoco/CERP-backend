@@ -27,7 +27,10 @@ def coverage(auto=False):
         shell=True)
     if not auto:
         subprocess.call('coverage html', shell=True)
-        subprocess.call('xdg-open htmlcov/index.html', shell=True)
+        if sys.platform == 'darwin':
+            subprocess.call('open htmlcov/index.html', shell=True)
+        else:
+            subprocess.call('xdg-open htmlcov/index.html', shell=True)
 
 
 def test():

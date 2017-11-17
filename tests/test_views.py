@@ -149,9 +149,9 @@ class CERPTestCase(unittest.TestCase):
             self.convert_to_json(
                 self.app.get('/api/not_an_endpoint'))['result'])
 
-        cerp.app.testing = False
-        self.app2 = cerp.app.test_client()
+        try:
+            self.app.get('/api/Presidential Election-2016/dasfasdfa/meta')
+            self.assertTrue(False, "Should be invalid endpoint")
+        except KeyError as e:
+            self.assertIn("dasfasdfa", str(e))
 
-        with self.assertRaises(KeyError) as context:
-            self.app2.get('/api/Presidential Election-2016/dasfasdfa/meta')
-        self.assertEqual(str(context.exception), "'dasfasdfa'")
