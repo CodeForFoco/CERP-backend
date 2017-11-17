@@ -16,19 +16,31 @@ class CERPTestCase(unittest.TestCase):
         """ Is there an index page in the app """
         self.assertIn(b'<html>', self.app.get('/').data)
 
+    def test_topics(self):
+        """ Is there an index page in the app """
+        page = self.convert_to_json(
+            self.app.get('/api/topics')
+        )
+        self.assertTrue(page['result'])
+        self.assertTrue(isinstance(page['topics'], list))
+
     def test_api(self):
+        """ Insure the self discovery is working """
         endpoints = self.convert_to_json(self.app.get('/api'))
         self.assertIn('/', endpoints['paths'])
         self.assertIn('/api', endpoints['paths'])
         self.assertIn(
-            '/api/presidential/<precinctNum>/pie',
+            '/api/<topic>/<precinctNum>/pie',
             endpoints['paths']
         )
         self.assertTrue(endpoints['result'])
 
     def test_presidential_precinct_pie(self):
+        """ TEST ENDPOINT /api/<topic>/<precNum>/pie for:
+        Valid Number, all, and invalid Number """
+
         page = self.convert_to_json(
-            self.app.get('/api/presidential/2235235101/pie')
+            self.app.get('/api/Presidential Election-2016/2235235101/pie')
         )
         # Result was found
         self.assertTrue(page['result'])
@@ -42,9 +54,35 @@ class CERPTestCase(unittest.TestCase):
             self.assertTrue(isinstance(item[0], str))
             self.assertTrue(isinstance(item[1], int))
 
+        # Test Bad Case
+        page = self.convert_to_json(
+            self.app.get('/api/Presidential Election-2016/223523510199999/pie')
+        )
+        # Result was found
+        self.assertFalse(page['result'])
+        # data is a list
+        self.assertEqual(page['data'], None)
+        self.assertTrue(isinstance(page['reason'], str))
+
+        # Test All Case
+        page = self.convert_to_json(
+            self.app.get('/api/Presidential Election-2016/all/pie')
+        )
+        # Result was found
+        self.assertTrue(page['result'])
+        # data is a list
+        self.assertTrue(isinstance(page['data'], list))
+        # data has at least 100 items
+        self.assertEqual(len(page['data']), 22)
+        # data items match designated shape
+        for item in page['data']:
+            self.assertTrue(isinstance(item, list))
+            self.assertTrue(isinstance(item[0], str))
+            self.assertTrue(isinstance(item[1], int))
+
     def test_presidential_precinct_meta(self):
         page = self.convert_to_json(
-            self.app.get('/api/presidential/2235235101/meta')
+            self.app.get('/api/Presidential Election-2016/2235235101/meta')
         )
         # Result was found
         self.assertTrue(page['result'])
@@ -58,53 +96,62 @@ class CERPTestCase(unittest.TestCase):
         for item in page['data']:
             self.assertTrue(isinstance(page['data'][item], (int, float)))
 
-    def test_presidential_all_heatmap(self):
         page = self.convert_to_json(
-            self.app.get('/api/presidential/all/heatmap')
+            self.app.get('/api/Presidential Election-2016/all/meta')
         )
         # Result was found
         self.assertTrue(page['result'])
-        # data is a list
+        # data is a dict
         self.assertTrue(isinstance(page['data'], dict))
-        # data has at least 100 keys (key = precint)
-        self.assertGreater(len(page['data']), 100)
+        # Keys are known, and only what we expect
+        keys = set(['percentTurnout', 'registeredVoters', 'totalVotes'])
+
         for item in page['data']:
-            self.assertTrue(isinstance(item, str))
-            self.assertTrue(isinstance(page['data'][item], str))
-            self.assertIn(page['data'][item], ["#3366cc", "#dc3912"])
+            self.assertEqual(page['data'][item].keys(), keys)
+            # values are numbers
+            for sub_item in page['data'][item]:
+                self.assertTrue(
+                    isinstance(
+                        page['data'][item][sub_item], (int, float)))
 
-    def test_colorize(self):
-        """ Helper function for heatmap, this just
-        validates the colors haven't been switched """
-        self.assertEqual(cerp.views.colorize(2, 1), "#dc3912")
-        self.assertEqual(cerp.views.colorize(1, 2), "#3366cc")
-
-    def test_presidential_all_diff(self):
+    def test_api_topic_precinctNum_valid(self):
         page = self.convert_to_json(
-            self.app.get('/api/presidential/all/diff')
+            self.app.get('/api/Presidential Election-2016/2235235101/valid')
         )
         # Result was found
         self.assertTrue(page['result'])
-        # data is a list
-        self.assertTrue(isinstance(page['data'], dict))
-        # data has at least 100 keys (key = precint)
-        self.assertGreater(len(page['data']), 100)
-        for item in page['data']:
-            self.assertTrue(isinstance(item, str))
-            self.assertTrue(isinstance(page['data'][item], int))
+        self.assertTrue(page['data'])
 
-    def test_presidential_all_pie(self):
         page = self.convert_to_json(
-            self.app.get('/api/presidential/all/pie')
+            self.app.get('/api/Presidential Election-2016/all/valid')
         )
         # Result was found
         self.assertTrue(page['result'])
-        # data is a list
         self.assertTrue(isinstance(page['data'], list))
-        # data has at least 100 items
-        self.assertEqual(len(page['data']), 2)
-        # data items match designated shape
-        for item in page['data']:
-            self.assertTrue(isinstance(item, list))
-            self.assertTrue(isinstance(item[0], str))
-            self.assertTrue(isinstance(item[1], int))
+
+    def test_api_topic_precinctNum_diff(self):
+        page = self.convert_to_json(
+            self.app.get('/api/Presidential Election-2016/2235235101/valid')
+        )
+        # Result was found
+        self.assertTrue(page['result'])
+        self.assertTrue(page['data'])
+
+        page = self.convert_to_json(
+            self.app.get('/api/Presidential Election-2016/all/valid')
+        )
+        # Result was found
+        self.assertTrue(page['result'])
+        self.assertTrue(isinstance(page['data'], list))
+
+    def test_404_500(self):
+        self.assertFalse(
+            self.convert_to_json(
+                self.app.get('/api/not_an_endpoint'))['result'])
+
+        cerp.app.testing = False
+        self.app2 = cerp.app.test_client()
+
+        with self.assertRaises(KeyError) as context:
+            self.app2.get('/api/Presidential Election-2016/dasfasdfa/meta')
+        self.assertEqual(str(context.exception), "'dasfasdfa'")

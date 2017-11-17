@@ -15,7 +15,7 @@ class ValidPrecientsPresData(unittest.TestCase):
     # Start by loading the precients from the two files
 
     # This is from the PDF work
-    with open("cerp/static/2016-PresidentialElection.json") as file_handler:
+    with open("cerp/static/microdata/2016-PresidentialElection.json") as file_handler:
         pres_data = json.load(file_handler)
         pres_precients = [x['precinctNumber'] for x in pres_data['precincts']]
 
