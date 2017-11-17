@@ -5,6 +5,7 @@ import json
 import os
 import pandas as pd
 
+
 def get_voter_data():
     """
         This is a factory that parses all provided json voter documents
@@ -17,7 +18,7 @@ def get_voter_data():
                         "data": pd.DataFrame
                         "meta": {}
                 }
-            } 
+            }
 
         The "data" key has value of a pandas dataframe of the format:
 
@@ -28,13 +29,14 @@ def get_voter_data():
 
 
         The "meta" key returns a dictionary of all meta data associated with
-        the issue 
+        the issue
     """
 
     full_data = {}
-    path = "cerp/static/microdata";
-    
-    # Iterate through each file in the microdata directory and load its contents
+    path = "cerp/static/microdata"
+
+    # Iterate through each file in the microdata directory and load its
+    # contents
     for file in os.listdir(path=path):
 
         # Open .json only
@@ -53,9 +55,9 @@ def get_voter_data():
                     dct['precinctNumber'] = row['precinctNumber']
                     result.append(dct)
             final_df = pd.DataFrame(result).pivot(
-            index='precinctNumber',
-            columns='candidate',
-            values='votes')
+                index='precinctNumber',
+                columns='candidate',
+                values='votes')
 
             # Create the meta dictionary
             meta_obj = {}
@@ -68,7 +70,7 @@ def get_voter_data():
             # Add dataframe and meta to the full dictionary
             full_data[data['topic'] + "-" + data['year']] = {}
             full_data[data['topic'] + "-" + data['year']]['data'] = final_df
-            full_data[data['topic'] + "-" + data['year']]['meta'] = meta_obj    
+            full_data[data['topic'] + "-" + data['year']]['meta'] = meta_obj
 
     return full_data
 

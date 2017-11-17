@@ -1,9 +1,18 @@
 """
     The controls all the endpoints
 """
-import json
 from flask import jsonify, render_template
 from cerp import app, data
+
+
+@app.errorhandler(404)
+def pageNotFound(error):
+    return jsonify(result=False, reason="Page Not Found")
+
+
+@app.errorhandler(500)
+def ise(error):
+    return jsonify(result=False, reason="Internal Server Error")
 
 
 @app.route('/')
@@ -22,24 +31,39 @@ def api():
     ))
 
 
-@app.route('/api/presidential/<precinctNum>/pie')
-def presidential_precinct_pie(precinctNum):
+@app.route("/api/topics")
+def topics():
+    """ List all topics available """
+    return jsonify(result=True, topics=sorted(data.ELECTION_DATA.keys()))
+
+
+@app.route('/api/<topic>/<precinctNum>/pie')
+def topic_pie(topic, precinctNum):
     """
-        Generate a highcharts pie friendly dataset for each precient
+        Generate a highcharts pie friendly dataset
 
         output:
             [
                 [
-                    'Trump/Pence' (str),
+                    'Vote1' (str),
                     value (int)
                 ],
                 [
-                    'Clinton/Kaine' (str),
+                    'Vote1' (str),
                     value (int)
                 ]
             ],
     """
-    d = data.PRESIDENTIAL_ELECTION_CANADITS_16.loc[precinctNum]
+    if precinctNum != "all":
+        try:
+            d = data.ELECTION_DATA[topic]['data'].loc[precinctNum]
+        except KeyError as e:
+            return jsonify(
+                result=False,
+                data=None,
+                reason=str(e) + " is not a known precinct for this topic")
+    else:
+        d = data.ELECTION_DATA[topic]['data'].sum()
 
     return jsonify(
         result=True,
@@ -50,8 +74,42 @@ def presidential_precinct_pie(precinctNum):
     )
 
 
-@app.route('/api/presidential/<precinctNum>/meta')
-def presidential_precinct_meta(precinctNum):
+@app.route('/api/<topic>/<precinctNum>/valid')
+def topic_valid(topic, precinctNum):
+    """
+    """
+    d = list(data.ELECTION_DATA[topic]['data'].index.values)
+    if precinctNum != "all":
+        return jsonify(
+            result=True,
+            data=precinctNum in d
+        )
+    else:
+        return jsonify(
+            result=True,
+            data=d
+        )
+
+
+# @app.route('/api/<topic>/<precinctNum>/diff')
+# def topic_diff(topic, precinctNum):
+
+#     if precinctNum != "all":
+#         d = data.ELECTION_DATA[topic]['data'].loc[precinctNum]
+#     else:
+#         d = data.ELECTION_DATA[topic]['data'].sum()
+
+#     return jsonify(
+#         result=True,
+#         data=[
+#             [name, int(vaue)]
+#             for name, vaue in zip(d.keys(), d.values)
+#         ]
+#     )
+
+
+@app.route('/api/<topic>/<precinctNum>/meta')
+def topic_meta(topic, precinctNum):
     """
         Return meta data about each precinct's election result
 
@@ -62,89 +120,13 @@ def presidential_precinct_meta(precinctNum):
                 "totalVotes": num
             },
     """
-    return jsonify(
-        result=True,
-        data=data.PRESIDENTIAL_ELECTION_CANADITS_16_META[precinctNum]
-    )
-
-
-def colorize(n1, n2):
-    """
-        Returns the color for each diff, based on who got more votes.
-        Needs to be expaned to use a color range
-    """
-    if (-1 * n1) + n2 > 0:
-        return "#3366cc"
-    return "#dc3912"
-
-
-@app.route('/api/presidential/all/heatmap')
-def presidential_all_heatmap():
-    """
-        Returns an object containing each of the precents and their color:
-        data: {
-            precent: color,
-            precent: color,
-            ...
-        }
-    """
-
-    prez = data.PRESIDENTIAL_ELECTION_CANADITS_16
-    prez = prez[['Trump/Pence', 'Clinton/Kaine']].copy()
-    prez['diff'] = prez.apply(
-        lambda row: colorize(row['Trump/Pence'], row['Clinton/Kaine']),
-        axis=1
-    )
-    prez = prez[['diff']].copy()
-    return jsonify(result=True, data=json.loads(prez.to_json())['diff'])
-
-
-@app.route('/api/presidential/all/diff')  # if used, change to heatmap
-def presidential_all_diff():
-    """
-        Returns an object containing each of the precents and their color:
-        data: {
-            precent: diff,
-            precent: diff,
-            ...
-        }
-    """
-
-    prez = data.PRESIDENTIAL_ELECTION_CANADITS_16
-    prez = prez[['Trump/Pence', 'Clinton/Kaine']].copy()
-    prez['diff'] = prez.apply(
-        lambda row: (-1 * row['Trump/Pence']) + row['Clinton/Kaine'],
-        axis=1
-    )
-    prez = prez[['diff']].copy()
-    return jsonify(result=True, data=json.loads(prez.to_json())['diff'])
-
-
-@app.route('/api/presidential/all/pie')
-def presidential_all_pie():
-    """
-        Generate a highcharts pie friendly dataset for all precients (sum)
-
-        output:
-            [
-                [
-                    'Trump/Pence' (str),
-                    value (int)
-                ],
-                [
-                    'Clinton/Kaine' (str),
-                    value (int)
-                ]
-            ]
-    """
-    prez = data.PRESIDENTIAL_ELECTION_CANADITS_16
-    prez = prez[['Trump/Pence', 'Clinton/Kaine']].copy()
-    prez = prez.sum()  # prez is now a series
-
-    return jsonify(
-        result=True,
-        data=[
-            [name, int(vaue)]
-            for name, vaue in zip(prez.keys(), prez.values)
-        ]
-    )
+    if precinctNum != 'all':
+        return jsonify(
+            result=True,
+            data=data.ELECTION_DATA[topic]['meta'][precinctNum]
+        )
+    else:
+        return jsonify(
+            result=True,
+            data=data.ELECTION_DATA[topic]['meta']
+        )
