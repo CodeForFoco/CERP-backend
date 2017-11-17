@@ -4,6 +4,7 @@ import cerp
 
 
 class CERPTestCase(unittest.TestCase):
+    DEPLOY = False
 
     def setUp(self):
         cerp.app.testing = True
@@ -154,4 +155,7 @@ class CERPTestCase(unittest.TestCase):
             self.assertTrue(False, "Should be invalid endpoint")
         except KeyError as e:
             self.assertIn("dasfasdfa", str(e))
+
+    def test_stop_heroku(self):
+        self.assertTrue(self.DEPLOY)
 
