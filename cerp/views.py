@@ -1,8 +1,9 @@
 """
     The controls all the endpoints
 """
-from flask import jsonify, render_template
+from flask import jsonify, render_template, request
 from cerp import app, data
+import json
 
 
 @app.errorhandler(404)
@@ -91,22 +92,25 @@ def topic_valid(topic, precinctNum):
         )
 
 
-# @app.route('/api/<topic>/<precinctNum>/diff')
-# def topic_diff(topic, precinctNum):
+@app.route('/api/<topic>/<precinctNum>/diff')
+def topic_diff(topic, precinctNum):
+    comp1 = request.args.get('comp1', 'YES/FOR')
+    comp2 = request.args.get('comp2', 'NO/AGAINST')
 
-#     if precinctNum != "all":
-#         d = data.ELECTION_DATA[topic]['data'].loc[precinctNum]
-#     else:
-#         d = data.ELECTION_DATA[topic]['data'].sum()
+    if precinctNum != 'all':
+        d = data.ELECTION_DATA[topic]['data'].loc[precinctNum]
+        diff_data = (-1 * d[comp1]) + d[comp2]
+        return jsonify(result=True, data=int(diff_data))
 
-#     return jsonify(
-#         result=True,
-#         data=[
-#             [name, int(vaue)]
-#             for name, vaue in zip(d.keys(), d.values)
-#         ]
-#     )
-
+    d = data.ELECTION_DATA[topic]['data']
+    diff_data = d[[comp1, comp2]].copy()
+    diff_data['diff'] = diff_data.apply(
+        lambda row: (-1 * row[comp1]) + row[comp2],
+        axis=1
+    )
+    diff_data = diff_data[['diff']].copy()
+    return jsonify(result=True, data=json.loads(diff_data.to_json())['diff'])
+    
 
 @app.route('/api/<topic>/<precinctNum>/meta')
 def topic_meta(topic, precinctNum):

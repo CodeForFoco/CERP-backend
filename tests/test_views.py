@@ -131,18 +131,18 @@ class CERPTestCase(unittest.TestCase):
 
     def test_api_topic_precinctNum_diff(self):
         page = self.convert_to_json(
-            self.app.get('/api/Presidential Election-2016/2235235101/valid')
+            self.app.get('/api/Presidential Election-2016/2235235101/diff?comp1=Clinton/Kaine&comp2=Trump/Pence')
         )
         # Result was found
         self.assertTrue(page['result'])
         self.assertTrue(page['data'])
 
         page = self.convert_to_json(
-            self.app.get('/api/Presidential Election-2016/all/valid')
+            self.app.get('/api/Presidential Election-2016/all/diff?comp1=Clinton/Kaine&comp2=Trump/Pence')
         )
         # Result was found
         self.assertTrue(page['result'])
-        self.assertTrue(isinstance(page['data'], list))
+        self.assertTrue(isinstance(page['data'], dict))
 
     def test_404_500(self):
         self.assertFalse(
