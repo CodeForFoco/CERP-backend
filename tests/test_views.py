@@ -4,7 +4,6 @@ import cerp
 
 
 class CERPTestCase(unittest.TestCase):
-    DEPLOY = False
 
     def setUp(self):
         cerp.app.testing = True
@@ -131,16 +130,14 @@ class CERPTestCase(unittest.TestCase):
         self.assertTrue(isinstance(page['data'], list))
 
     def test_api_topic_precinctNum_diff(self):
-        page = self.convert_to_json(
-            self.app.get('/api/Presidential Election-2016/2235235101/diff?comp1=Clinton/Kaine&comp2=Trump/Pence')
-        )
+        page = self.convert_to_json(self.app.get(
+            '/api/Presidential Election-2016/2235235101/diff?comp1=Clinton/Kaine&comp2=Trump/Pence'))
         # Result was found
         self.assertTrue(page['result'])
         self.assertTrue(page['data'])
 
-        page = self.convert_to_json(
-            self.app.get('/api/Presidential Election-2016/all/diff?comp1=Clinton/Kaine&comp2=Trump/Pence')
-        )
+        page = self.convert_to_json(self.app.get(
+            '/api/Presidential Election-2016/all/diff?comp1=Clinton/Kaine&comp2=Trump/Pence'))
         # Result was found
         self.assertTrue(page['result'])
         self.assertTrue(isinstance(page['data'], dict))
@@ -150,12 +147,15 @@ class CERPTestCase(unittest.TestCase):
             self.convert_to_json(
                 self.app.get('/api/not_an_endpoint'))['result'])
 
-        try:
-            self.app.get('/api/Presidential Election-2016/dasfasdfa/meta')
-            self.assertTrue(False, "Should be invalid endpoint")
-        except KeyError as e:
-            self.assertIn("dasfasdfa", str(e))
-
-    def test_stop_heroku(self):
-        self.assertTrue(self.DEPLOY)
-
+        # Normally in debug mode, the 500 errors are caught and diplayed nicely
+        # so we can quickly fix them.  However to test that the api is actually
+        # sending a json object when something goes wrong, we need to mimic the
+        # production settings
+        cerp.app.testing = False
+        cerp.app.debug = False
+        # This stops scary messages from populating the test environ over
+        # something we designed to fail
+        cerp.app.logger.disabled = True
+        prod_app = cerp.app.test_client()
+        self.assertFalse(self.convert_to_json(prod_app.get(
+            '/api/Presidential Election-2016/dasfasdfa/meta'))['result'])
