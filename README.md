@@ -75,7 +75,7 @@ python manage.py test
 python manage.py t
 ```
 
-To generate a coverage report and update the `Coveralls` badge:
+To generate a coverage report:
 
 ```bash
 python manage.py coverage
