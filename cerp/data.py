@@ -67,10 +67,11 @@ def get_voter_data():
                 del precinct["precinctNumber"]
                 meta_obj[pnum] = precinct
 
+            sanitized_topic = data['topic'].replace(" ", "")
             # Add dataframe and meta to the full dictionary
-            full_data[data['topic'] + "-" + data['year']] = {}
-            full_data[data['topic'] + "-" + data['year']]['data'] = final_df
-            full_data[data['topic'] + "-" + data['year']]['meta'] = meta_obj
+            full_data[sanitized_topic + "-" + data['year']] = {}
+            full_data[sanitized_topic + "-" + data['year']]['data'] = final_df
+            full_data[sanitized_topic + "-" + data['year']]['meta'] = meta_obj
 
     return full_data
 
