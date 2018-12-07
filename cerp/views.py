@@ -111,6 +111,24 @@ def topic_diff(topic, precinctNum):
     diff_data = diff_data[['diff']].copy()
     return jsonify(result=True, data=json.loads(diff_data.to_json())['diff'])
     
+@app.route('/api/<topic>/<precinctNum>/relativeDiff')
+def topic_relativeDiff(topic, precinctNum):
+    comp1 = request.args.get('comp1', 'YES/FOR')
+    comp2 = request.args.get('comp2', 'NO/AGAINST')
+
+    if precinctNum != 'all':
+        d = data.ELECTION_DATA[topic]['data'].loc[precinctNum]
+        diff_data = ((-1 * d[comp1]) + d[comp2])/(d[comp1] + d[comp2])
+        return jsonify(result=True, data=int(diff_data))
+
+    d = data.ELECTION_DATA[topic]['data']
+    diff_data = d[[comp1, comp2]].copy()
+    diff_data['diff'] = diff_data.apply(
+        lambda row: ((-1 * row[comp1]) + row[comp2])/(row[comp1] + row[comp2]),
+        axis=1
+    )
+    diff_data = diff_data[['diff']].copy()
+    return jsonify(result=True, data=json.loads(diff_data.to_json())['diff'])
 
 @app.route('/api/<topic>/<precinctNum>/meta')
 def topic_meta(topic, precinctNum):
@@ -134,3 +152,7 @@ def topic_meta(topic, precinctNum):
             result=True,
             data=data.ELECTION_DATA[topic]['meta']
         )
+
+@app.route('/api/<topic>/<precinctNum>/heatmap')
+def topic_heatmap(topic, precinctNum):
+    pass
