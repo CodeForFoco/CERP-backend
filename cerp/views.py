@@ -113,6 +113,10 @@ def topic_diff(topic, precinctNum):
     
 @app.route('/api/<topic>/<precinctNum>/relativeDiff')
 def topic_relativeDiff(topic, precinctNum):
+    step, diff_data = prepare_heatmap(topic, precinctNum, request)
+    return jsonify(result=True, step=step, data=diff_data)
+
+def prepare_heatmap(topic, precinctNum, request):
     comp1 = request.args.get('comp1', 'YES/FOR')
     comp2 = request.args.get('comp2', 'NO/AGAINST')
 
@@ -127,8 +131,19 @@ def topic_relativeDiff(topic, precinctNum):
         lambda row: ((-1 * row[comp1]) + row[comp2])/(row[comp1] + row[comp2]),
         axis=1
     )
-    diff_data = diff_data[['diff']].copy()
-    return jsonify(result=True, data=json.loads(diff_data.to_json())['diff'])
+    diff_data = diff_data[['diff']].copy()['diff'].to_dict()
+    step = abs(max(max(diff_data.values()), min(diff_data.values()), key=abs))
+    step = step/10
+    return step, diff_data
+
+@app.route('/api/<topic>/<precinctNum>/heatmap')
+def topic_heatmap(topic, precinctNum):
+    step, diff_data = prepare_heatmap(topic, precinctNum, request)
+
+    for key, value in diff_data.items():
+        diff_data[key] = round(value/step)
+
+    return jsonify(result=True, step=step, data=diff_data)
 
 @app.route('/api/<topic>/<precinctNum>/meta')
 def topic_meta(topic, precinctNum):
@@ -152,7 +167,3 @@ def topic_meta(topic, precinctNum):
             result=True,
             data=data.ELECTION_DATA[topic]['meta']
         )
-
-@app.route('/api/<topic>/<precinctNum>/heatmap')
-def topic_heatmap(topic, precinctNum):
-    pass
